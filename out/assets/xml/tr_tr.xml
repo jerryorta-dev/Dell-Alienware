@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<copy>
+    <language>en</language>
+    <embedFonts>true</embedFonts>
+    <hero>
+        <title><![CDATA[Yeni Alienware Dizüstü Bilgisayarlar]]></title>
+        <headline><![CDATA[ZAFER İÇİN TASARLANDI]]></headline>
+        <subhead><![CDATA[Yeni nesil Alienware dizüstü bilgisayarlarla yeni dünyalar fethedin.]]></subhead>
+        <cta><![CDATA[KONTROL SİZDE OLSUN]]></cta>
+    </hero>
+    <shell>
+        <nav>
+            <item id="1">
+                <title><![CDATA[TASARIM]]></title>
+            </item>
+            <item id="2">
+                <title><![CDATA[COMMAND<br />CENTER]]></title>
+            </item>
+            <item id="3">
+                <title><![CDATA[ALIENFX'İ<br />KEŞFEDİN]]></title>
+            </item>
+            <item ie="4">
+                <title><![CDATA[GALERİ]]></title>
+            </item>
+            <item ie="5">
+                <title><![CDATA[VİDEO]]></title>
+            </item>
+        </nav>
+        <buttons>
+            <buyNow>
+                <title><![CDATA[Kendiniz İçin Bir Tane Oluşturun]]></title>
+            </buyNow>
+        </buttons>
+    </shell>
+    <design>
+        <buttons>
+            <button name="onOff">
+                <on><![CDATA[Açık]]></on>
+                <off><![CDATA[Kapalı]]></off>
+            </button>
+        </buttons>
+        <Alienware14 name="aw14">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Sağlam gövde]]></title>
+                    <copy><![CDATA[Anotlanmış alüminyum iskelet ve magnezyum alaşımlı çerçeve, LCD'nizi korur.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Dayanıklı menteşe]]></title>
+                    <copy>
+                        <![CDATA[20.000 kez açılıp kapanabilecek şekilde tasarlanmış bir menteşe ile dayanıklılığa güvenebilirsiniz.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Büyüleyici aydınlatma ]]></title>
+                    <copy><![CDATA[10 milyardan fazla renk kombinasyonuyla dış aydınlatmanızı özelleştirin.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Bağlantı Noktaları]]></title>
+                    <copy><![CDATA[Medya dosyalarını daha hızlı bir şekilde indirmek için birden fazla bağlantı noktasıyla tüm oyun donanımınızı bağlayın.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Yeni şık tasarım]]></title>
+                    <copy><![CDATA[Benzersiz olarak tasarlanmış bir sistemle standart olandan sıyrılın.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Maksimum taşınabilirlik]]></title>
+                    <copy>
+                        <![CDATA[Mükemmel pil ömrüyle Alienware 14, her yerde yüksek yoğunlukta oyun deneyimi için tasarlandı.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[En son grafik kartı <br>ve işlemciler]]></title>
+                    <copy>
+                        <![CDATA[En hızlı performans ve en gelişmiş grafik kartı teknolojisi ile yoğunluğun sınırlarını zorlayın.]]></copy>
+                </item>
+                <item name="feature8">
+                    <title><![CDATA[Tam HD ekran]]></title>
+                    <copy>
+                        <![CDATA[Arkadan aydınlatmalı klavye ve parlama önleyici kaplamaya sahip 14” Tam HD ekran ile hava karardıktan sonra da oyun oynayın.]]></copy>
+                </item>
+            </features>
+        </Alienware14>
+        <Alienware17 name="aw17">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Sağlam gövde]]></title>
+                    <copy><![CDATA[Anotlanmış alüminyum iskelet ve magnezyum alaşımlı çerçeve LCD'nizi korur.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Dayanıklı menteşe]]></title>
+                    <copy>
+                        <![CDATA[20.000 kez açılıp kapanabilecek şekilde tasarlanmış bir menteşe ile dayanıklılığa güvenebilirsiniz.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Büyüleyici aydınlatma ]]></title>
+                    <copy><![CDATA[10 milyardan fazla renk kombinasyonuyla dış aydınlatmanızı özelleştirin.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Bağlantı Noktaları]]></title>
+                    <copy><![CDATA[Medya dosyalarını daha hızlı bir şekilde indirmek için birden fazla bağlantı noktasıyla tüm oyun donanımınızı bağlayın.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Yeni şık tasarım]]></title>
+                    <copy><![CDATA[Benzersiz olarak tasarlanmış bir sistemle standarttan sıyrılın.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[En son grafik kartı <br>ve işlemciler]]></title>
+                    <copy>
+                        <![CDATA[En hızlı performans ve en gelişmiş grafik kartı teknolojisi ile yoğunluğun sınırlarını zorlayın.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Tam HD ekran]]></title>
+                    <copy>
+                        <![CDATA[Arkadan aydınlatmalı klavye ve parlama önleyici kaplamaya sahip 17,3” Tam HD ekran ile hava karardıktan sonra da oyun oynayın.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware17>
+        <Alienware18 name="aw18">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Sağlam gövde]]></title>
+                    <copy><![CDATA[Anotlanmış alüminyum iskelet ve magnezyum alaşımlı çerçeve, LCD'nizi korur.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Dayanıklı menteşe]]></title>
+                    <copy>
+                        <![CDATA[20.000 kez açılıp kapanabilecek şekilde tasarlanmış bir menteşe ile dayanıklılığa güvenebilirsiniz.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Büyüleyici aydınlatma]]></title>
+                    <copy><![CDATA[10 milyardan fazla renk kombinasyonuyla dış aydınlatmanızı özelleştirin.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Bağlantı Noktaları]]></title>
+                    <copy><![CDATA[Medya dosyalarını daha hızlı bir şekilde indirmek için birden fazla bağlantı noktasıyla tüm oyun donanımınızı bağlayın.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Yeni şık tasarım]]></title>
+                    <copy><![CDATA[Benzersiz olarak tasarlanmış bir sistemle standart olandan sıyrılın.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[En son grafik kartı <br>ve işlemciler]]></title>
+                    <copy>
+                        <![CDATA[En hızlı performans, çift grafik kartı ve isteğe bağlı hız aşırtma özelliğiyle yoğunluğun sınırlarını zorlayın.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Tam HD ekran]]></title>
+                    <copy>
+                        <![CDATA[Arkadan aydınlatmalı klavye ve TrueLife™ özellikli geniş bir 18,4” Tam HD ekran ile hava karardıktan sonra da oyun oynayın.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware18>
+    </design>
+    <commandCenter>
+        <tab>
+            <title><![CDATA[Genel Bakış]]></title>
+            <image>
+                <header><![CDATA[Command Center]]></header>
+                <copy>
+                    <![CDATA[Yeniden tasarlanan Alienware Command Center ile oyunda kontrolü elinize alın. Tamamen tek bir merkezden kendi aydınlatmanızı ve özel efektlerinizi seçin, performansınızı artırın, oyunla ilgili sonuçları izleyin ve daha fazlasını yapın.]]></copy></image>
+
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFX]]></title>
+            <image>
+                <header><![CDATA[Temalar]]></header>
+                <copy>
+                    <![CDATA[Kendinizi eşsiz bir görünümle ifade etmek için kendi özel efektlerinizi ve temalarınızı oluşturun.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Işık Efektleri ve Programlanabilir Olaylar]]></header>
+                <copy>
+                    <![CDATA[20 renkten oluşan bir paletle palette bölgelerinizi renk değiştirecek, düzenli bir şekilde sinyal verecek, sabit kalacak veya bir uyarı gösterecek şekilde ayarlayın.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[AlienFX Özellikli Oyunlar]]></header>
+                <copy>
+                    <![CDATA[55'ten fazla AlienFX uyumlu oyunda oyunla ilgili olaylara göre ışık efektlerini özelleştirin.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienAdreneline]]></title>
+            <image>
+                <header><![CDATA[Oyun Modu]]></header>
+                <copy>
+                    <![CDATA[Oyununuzun veya uygulamanızın temalarla veya VOIP ile nasıl başladığını özelleştirin ve hangilerinin başlatmadan sona açık veya kapalı kalmasını istediğinize göre kişiselleştirin.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Hızlandırıcı]]></header>
+                <copy>
+                    <![CDATA[Gerekli olmayan Windows tabanlı uygulamaları geçici olarak kapatarak sisteminizin hızını artırın. Yapılandırmanız değişmez ve oyun bittiğinde orijinal haline geri döner.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Performans İzleme]]></header>
+                <copy>
+                    <![CDATA[Performansı izleyip sorunları gerçek zamanlı olarak veya daha sonra belirlemenize olanak tanıyan bir araçla sabit sürücünüzü, belleğinizi, ağınızı, işlemcinizi veya grafik kartı kullanımınızı izleyin.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTactX]]></title>
+            <image>
+                <header><![CDATA[Kullanıcı Tarafından Programlanabilen Makro Tuşları]]></header>
+                <copy>
+                    <![CDATA[Dikey ve yatay makro tuşlarına farklı işlevler atayın. Bir dizi tuş vuruşunu birleştirin, e-postalarınız, web veya oram oynatıcınız için hazır ayarlar oluşturun veya bir düğmeye basıldığında bir programı başlatabilen kısayollar ayarlayın. Yalnızca Alienware 17 ve Alienware 18 bilgisayarda kullanılabilir.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Profilleri İçe ve Dışa Aktarma]]></header>
+                <copy>
+                    <![CDATA[Kendiniz kullanabileceğiniz ve arkadaşlarınızla paylaşabileceğiniz oyuna özgü profiller oluşturun. Oyun bittiğinde günlük kullanım için oyun harici bir profili geri yükleyin. Yalnızca Alienware 17 ve Alienware 18 bilgisayarda kullanılabilir.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTouch]]></title>
+            <image>
+                <header><![CDATA[Dokunma]]></header>
+                <copy>
+                    <![CDATA[“Dokun ve sürükle” veya “sürükleme kilidi” seçeneğini etkinleştirmek veya dokunma hareketlerini tamamen devre dışı bırakmak için ayarlarınızı özelleştirin.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Hassasiyet]]></header>
+                <copy>
+                    <![CDATA[Avcunuzla temasa daha fazla veya daha az hassas hale getirmek için dokunmatik yüzeyin hassasiyetini artırın veya azaltın.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Sanal Kaydırma]]></header>
+                <copy>
+                    <![CDATA[AlienTouch ile dikey ve yatay hareket kaydırma için kendi ayarlarınızı seçin ve ardından size en uygun kaydırma bölgelerinin boyutunu özelleştirin.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFusion]]></title>
+            <image>
+                <header><![CDATA[Hızlı Ayarlar]]></header>
+                <copy>
+                    <![CDATA[Güç kullanımınız üzerinde kontrolü ele alın. Kullanışlı hızlı ayarlar yüksek performans, dengeli veya güç tasarrufu modları arasından seçim yapmanıza olanak tanır.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Gelişmiş Ayarlar]]></header>
+                <copy>
+                    <![CDATA[Kablosuz bağdaştırıcı, grafik işlemci ve her türlü güç modunda size donanımınız üzerinde tam denetim sağlayacak diğer özellikler gibi bileşenlerin davranışını tek tek düzenleyin.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Özel Güç Planları]]></header>
+                <copy>
+                    <![CDATA[Farklı gereksinimlere uygun, sınırsız sayıda güç planı oluşturun. Belirli bir oyun için oynama deneyimini optimize edin, ardından AlienFusion arabiriminde planınızı kaydedin ve düzenleyin.  ]]></copy>
+            </image>
+        </tab>
+    </commandCenter>
+    <exploreLightingRx>
+        <copy><![CDATA[10.240 milyar olası kombinasyondan kendi özelleştirilebilir aydınlatmanızı oluşturun.]]></copy>
+        <button><![CDATA[denetimleri gizle]]></button>
+    </exploreLightingRx>
+    <gallery>
+        <image>
+            <title><![CDATA[Zafer bizim.]]></title>
+            <copy><![CDATA[Yeni nesil Alienware dizüstü bilgisayarlarla üstün oyun deneyimi yaşayın.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 14]]></title>
+            <copy><![CDATA[Her sırt çantasına uygun.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 17]]></title>
+            <copy><![CDATA[Masaüstü oyun performansı elde edin. Hem de masaüstü bilgisayar olmadan.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 18]]></title>
+            <copy><![CDATA[Evrendeki en güçlü 18 inç dizüstü oyun bilgisayarı.]]></copy>
+        </image>
+    </gallery>
+    <videoGallerr>
+        <video>
+            <productCategory><![CDATA[Anthem Video]]></productCategory>
+            <title><![CDATA[Alienware: Oyunun Galibi]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Ürün Uzmanı AW 14]]></productCategory>
+            <title><![CDATA[Alienware 14 Uzman Değerlendirmesi]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Ürün Uzmanı AW 17]]></productCategory>
+            <title><![CDATA[Alienware 17 Uzman Değerlendirmesi]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Ürün Uzmanı AW 18]]></productCategory>
+            <title><![CDATA[Alienware 18 Uzman Değerlendirmesi]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Ürün Kahramanı AW 14]]></productCategory>
+            <title><![CDATA[Yeni Alienware 14: Deneyin]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Ürün Kahramanı AW 17]]></productCategory>
+            <title><![CDATA[Yeni Alienware 17: Deneyin]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Ürün Kahramanı AW 18]]></productCategory>
+            <title><![CDATA[Yeni Alienware 18: Deneyin]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[EPIC Ailesi Kahramanı]]></productCategory>
+            <title><![CDATA[Yeni Alienware Dizüstü Bilgisayarlar: Üstün Oyun Deneyimi]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[EPIC Ailesinin Yapısı]]></productCategory>
+            <title><![CDATA[Epic Yolculuk: Alienware Dizüstü Bilgisayarların Yapısı]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Makine Arkası: Dahili Tasarım]]></productCategory>
+            <title><![CDATA[Makine Arkası: Dahili Tasarım]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Makine Arkası: EPIC Tasarım]]></productCategory>
+            <title><![CDATA[Makine Arkası: Endüstriyel Tasarım]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Makine Arkası: Command Center]]></productCategory>
+            <title><![CDATA[Makine Arkası: Command Center]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Makine Arkası: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: AlienFX™]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Makine Arkası: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: AlienTouch™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Makine Arkası: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: AlienFusion]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Makine Arkası: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: Alienware TactX™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Makine Arkası: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: AlienAdrenaline]]></title>
+        </video>
+    </videoGallerr>
+</copy>

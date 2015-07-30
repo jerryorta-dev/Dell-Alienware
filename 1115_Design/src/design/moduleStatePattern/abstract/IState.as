@@ -1,0 +1,1 @@
+﻿package design.moduleStatePattern.abstract{	//State Machine Interface	public interface IState	{		function activateDesign14():void;		function activateDesign17():void;		function activateDesign18():void;	}}

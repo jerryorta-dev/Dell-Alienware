@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <commandCenter>
+        <LoaderMax name="Overview1" tab="Overview"  load="false">
+            <ImageLoader tabItem="1" url="laptop-aw-interactive-cc-intro.png" name="intro" type="med" scaleMode="none"  />
+            <ImageLoader tabItem="1" url="laptop-aw-interactive-cc-intro-lrg.png" name="introLrg" type="lrg" scaleMode="none" />
+        </LoaderMax>
+        <LoaderMax name="AlienFX1" tab="AlienFX"  load="false">
+            <ImageLoader tabItem="2" url="laptop-aw-interactive-cc-1-alienfx-1.png" name="alienfx1" type="med" scaleMode="none" />
+            <ImageLoader tabItem="2" url="laptop-aw-interactive-cc-1-alienfx-1-lrg.png" name="alienfx1lrg" type="lrg" scaleMode="none" />
+        </LoaderMax>
+        <LoaderMax name="AlienFX2" tab="AlienFX"  load="false">
+            <ImageLoader tabItem="2" url="laptop-aw-interactive-cc-1-alienfx-2.png" name="alienfx2" type="med" scaleMode="none" />
+            <ImageLoader tabItem="2" url="laptop-aw-interactive-cc-1-alienfx-2-lrg.png" name="alienfx2lrg" type="lrg" scaleMode="none" />
+        </LoaderMax>
+        <LoaderMax name="AlienFX3" tab="AlienFX"  load="false">
+            <ImageLoader tabItem="2" url="laptop-aw-interactive-cc-1-alienfx-3.png" name="alienfx3" type="med" scaleMode="none" />
+            <ImageLoader tabItem="2" url="laptop-aw-interactive-cc-1-alienfx-3-lrg.png" name="alienfx3lrg" type="lrg" scaleMode="none" />
+        </LoaderMax>
+        <LoaderMax name="AlienAdreneline1" tab="AlienAdreneline"  load="false">
+            <ImageLoader tabItem="3" url="laptop-aw-interactive-cc-2-alienadrenaline-1.png" name="alienadrenaline1" type="med" scaleMode="none" />
+            <ImageLoader tabItem="3" url="laptop-aw-interactive-cc-2-alienadrenaline-1-lrg.png" name="alienadrenaline1lrg" type="lrg" scaleMode="none" />
+        </LoaderMax>
+        <LoaderMax name="AlienAdreneline2" tab="AlienAdreneline"  load="false">
+            <ImageLoader tabItem="3" url="laptop-aw-interactive-cc-2-alienadrenaline-2.png" name="alienadrenaline2" type="med" scaleMode="none" />
+            <ImageLoader tabItem="3" url="laptop-aw-interactive-cc-2-alienadrenaline-2-lrg.png" name="alienadrenaline2lrg" type="lrg" scaleMode="none" />
+        </LoaderMax>
+        <LoaderMax name="AlienAdreneline3" tab="AlienAdreneline"  load="false">
+            <ImageLoader tabItem="3" url="laptop-aw-interactive-cc-2-alienadrenaline-3.png" name="alienadrenaline3" type="med" scaleMode="none" />
+            <ImageLoader tabItem="3" url="laptop-aw-interactive-cc-2-alienadrenaline-3-lrg.png" name="alienadrenaline3lrg" type="lrg" scaleMode="none" />
+        </LoaderMax>
+        <LoaderMax name="AlienTactX1" tab="AlienTactX"  load="false">
+            <ImageLoader tabItem="4" url="laptop-aw-interactive-cc-3-alientactx-1.png" name="alientactx1" type="med" scaleMode="none" />
+            <ImageLoader tabItem="4" url="laptop-aw-interactive-cc-3-alientactx-1-lrg.png" name="alientactx1lrg" type="lrg" scaleMode="none" />
+        </LoaderMax>
+        <LoaderMax name="AlienTactX2" tab="AlienTactX"  load="false">
+            <ImageLoader tabItem="4" url="laptop-aw-interactive-cc-3-alientactx-2.png" name="alientactx2" type="med" scaleMode="none" />
+            <ImageLoader tabItem="4" url="laptop-aw-interactive-cc-3-alientactx-2-lrg.png" name="alientactx2lrg" type="lrg" scaleMode="none" />
+        </LoaderMax>
+        <LoaderMax name="AlienTouch1" tab="AlienTouch"  load="false">
+            <ImageLoader tabItem="5" url="laptop-aw-interactive-cc-4-alientouch-1.png" name="alientouch1" type="med" scaleMode="none" />
+            <ImageLoader tabItem="5" url="laptop-aw-interactive-cc-4-alientouch-1-lrg.png" name="alientouch1lrg" type="lrg" scaleMode="none" />
+        </LoaderMax>
+        <LoaderMax name="AlienTouch2" tab="AlienTouch"  load="false">
+            <ImageLoader tabItem="5" url="laptop-aw-interactive-cc-4-alientouch-2.png" name="alientouch2" type="med" scaleMode="none" />
+            <ImageLoader tabItem="5" url="laptop-aw-interactive-cc-4-alientouch-2-lrg.png" name="alientouch2lrg" type="lrg" scaleMode="none" />
+        </LoaderMax>
+        <LoaderMax name="AlienTouch3" tab="AlienTouch"  load="false">
+            <ImageLoader tabItem="5" url="laptop-aw-interactive-cc-4-alientouch-3.png" name="alientouch3" type="med" scaleMode="none" />
+            <ImageLoader tabItem="6" url="laptop-aw-interactive-cc-4-alientouch-3-lrg.png" name="alientouch3lrg" type="lrg" scaleMode="none" />
+        </LoaderMax>
+        <LoaderMax name="AlienFusion1" tab="AlienFusion"  load="false">
+            <ImageLoader tabItem="6" url="laptop-aw-interactive-cc-5-alienfusion-1.png" name="alienfusion1" type="med" scaleMode="none" />
+            <ImageLoader tabItem="6" url="laptop-aw-interactive-cc-5-alienfusion-1-lrg.png" name="alienfusion1lrg" type="lrg" scaleMode="none" />
+        </LoaderMax>
+        <LoaderMax name="AlienFusion2" tab="AlienFusion"  load="false">
+            <ImageLoader tabItem="6" url="laptop-aw-interactive-cc-5-alienfusion-2.png" name="alienfusion2" type="med" scaleMode="none" />
+            <ImageLoader tabItem="6" url="laptop-aw-interactive-cc-5-alienfusion-2-lrg.png" name="alienfusion2lrg" type="lrg" scaleMode="none" />
+        </LoaderMax>
+        <LoaderMax name="AlienFusion3" tab="AlienFusion"  load="false">
+            <ImageLoader tabItem="6" url="laptop-aw-interactive-cc-5-alienfusion-3.png" name="alienfusion3" type="med" scaleMode="none" />
+            <ImageLoader tabItem="6" url="laptop-aw-interactive-cc-5-alienfusion-3-lrg.png" name="alienfusion3lrg" type="lrg" scaleMode="none" />
+        </LoaderMax>
+
+
+
+    </commandCenter>
+
+</config>

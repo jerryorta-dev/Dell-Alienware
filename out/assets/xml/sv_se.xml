@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<copy>
+    <language>sv</language>
+    <embedFonts>true</embedFonts>
+    <hero>
+        <title><![CDATA[Nya bärbara Alienware-datorer]]></title>
+        <headline><![CDATA[UTFORMADE FÖR SEGER]]></headline>
+        <subhead><![CDATA[Erövra nya världar med nästa generations bärbara Alienware-datorer.]]></subhead>
+        <cta><![CDATA[TA BEFÄLET]]></cta>
+    </hero>
+    <shell>
+        <nav>
+            <item id="1">
+                <title><![CDATA[DESIGNA]]></title>
+            </item>
+            <item id="2">
+                <title><![CDATA[KOMMANDO-<br />CENTRAL]]></title>
+            </item>
+            <item id="3">
+                <title><![CDATA[UTFORSKA<br />ALIENFX]]></title>
+            </item>
+            <item ie="4">
+                <title><![CDATA[GALLERI]]></title>
+            </item>
+            <item ie="5">
+                <title><![CDATA[VIDEO]]></title>
+            </item>
+        </nav>
+        <buttons>
+            <buyNow>
+                <title><![CDATA[Bygg din egen]]></title>
+            </buyNow>
+        </buttons>
+    </shell>
+    <design>
+        <buttons>
+            <button name="onOff">
+                <on><![CDATA[På]]></on>
+                <off><![CDATA[Av]]></off>
+            </button>
+        </buttons>
+        <Alienware14 name="aw14">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Tålig stomme]]></title>
+                    <copy><![CDATA[Skalet i anodiserat aluminium och ramen i en magnesiumlegering skyddar LCD-skärmen.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Tåligt gångjärn]]></title>
+                    <copy>
+                        <![CDATA[Räkna med att ett gångjärn som är designat att öppnas och stängas upp till 20 000 gånger håller.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Enastående lyskraft ]]></title>
+                    <copy><![CDATA[Anpassa de externa lamporna med fler än tio miljarder färgkombinationer.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Portar]]></title>
+                    <copy><![CDATA[Anslut alla dina spelprylar till flera portar och hämta medier snabbare.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Elegant ny design]]></title>
+                    <copy><![CDATA[Slipp det vardagsgråa – använd ett väldesignat system med eget utseende.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Maximal bärbarhet]]></title>
+                    <copy>
+                        <![CDATA[Med sin långa batteritid är Alienware 14 utformad för spel med hög intensitet var som helst.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Den senaste grafiken <br>och de senaste processorerna]]></title>
+                    <copy>
+                        <![CDATA[Vrid upp intensiteten med den snabbaste och mest avancerade grafiken.]]></copy>
+                </item>
+                <item name="feature8">
+                    <title><![CDATA[Full HD-skärm]]></title>
+                    <copy>
+                        <![CDATA[Spela efter mörkrets inbrott med ett bakgrundsbelyst tangentbord och en 14-tums bildskärm i full HD med antireflexbeläggning.]]></copy>
+                </item>
+            </features>
+        </Alienware14>
+        <Alienware17 name="aw17">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Tålig stomme]]></title>
+                    <copy><![CDATA[Skalet i anodiserat aluminium och ramen i en magnesiumlegering skyddar LCD-skärmen.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Tåligt gångjärn]]></title>
+                    <copy>
+                        <![CDATA[Räkna med att ett gångjärn som är designat att öppnas och stängas upp till 20 000 gånger håller.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Enastående lyskraft ]]></title>
+                    <copy><![CDATA[Anpassa de externa lamporna med fler än tio miljarder färgkombinationer.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Portar]]></title>
+                    <copy><![CDATA[Anslut alla dina spelprylar till flera portar och hämta medier snabbare.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Elegant ny design]]></title>
+                    <copy><![CDATA[Slipp det vardagsgråa – använd ett väldesignat system med eget utseende.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Den senaste grafiken <br>och de senaste processorerna]]></title>
+                    <copy>
+                        <![CDATA[Vrid upp intensiteten med den snabbaste och mest avancerade grafiken.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Full HD-skärm]]></title>
+                    <copy>
+                        <![CDATA[Spela efter mörkrets inbrott med ett bakgrundsbelyst tangentbord och en 17,3-tums bildskärm i full HD med antireflexbeläggning.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware17>
+        <Alienware18 name="aw18">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Tålig stomme]]></title>
+                    <copy><![CDATA[Skalet i anodiserat aluminium och ramen i en magnesiumlegering skyddar LCD-skärmen.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Tåligt gångjärn]]></title>
+                    <copy>
+                        <![CDATA[Räkna med att ett gångjärn som är designat att öppnas och stängas upp till 20 000 gånger håller.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Enastående lyskraft]]></title>
+                    <copy><![CDATA[Anpassa de externa lamporna med fler än tio miljarder färgkombinationer.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Portar]]></title>
+                    <copy><![CDATA[Anslut alla dina spelprylar till flera portar och hämta medier snabbare.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Elegant ny design]]></title>
+                    <copy><![CDATA[Slipp det vardagsgråa – använd ett väldesignat system med eget utseende.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Den senaste grafiken <br>och de senaste processorerna]]></title>
+                    <copy>
+                        <![CDATA[Vrid upp intensiteten med de snabbaste dubbla grafikkorten och överklockning (tillval).]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Full HD-skärm]]></title>
+                    <copy>
+                        <![CDATA[Spela efter mörkrets inbrott med ett bakgrundsbelyst tangentbord och en enorm 18,4-tums bildskärm i full HD med TrueLife™.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware18>
+    </design>
+    <commandCenter>
+        <tab>
+            <title><![CDATA[Översikt]]></title>
+            <image>
+                <header><![CDATA[Kommandocentralen]]></header>
+                <copy>
+                    <![CDATA[Ta kontroll över spelet med hjälp av det nydesignade Alienware Command Center. Välj egna ljus- och specialeffekter, bli snabbare, övervaka resultat i spelet och mer – allt från ett och samma ställe.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFX]]></title>
+            <image>
+                <header>Teman</header>                                    Skapa dina egna specialeffekter och teman och uttryck dig själv med ett personligt utseende.<![CDATA[]]>
+
+</image>
+            
+            <image>
+                <header>Ljuseffekter och programmerbara händelser</header>                                    Ställ in dina zoner så att de ändrar färg, pulserar, lyser fast eller visar att det har kommit en varning med en palett med 20 färger.<![CDATA[]]><copy></copy>
+
+</image>
+            
+            <image>
+                <header><![CDATA[AlienFX-medvetna spel]]></header>
+                <copy>
+                    <![CDATA[Anpassa specialljuseffekterna baserat på händelser i spelet i över 55 spel som är kompatibla med AlienFX.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienAdrenaline]]></title>
+            <image>
+                <header>Spelläge</header>                                    Anpassa hur spelet eller programmet startar med teman eller VoIP och anpassa vilka du vill öppna eller stänga när du startar det.<![CDATA[]]>
+
+</image>
+            
+            <image>
+                <header>Accelerator</header>                                    Ge systemet en rejäl prestandahöjning genom att tillfälligt stänga av Windows-program som inte behövs.<copy><![CDATA[
+
+ Konfigurationen ändras inte och återgår till sitt ursprungliga tillstånd när du har spelat klart.]]></copy></image>
+            
+            <image>
+                <header><![CDATA[Prestandaövervakning]]></header>
+                <copy>
+                    <![CDATA[Övervaka hårddisken, minnet, nätverket, processorn eller grafikkortet med ett verktyg som gör att du kan spåra prestanda och identifiera problem i realtid eller senare.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTactX]]></title>
+            <image></image>
+                <header>Makrotangenter som användaren kan programmera</header>                                    Tilldela olika funktioner till vertikala och horisontella makrotangenter.<image><copy><![CDATA[
+
+ Kombinera ett antal tangenttryckningar, skapa förinställningar för ditt e-postprogram, din webbläsare eller din mediespelare, eller skapa kortkommandon som kan starta ett program genom att du trycker på en knapp. Endast på Alienware 17 och Alienware 18.]]></copy></image>
+            
+            <image>
+                <header><![CDATA[Importera och exportera profiler]]></header>
+                <copy>
+                    <![CDATA[Skapa spelspecifika profiler som du kan använda själv och dela med dina med vänner. När du är klar med spelet kan du återställa en annan profil som du använder till vardags. Endast på Alienware 17 och Alienware 18.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTouch]]></title>
+            <image>
+                <header>Trycka</header>                                    Anpassa inställningarna för att antingen trycka och dra eller låsa och dra, eller inaktivera tryckgesterna helt.<![CDATA[]]>
+
+</image>
+            
+            <image>
+                <header>Känslighet</header>                                    Öka eller minska styrplattans känslighet och gör den mer eller mindre känslig för kontakt med din handflata.<![CDATA[]]><copy></copy>
+
+</image>
+            
+            <image>
+                <header><![CDATA[Virtuell bläddring]]></header>
+                <copy>
+                    <![CDATA[Välj egna inställningar för vertikal och horisontell gestbläddring med AlienTouch och anpassa sedan storleken på bläddringsregionerna så att de fungerar för dig.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFusion]]></title>
+            <image></image>
+                <header>Snabbinställningar</header>                                    Ta kontroll över strömförbrukningen.<image><copy><![CDATA[
+
+ Med de praktiska snabbinställningarna kan du välja mellan höga prestanda, avvägda prestanda och energisparläget.]]></copy></image>
+            
+            <image>
+                <header><![CDATA[Avancerade inställningar]]></header>
+                <copy>
+                    <![CDATA[Justera hur enskilda komponenter som det trådlösa nätverkskortet, grafikprocessorn och annat beter sig. Du får total kontroll över datorns maskinvara i alla energischeman.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Anpassade energischeman]]></header>
+                <copy>
+                    <![CDATA[Du kan skapa ett obegränsat antal energischeman som passar olika behov. Optimera spelfunktionen i ett visst spel och spara och ändra sedan planen i AlienFusions gränssnitt.  ]]></copy>
+            </image>
+        </tab>
+    </commandCenter>
+    <exploreLightingRx>
+        <copy><![CDATA[Skapa ett eget anpassat ljusschema bland 10 240 miljarder möjliga kombinationer.]]></copy>
+        <button><![CDATA[dölj kontroller]]></button>
+    </exploreLightingRx>
+    <gallery>
+        <image>
+            Tillsammans segrar vi.
+            <copy><![CDATA[Upplev den ultimata spelupplevelsen med den nya generationen bärbara Alienware-datorer.]]></copy></image>
+        
+        <image>
+            <title>Alienware 14</title>            Råstyrka som går ner i ryggsäcken.<![CDATA[]]>
+</image>
+        
+        <image>
+            <title><![CDATA[Alienware 17]]></title>
+            <copy><![CDATA[Spela som på en stationär dator. Som du kan ta med dig.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 18]]></title>
+            <copy><![CDATA[Universums mest kraftfulla speldator med 18-tumsskärm.]]></copy>
+        </image>
+    </gallery>
+    <videoGallerr>
+        <video>
+            <productCategory><![CDATA[Hymnvideo]]></productCategory>
+            <title><![CDATA[Alienware: spela och vinn]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Produktexpert AW 14]]></productCategory>
+            <title><![CDATA[Expertrecension av Alienware 14]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Produktexpert AW 17]]></productCategory>
+            <title><![CDATA[Expertrecension av Alienware 17]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Produktexpert AW 18]]></productCategory>
+            <title><![CDATA[Expertrecension av Alienware 18]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Produkthjälte AW 14]]></productCategory>
+            <title><![CDATA[Nya Alienware 14: Upplev den]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Produkthjälte AW 17]]></productCategory>
+            <title><![CDATA[Nya Alienware 17: Upplev den]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Produkthjälte AW 18]]></productCategory>
+            <title><![CDATA[Nya Alienware 18: Upplev den]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[EPIC-familjehjälte]]></productCategory>
+            <title><![CDATA[Nya bärbara Alienware-datorer: spel blir inte bättre]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Historien bakom EPIC]]></productCategory>
+            <title><![CDATA[Epic-resan: historien bakom bärbara Alienware-datorer]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Bakom maskinen: intern design]]></productCategory>
+            <title><![CDATA[Bakom maskinen: intern design]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Bakom maskinen: EPIC-design]]></productCategory>
+            <title><![CDATA[Bakom maskinen: industridesign]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Bakom maskinen: kommandocentralen]]></productCategory>
+            <title><![CDATA[Bakom maskinen: kommandocentralen]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Bakom maskinen: kommandocentralen]]></productCategory>
+            <title><![CDATA[Kommandocentralen: AlienFX™]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Bakom maskinen: kommandocentralen]]></productCategory>
+            <title><![CDATA[Kommandocentralen: AlienTouch™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Bakom maskinen: kommandocentralen]]></productCategory>
+            <title><![CDATA[Kommandocentralen: AlienFusion]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Bakom maskinen: kommandocentralen]]></productCategory>
+            <title><![CDATA[Kommandocentralen: Alienware TactX™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Bakom maskinen: kommandocentralen]]></productCategory>
+            <title><![CDATA[Kommandocentralen: AlienAdrenaline]]></title>
+        </video>
+    </videoGallerr>
+</copy>

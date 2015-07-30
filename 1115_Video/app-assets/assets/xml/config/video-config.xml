@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <videoGallery>
+        <ooyala>
+            <video status="final">
+                <ooyalaID>NvZms1Yzrd6ioRJeOr4ozzqslflHVRty</ooyalaID>
+                <title><![CDATA[Alienware : Game Victorious]]></title>
+            </video>
+            <video status="final">
+                <ooyalaID>ZpZnE3Yzo2cwXEj1_r6bJ23UJHVaA6eZ</ooyalaID>
+                <title><![CDATA[Alienware 14 Expert Review]]></title>
+            </video>
+            <video status="final">
+                <ooyalaID>t0NGM1YzrDQIciPBs7qxqxST8qJ8IqRF</ooyalaID>
+                <title><![CDATA[Alienware 17 Expert Review]]></title>
+            </video>
+            <video status="final">
+                <ooyalaID>83Z2s1Yzq-iKWRcuCrPBsF6k3z6L5_gF</ooyalaID>
+                <title><![CDATA[Alienware 18 Expert Review]]></title>
+            </video>
+            <video status="final">
+                <ooyalaID>N5bGs1YzrqncBopv0IaszCTpKtZKfE1m</ooyalaID>
+                <title><![CDATA[New Alienware 14 : Experience It]]></title>
+            </video>
+            <video status="final">
+                <ooyalaID>JoYzQxYzoXRMpklg_EO7oCrrv7ztbv8Q</ooyalaID>
+                <title><![CDATA[New Alienware 17 : Experience It]]></title>
+            </video>
+            <video status="final">
+                <ooyalaID>duZ2s1Yzram83b2SBZVZgUCCbSgrWyLZ</ooyalaID>
+                <title><![CDATA[New Alienware 18 : Experience It]]></title>
+            </video>
+            <video status="final">
+                <ooyalaID>1qdnYxYzrmN4zEhMwBEwklYRqBdy57II</ooyalaID>
+                <title><![CDATA[New Alienware Notebooks : Ultimate Gaming]]></title>
+            </video>
+            <video status="final">
+                <ooyalaID>s0aGs1Yzo06GF33QofI9wLtZiMiEzWY-</ooyalaID>
+                <title><![CDATA[Epic Journey : The Making of Alienware Notebooks]]></title>
+            </video>
+            <video status="final">
+                <ooyalaID>E1ZzQxYzoDV5e4YtWNBYvyJ_JSBg69Pp</ooyalaID>
+                <title><![CDATA[Behind the Machine :  Internal Design]]></title>
+            </video>
+            <video status="final">
+                <ooyalaID>Z4Z2s1YzqnglcXbFAIhbEcWZQfm7dFIV</ooyalaID>
+                <title><![CDATA[Behind the Machine : Industrial Design]]></title>
+            </video>
+            <video status="final">
+                <ooyalaID>5qeDMxYzq3R_Pe9W9kw9Fa_EgIPkUmJQ</ooyalaID>
+                <title><![CDATA[Behind the Machine : Command Center]]></title>
+            </video>
+            <video status="final">
+                <ooyalaID>ZpaGs1YzptEfWjhx2Nyt1rqfQjW-HEJp</ooyalaID>
+                <title><![CDATA[Command Center :  AlienFX™]]></title>
+            </video>
+            <video status="final">
+                <ooyalaID>1vdzMxYzr0QphFdgruwqg1XxLABkZcOX</ooyalaID>
+                <title><![CDATA[Command Center :  AlienTouch™]]></title>
+            </video>
+            <video status="final">
+                <ooyalaID>J3dzMxYzo35pMxB7eqh3oCfojOluJlrF</ooyalaID>
+                <title><![CDATA[Command Center :  AlienFusion]]></title>
+            </video>
+            <video status="final">
+                <ooyalaID>E3eDMxYzoSYaqAE4Gm5-JXGRGOX7RhTT</ooyalaID>
+                <title><![CDATA[Command Center :  Alienware TactX™]]></title>
+            </video>
+            <video status="final">
+                <ooyalaID>d4NDQxYzq2oXurQuKw_oXnykq3hLlw2J</ooyalaID>
+                <title><![CDATA[Command Center :  AlienAdrenaline]]></title>
+            </video>
+        </ooyala>
+        <LoaderMax name="tnQueue"  load="false">
+            <ImageLoader url="video_tn_1.png" name="video1" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader url="video_tn_2.png" name="video2" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader url="video_tn_3.png" name="video3" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader url="video_tn_4.png" name="video4" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader url="video_tn_5.png" name="video5" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader url="video_tn_6.png" name="video6" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader url="video_tn_7.png" name="video7" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader url="video_tn_8.png" name="video8" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader url="video_tn_9.png" name="video9" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader url="video_tn_10.png" name="video10" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader url="video_tn_11.png" name="video11" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader url="video_tn_12.png" name="video12" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader url="video_tn_13.png" name="video13" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader url="video_tn_14.png" name="video14" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader url="video_tn_15.png" name="video15" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader url="video_tn_16.png" name="video16" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader url="video_tn_17.png" name="video17" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+        </LoaderMax>
+
+    </videoGallery>
+
+</config>

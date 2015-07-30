@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<copy>
+    <language>ja</language>
+    <embedFonts>true</embedFonts>
+    <hero>
+        <title><![CDATA[新しいAlienwareノートパソコン]]></title>
+        <headline><![CDATA[勝利のためのデザイン]]></headline>
+        <subhead><![CDATA[次世代のAlienwareノートパソコンで新たな世界を開拓しましょう。]]></subhead>
+        <cta><![CDATA[ゲームを支配]]></cta>
+    </hero>
+    <shell>
+        <nav>
+            <item id="1">
+                <title><![CDATA[デザイン]]></title>
+            </item>
+            <item id="2">
+                <title><![CDATA[コマンド<br />センター]]></title>
+            </item>
+            <item id="3">
+                <title><![CDATA[ALIENFX<br />詳細]]></title>
+            </item>
+            <item ie="4">
+                <title><![CDATA[ギャラリー]]></title>
+            </item>
+            <item ie="5">
+                <title><![CDATA[ビデオ]]></title>
+            </item>
+        </nav>
+        <buttons>
+            <buyNow>
+                <title><![CDATA[構成する]]></title>
+            </buyNow>
+        </buttons>
+    </shell>
+    <design>
+        <buttons>
+            <button name="onOff">
+                <on><![CDATA[オン]]></on>
+                <off><![CDATA[オフ]]></off>
+            </button>
+        </buttons>
+        <Alienware14 name="aw14">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[頑丈なボディ]]></title>
+                    <copy><![CDATA[アルマイト加工のアルミニウムシェルとマグネシウム合金製のフレームがLCDを保護します。]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[耐久性に優れたヒンジ]]></title>
+                    <copy>
+                        <![CDATA[ヒンジは最大20,000回の開閉を想定して設計されているため、優れた耐久性を備えています。]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[臨場感あふれる照明 ]]></title>
+                    <copy><![CDATA[外付けの照明をカスタマイズしましょう。色の組み合わせは100億通り以上あります。]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[ポート]]></title>
+                    <copy><![CDATA[すべてのゲーム機を複数のポートに接続し、メディアのダウンロードを高速化できます。]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[スタイリッシュな新デザイン]]></title>
+                    <copy><![CDATA[独自のデザインを採用したシステムで、普通から脱却しましょう。]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[最高の携帯性]]></title>
+                    <copy>
+                        <![CDATA[Alienware 14は、バッテリ持続時間に優れているため、どこでも高負荷のゲームを楽しむことができます。]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[最新のグラフィックス<br>およびプロセッサー]]></title>
+                    <copy>
+                        <![CDATA[最速のパフォーマンスと最先端のグラフィックステクノロジーが、より迫力のある体験を実現します。]]></copy>
+                </item>
+                <item name="feature8">
+                    <title><![CDATA[フルハイビジョンモニタ]]></title>
+                    <copy>
+                        <![CDATA[バックライトキーボードとアンチグレア加工の14インチフルハイビジョンモニタのおかげで、夜間のゲームプレイもバッチリです。]]></copy>
+                </item>
+            </features>
+        </Alienware14>
+        <Alienware17 name="aw17">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[頑丈なボディ]]></title>
+                    <copy><![CDATA[アルマイト加工のアルミニウムシェルとマグネシウム合金製のフレームがLCDを保護します。]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[耐久性に優れたヒンジ]]></title>
+                    <copy>
+                        <![CDATA[ヒンジは最大20,000回の開閉を想定して設計されているため、優れた耐久性を備えています。]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[臨場感あふれる照明 ]]></title>
+                    <copy><![CDATA[外付けの照明をカスタマイズしましょう。色の組み合わせは100億通り以上あります。]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[ポート]]></title>
+                    <copy><![CDATA[すべてのゲーム機を複数のポートに接続し、メディアのダウンロードを高速化できます。]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[スタイリッシュな新デザイン]]></title>
+                    <copy><![CDATA[独自のデザインを採用したシステムで、普通から脱却しましょう。]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[最新のグラフィックス<br>およびプロセッサー]]></title>
+                    <copy>
+                        <![CDATA[最速のパフォーマンスと最先端のグラフィックステクノロジーが、より迫力のある体験を実現します。]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[フルハイビジョンモニタ]]></title>
+                    <copy>
+                        <![CDATA[バックライトキーボードとアンチグレア加工の17.3インチフルハイビジョンモニタのおかげで、夜間のゲームプレイもバッチリです。]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware17>
+        <Alienware18 name="aw18">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[頑丈なボディ]]></title>
+                    <copy><![CDATA[アルマイト加工のアルミニウムシェルとマグネシウム合金製のフレームがLCDを保護します。]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[耐久性に優れたヒンジ]]></title>
+                    <copy>
+                        <![CDATA[ヒンジは最大20,000回の開閉を想定して設計されているため、優れた耐久性を備えています。]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[臨場感あふれる照明]]></title>
+                    <copy><![CDATA[外付けの照明をカスタマイズしましょう。色の組み合わせは100億通り以上あります。]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[ポート]]></title>
+                    <copy><![CDATA[すべてのゲーム機を複数のポートに接続し、メディアのダウンロードを高速化できます。]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[スタイリッシュな新デザイン]]></title>
+                    <copy><![CDATA[独自のデザインを採用したシステムで、普通から脱却しましょう。]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[最新のグラフィックス<br>およびプロセッサー]]></title>
+                    <copy>
+                        <![CDATA[最速のパフォーマンス、デュアルグラフィックス、およびオプションのオーバークロックが、より迫力のある体験を実現します。]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[フルハイビジョンモニタ]]></title>
+                    <copy>
+                        <![CDATA[バックライトキーボードとTrueLife™搭載の大型18.4インチフルハイビジョンモニタのおかげで、夜間のゲームプレイもバッチリです。]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware18>
+    </design>
+    <commandCenter>
+        <tab>
+            <title><![CDATA[概要]]></title>
+            <image>
+                <header><![CDATA[コマンドセンター]]></header>
+                <copy>
+                    <![CDATA[再設計されたAlienwareコマンドセンターでゲームをコントロールできます。 独自の照明や特殊効果の選択、パフォーマンスの向上、ゲーム内の結果の監視などを、すべて1つのハブで行うことができます。]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFX]]></title>
+            <image>
+                <header><![CDATA[テーマ]]></header>
+                <copy>
+                    <![CDATA[自分だけの特殊効果やテーマを作成して、独自の外観で個性をアピールできます。]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[照明効果およびプログラム可能なイベント]]></header>
+                <copy>
+                    <![CDATA[ゾーンを設定して、色の変更、点滅、点滅なしを指定したり、20色のパレットで警告を指定したりすることができます。]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[AlienFX対応ゲーム]]></header>
+                <copy>
+                    <![CDATA[55種類を超えるAlienFX対応ゲームのゲーム内イベントに基づいた、特殊な照明効果をカスタマイズできます。]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienAdreneline]]></title>
+            <image>
+                <header><![CDATA[ゲームモード]]></header>
+                <copy>
+                    <![CDATA[ゲームやアプリケーションを起動する方法をテーマやVoIPでカスタマイズしたり、起動時に開くまたは閉じるものをカスタマイズしたりすることができます。]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[アクセラレーター]]></header>
+                <copy>
+                    <![CDATA[不要なWindowsベースのアプリケーションを一時的に閉じることで、システムを高速化します。 設定が変わることはなく、ゲームが終了すると元の状態に戻ります。]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[パフォーマンス監視]]></header>
+                <copy>
+                    <![CDATA[リアルタイムで、または後でパフォーマンスの追跡と問題の特定を行うツールを使用して、ハードドライブ、メモリ、ネットワーク、プロセッサー、またはグラフィックスカードの使用状況を監視できます。]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTactX]]></title>
+            <image>
+                <header><![CDATA[ユーザー設定可能なマクロキー]]></header>
+                <copy>
+                    <![CDATA[縦および横方向のマクロキーに別々の機能を割り当てることができます。 一連のキーストロークを組み合わせたり、Eメール、Web、メディアプレイヤーのプリセットを作成したり、ボタンを押すだけでプログラムを起動できるショートカットを作成したりすることができます。 Alienware 17とAlienware 18でのみご利用いただけます。]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[プロファイルのインポートとエクスポート]]></header>
+                <copy>
+                    <![CDATA[自分で使用して友人とも共有できる、ゲームに固有のプロファイルを作成しましょう。 ゲームが終わったら、日常で使用するためにゲーム以外のプロファイルを復元します。 Alienware 17とAlienware 18でのみご利用いただけます。]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTouch]]></title>
+            <image>
+                <header><![CDATA[タップ]]></header>
+                <copy>
+                    <![CDATA[設定をカスタマイズして、「タップおよびドラッグ」操作または「ロックドラッグ」操作を有効にするか、またはタップジェスチャ操作を完全に無効にします。]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[感度]]></header>
+                <copy>
+                    <![CDATA[タッチパッドの感度を増減させることで、手のひらが接触したときの感度を調整できます。]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[バーチャルスクロール]]></header>
+                <copy>
+                    AlienTouchにより、<![CDATA[ジェスチャ操作の縦方向と横方向のスクロールをニーズに合わせて選択可能。その後、スクロール領域を最適なサイズにカスタマイズできます。]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFusion]]></title>
+            <image>
+                <header><![CDATA[クイック設定]]></header>
+                <copy>
+                    <![CDATA[電力使用状況を制御します。 便利なクイック設定では、ハイパフォーマンス、バランス、省電力モードのいずれかを選択できます。]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[高度な設定]]></header>
+                <copy>
+                    <![CDATA[ワイヤレスアダプタ、グラフィックスプロセッサーなどの個々のコンポーネントの動作を調整して、どの電力モードでもハードウェアを完全に制御できるようにします。]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[カスタム電源プラン]]></header>
+                <copy>
+                    <![CDATA[電源プランを無制限に作成できるため、さまざまなニーズに対応できます。 特定のゲームに対するプレイ環境を最適化して、AlienFusionインターフェイスで計画を保存および変更できます。  ]]></copy>
+            </image>
+        </tab>
+    </commandCenter>
+    <exploreLightingRx>
+        <copy><![CDATA[10兆2,400億通りの組み合わせから、お客様独自のカスタマイズされた照明方式を選んで作成できます。]]></copy>
+        <button><![CDATA[非表示のコントロール]]></button>
+    </exploreLightingRx>
+    <gallery>
+        <image>
+            <title><![CDATA[共に勝利を。]]></title>
+            <copy><![CDATA[次世代のAlienwareノートパソコンで究極のゲームを体験してください。]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 14]]></title>
+            <copy><![CDATA[どのバックパックにも対応しています。]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 17]]></title>
+            <copy><![CDATA[ゲーム用デスクトップのパフォーマンスを デスクトップ以外で実現。]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 18]]></title>
+            <copy><![CDATA[宇宙最強の18インチゲーム用ノートパソコン。]]></copy>
+        </image>
+    </gallery>
+    <videoGallerr>
+        <video>
+            <productCategory><![CDATA[Anthemビデオ]]></productCategory>
+            <title><![CDATA[Alienware: ゲームを制覇する]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[製品のエキスパートAW 14]]></productCategory>
+            <title><![CDATA[Alienware 14の専門家による検証]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[製品のエキスパートAW 17]]></productCategory>
+            <title><![CDATA[Alienware 17の専門家による検証]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[製品のエキスパートAW 18]]></productCategory>
+            <title><![CDATA[Alienware 18の専門家による検証]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[製品のヒーローAW 14]]></productCategory>
+            <title><![CDATA[新しいAlienware 14: 体験してください]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[製品のヒーローAW 17]]></productCategory>
+            <title><![CDATA[新しいAlienware 17: 体験してください]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[製品のヒーローAW 18]]></productCategory>
+            <title><![CDATA[新しいAlienware 18: 体験してください]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[EPICファミリーのヒーロー]]></productCategory>
+            <title><![CDATA[新しいAlienwareノートパソコン: 究極のゲーミング]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[EPICの要素]]></productCategory>
+            <title><![CDATA[Epicの道程: Alienwareノートパソコンの要素]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[マシンの背景: 内部設計]]></productCategory>
+            <title><![CDATA[マシンの背景: 内部設計]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[マシンの背景: EPIC設計]]></productCategory>
+            <title><![CDATA[マシンの背景: インダストリアルデザイン]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[マシンの背景: コマンドセンター]]></productCategory>
+            <title><![CDATA[マシンの背景: コマンドセンター]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[マシンの背景: コマンドセンター]]></productCategory>
+            <title><![CDATA[コマンドセンター: AlienFX™]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[マシンの背景: コマンドセンター]]></productCategory>
+            <title><![CDATA[コマンドセンター: AlienTouch™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[マシンの背景: コマンドセンター]]></productCategory>
+            <title><![CDATA[コマンドセンター: AlienFusion]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[マシンの背景: コマンドセンター]]></productCategory>
+            <title><![CDATA[コマンドセンター: Alienware TactX™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[マシンの背景: コマンドセンター]]></productCategory>
+            <title><![CDATA[コマンドセンター: AlienAdrenaline]]></title>
+        </video>
+    </videoGallerr>
+</copy>

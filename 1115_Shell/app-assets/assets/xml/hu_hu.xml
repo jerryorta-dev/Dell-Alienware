@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<copy>
+    <language>hu</language>
+    <embedFonts>igaz</embedFonts>
+    <hero>
+        <title><![CDATA[Új Alienware laptopok]]></title>
+        <headline><![CDATA[GYŐZELEMRE TERVEZVE]]></headline>
+        <subhead><![CDATA[Új világokat hódíthat meg az Alienware laptopok következő generációjával.]]></subhead>
+        <cta><![CDATA[ÖN A PARANCSNOK]]></cta>
+    </hero>
+    <shell>
+        <nav>
+            <item id="1">
+                <title><![CDATA[TERVEZÉS]]></title>
+            </item>
+            <item id="2">
+                <title><![CDATA[COMMAND<br />CENTER]]></title>
+            </item>
+            <item id="3">
+                <title><![CDATA[ISMERJE MEG < br/> AZ ALIENFX-ET]]></title>
+            </item>
+            <item ie="4">
+                <title><![CDATA[KÉPTÁR]]></title>
+            </item>
+            <item ie="5">
+                <title><![CDATA[VIDEÓ]]></title>
+            </item>
+        </nav>
+        <buttons>
+            <buyNow>
+                <title><![CDATA[Állítsa össze a sajátját]]></title>
+            </buyNow>
+        </buttons>
+    </shell>
+    <design>
+        <buttons>
+            <button name="onOff">
+                <on><![CDATA[Bekapcsolva]]></on>
+                <off><![CDATA[Kikapcsolva]]></off>
+            </button>
+        </buttons>
+        <Alienware14 name="aw14">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Strapabíró váz]]></title>
+                    <copy><![CDATA[Eloxált alumínium váz és magnéziumötvözet keret védi az LCD kijelzőt.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Tartós csuklópánt]]></title>
+                    <copy>
+                        <![CDATA[Nem kell a tartósság miatt aggódnia, hisz laptopja csuklópántját 20 ezer fölnyitással és lecsukással teszteltük.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Magával ragadó megvilágítás ]]></title>
+                    <copy><![CDATA[Több mint 10 milliárd lehetséges színkombináció gondoskodik róla, hogy laptopja külső megvilágítását testreszabhassa.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Portok]]></title>
+                    <copy><![CDATA[Külső játékkiegészítőit egyszerűen csatlakoztathatja, és médiafájljait is gyorsabban töltheti le a számos csatlakozónak köszönhetően.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Elegáns, új dizájn]]></title>
+                    <copy><![CDATA[Végleg kitörhet a megszokások béklyójából ezzel az egyedi kivitelezésű laptoppal.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Maximális hordozhatóság]]></title>
+                    <copy>
+                        <![CDATA[Kitűnő akkumulátoros üzemidejének köszönhetően az Alienware 14 laptopon bárhol játszhat nagy teljesítményigényű játékaival.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[A legújabb grafikus kártyák <br>és processzorok]]></title>
+                    <copy>
+                        <![CDATA[Még intenzívebben játszhat a legjobb teljesítmény és legfejlettebb grafikai technológiák jóvoltából.]]></copy>
+                </item>
+                <item name="feature8">
+                    <title><![CDATA[Full HD kijelző]]></title>
+                    <copy>
+                        <![CDATA[Sötétedés után sem kell abbahagynia a játékot, hála a háttérvilágítással ellátott billentyűzetnek és a 14 hüvelyk (35,56 cm) képátlójú, full HD felbontású, tükröződéscsökkentő bevonattal ellátott képernyőnek.]]></copy>
+                </item>
+            </features>
+        </Alienware14>
+        <Alienware17 name="aw17">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Strapabíró váz]]></title>
+                    <copy><![CDATA[Eloxált alumínium váz és magnéziumötvözet keret védi az LCD kijelzőt.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Tartós csuklópánt]]></title>
+                    <copy>
+                        <![CDATA[Nem kell a tartósság miatt aggódnia, hisz laptopja csuklópántját 20 ezer fölnyitással és lecsukással teszteltük.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Magával ragadó megvilágítás ]]></title>
+                    <copy><![CDATA[Több mint 10 milliárd lehetséges színkombináció gondoskodik róla, hogy laptopja külső megvilágítását testreszabhassa.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Portok]]></title>
+                    <copy><![CDATA[Külső játékkiegészítőit egyszerűen csatlakoztathatja, és médiafájljait is gyorsabban töltheti le a számos csatlakozónak köszönhetően.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Elegáns, új dizájn]]></title>
+                    <copy><![CDATA[Végleg kitörhet a megszokások béklyójából ezzel az egyedi kivitelezésű laptoppal.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[A legújabb grafikus kártyák <br>és processzorok]]></title>
+                    <copy>
+                        <![CDATA[Még intenzívebben játszhat a legjobb teljesítmény és legfejlettebb grafikai technológiák jóvoltából.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Full HD kijelző]]></title>
+                    <copy>
+                        <![CDATA[Sötétedés után sem kell abbahagynia a játékot, hála a háttérvilágítással ellátott billentyűzetnek és a 17,3 hüvelyk (43,94 cm) képátlójú, full HD felbontású, tükröződéscsökkentő bevonattal ellátott képernyőnek.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware17>
+        <Alienware18 name="aw18">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Strapabíró váz]]></title>
+                    <copy><![CDATA[Eloxált alumínium váz és magnéziumötvözet keret védi az LCD kijelzőt.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Tartós csuklópánt]]></title>
+                    <copy>
+                        <![CDATA[Nem kell a tartósság miatt aggódnia, hisz laptopja csuklópántját 20 ezer fölnyitással és lecsukással teszteltük.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Magával ragadó megvilágítás]]></title>
+                    <copy><![CDATA[Több mint 10 milliárd lehetséges színkombináció gondoskodik róla, hogy laptopja külső megvilágítását testreszabhassa.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Portok]]></title>
+                    <copy><![CDATA[Külső játékkiegészítőit egyszerűen csatlakoztathatja, és médiafájljait is gyorsabban töltheti le a számos csatlakozónak köszönhetően.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Elegáns, új dizájn]]></title>
+                    <copy><![CDATA[Végleg kitörhet a megszokások béklyójából ezzel az egyedi kivitelezésű laptoppal.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[A legújabb grafikus kártyák <br>és processzorok]]></title>
+                    <copy>
+                        <![CDATA[Még intenzívebben játszhat a világbajnok teljesítmény, a két grafikus kártya és az opcionális túlhajtás jóvoltából.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Full HD kijelző]]></title>
+                    <copy>
+                        <![CDATA[Sötétedés után sem kell abbahagynia a játékot, hála a háttérvilágítással ellátott billentyűzetnek és a hatalmas, 18,4 hüvelyk (46,74 cm) képátlójú, full HD-s, TrueLife™-technológiájú képernyőnek.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware18>
+    </design>
+    <commandCenter>
+        <tab>
+            <title><![CDATA[Áttekintés]]></title>
+            <image>
+                <header><![CDATA[Command Center]]></header>
+                <copy>
+                    <![CDATA[Az újratervezett Alienware Command Center az Ön kezébe adja az irányítást. Létrehozhatja saját megvilágítási és speciális effektusait, felgyorsíthatja laptopja teljesítményét, nyomon követheti játékbeli eredményeit, és még egy sor dolgot tehet – és mindezt egy felületen.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFX]]></title>
+            <image>
+                <header><![CDATA[Témák]]></header>
+                <copy>
+                    <![CDATA[Speciális effektusok és témák segítségével teheti egyedivé laptopját.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Megvilágítási effektusok és a programozható események]]></header>
+                <copy>
+                    <![CDATA[A megvilágítási zónákat színváltóra, lüktetőre, egyszínűre állíthatja, vagy akár 20 színű palettából kiválasztott színekkel riasztást is jelezhet velük.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[AlienFX-kompatibilis játékok]]></header>
+                <copy>
+                    Egyedi, speciális fényeffektusokkal jelezheti a játékbeli eseményeket<![CDATA[ több mint 55 AlienFX-kompatibilis játékban.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienAdreneline]]></title>
+            <image>
+                <header><![CDATA[Játék Mód]]></header>
+                <copy>
+                    <![CDATA[Testreszabhatja, hogy milyen témákkal vagy VOIP-megoldásokkal induljon egy-egy játék vagy alkalmazás, illetve, hogy melyik induljon vagy záródjon be a játékok és alkalmazások indításakor.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Accelerator]]></header>
+                <copy>
+                    <![CDATA[Az adott pillanatban nem fontos Windows-alapú alkalmazások időleges leállításával biztosít Önnek ideiglenes sebességnövekedést. A konfiguráció nem változik, és a játék befejeztével visszaáll eredeti állapotába.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Teljesítménykövetés]]></header>
+                <copy>
+                    Az erre szolgáló eszköz segítségével akár valós időben, akár később is ellenőrizheti a merevlemez, a memória, a hálózat, a processzor és a grafikus kártya leterheltségét<![CDATA[.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTactX]]></title>
+            <image>
+                <header><![CDATA[A felhasználó által programozható makróbillentyűk]]></header>
+                <copy>
+                    <![CDATA[Különböző funkciókat rendelhet a vízszintes és függőleges makróbillentyűkhöz. Billentyűkombinációkat vagy olyan gyorsbillentyűket rendelhet például e-mail kliense, böngészője vagy médialejátszó alkalmazása megnyitásához, amelyek segítségével azok egyetlen gombnyomással indíthatók. Csak az Alienware 17 és Alienware 18 laptopokon elérhető.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Profilok importálása és exportálása]]></header>
+                <copy>
+                    <![CDATA[Játékaihoz külön-külön profilt hozhat létre, amelyeket barátaival is megoszthat. A játék befejeztével pedig visszaállíthatja a nem játékra szánt profilját. Csak az Alienware 17 és Alienware 18 laptopokon elérhető.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTouch]]></title>
+            <image>
+                <header><![CDATA[Koppintás]]></header>
+                <copy>
+                    <![CDATA[Testreszabhatja a koppintásos vezérlés beállításait: engedélyezheti a „koppints és húzd”, illetve „húzás letiltása” opciókat, de akár teljesen ki is kapcsolhatja a koppintásos vezérlést.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Érzékenység]]></header>
+                <copy>
+                    <![CDATA[Növelheti vagy csökkentheti érintőpadja érzékenységét, hogy az érzékenyebb, vagy épp ellenkezőleg: kevésbé érzékeny legyen tenyere érintésére.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Virtuális görgetés]]></header>
+                <copy>
+                   Saját ízlése szerint állíthatja be az AlienTouch-csal történő vízszintes és függőleges gesztusvezérelt görgetést, majd a görgetési területek méretét<![CDATA[.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFusion]]></title>
+            <image>
+                <header><![CDATA[Gyorsbeállítások]]></header>
+                <copy>
+                    <![CDATA[Ön vezérelheti laptopja energiafelhasználását. A kényelmes gyorsbeállítások révén választhat nagy teljesítményű, kiegyensúlyozott és energiatakarékos üzemmódok közül.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Speciális beállítások]]></header>
+                <copy>
+                    <![CDATA[Módosíthatja az egyes összetevők, például a vezeték nélküli adapter vagy a grafikus processzor működését, így bármely energiafelhasználási üzemmódban teljesen kezében tarthatja a hardvervezérlést.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Egyéni tápellátási sémák]]></header>
+                <copy>
+                    <![CDATA[Korlátlan számú energiaellátási sémát hozhat létre, így minden helyzetben a megfelelő megoldást választhatja. Egy-egy adott játékra optimalizálhatja a beállításokat, majd azokat elmentheti, illetve módosíthatja az AlienFusion kezelőfelületén.  ]]></copy>
+            </image>
+        </tab>
+    </commandCenter>
+    <exploreLightingRx>
+        <copy><![CDATA[10 240 milliárd lehetséges színkombinációból álló választék biztosítja, hogy laptopja megvilágítása valóban egyedi legyen.]]></copy>
+        <button><![CDATA[vezérlők elrejtése]]></button>
+    </exploreLightingRx>
+    <gallery>
+        <image>
+            <title><![CDATA[Együtt győzni fogunk.]]></title>
+            <copy><![CDATA[A játékélmény egészen új szintjét hozza el az Alienware laptopok új generációja.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 14]]></title>
+            <copy><![CDATA[Minden hátizsákban elfér.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 17]]></title>
+            <copy><![CDATA[Az asztali géphez méltó teljesítményt nyújt. Asztali gép nélkül.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 18]]></title>
+            <copy><![CDATA[A világegyetem legerősebb 18 hüvelykes laptopja.]]></copy>
+        </image>
+    </gallery>
+    <videoGallerr>
+        <video>
+            <productCategory><![CDATA[Anthem Video]]></productCategory>
+            <title><![CDATA[Alienware: A verhetetlen játékos]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Expert AW 14]]></productCategory>
+            <title><![CDATA[Alienware 14 szakértői áttekintés]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Expert AW 17]]></productCategory>
+            <title><![CDATA[Alienware 17 szakértői áttekintés]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Expert AW 18]]></productCategory>
+            <title><![CDATA[Alienware 18 szakértői áttekintés]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Hero AW 14]]></productCategory>
+            <title><![CDATA[Az új Alienware 14: Tapasztalja meg]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Hero AW 17]]></productCategory>
+            <title><![CDATA[Az új Alienware 17: Tapasztalja meg]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Hero AW 18]]></productCategory>
+            <title><![CDATA[Az új Alienware 18: Tapasztalja meg]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[EPIC Family Hero]]></productCategory>
+            <title><![CDATA[Az új Alienware notebookok: A játék felsőfoka]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[The Making of EPIC]]></productCategory>
+            <title><![CDATA[Felejthetetlen utazás: Az Alienware notebookok készítése]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Ami a gép mögött van: A laptop belseje]]></productCategory>
+            <title><![CDATA[Ami a gép mögött van: A laptop belseje]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Ami a gép mögött van: EPIC kialakítás]]></productCategory>
+            <title><![CDATA[Ami a gép mögött van: Ipari tervezés]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Ami a gép mögött van: Command Center]]></productCategory>
+            <title><![CDATA[Ami a gép mögött van: Command Center]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Ami a gép mögött van: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: Az AlienFX™]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Ami a gép mögött van: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: Az AlienTouch™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Ami a gép mögött van: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: Az AlienFusion]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Ami a gép mögött van: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: Az Alienware TactX™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Ami a gép mögött van: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: Az AlienAdrenaline]]></title>
+        </video>
+    </videoGallerr>
+</copy>

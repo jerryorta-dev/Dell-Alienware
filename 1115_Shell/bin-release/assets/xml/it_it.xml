@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<copy>
+    <language>en</language>
+    <embedFonts>true</embedFonts>
+    <hero>
+        <title><![CDATA[Nuovi notebook Alienware]]></title>
+        <headline><![CDATA[PROGETTATI PER LA VITTORIA]]></headline>
+        <subhead><![CDATA[Conquista nuovi mondi con la nuova generazione di notebook Alienware.]]></subhead>
+        <cta><![CDATA[ASSUMI IL COMANDO]]></cta>
+    </hero>
+    <shell>
+        <nav>
+            <item id="1">
+                <title><![CDATA[DESIGN]]></title>
+            </item>
+            <item id="2">
+                <title><![CDATA[COMMAND<br />CENTER]]></title>
+            </item>
+            <item id="3">
+                <title><![CDATA[SCOPRI<br />ALIENFX]]></title>
+            </item>
+            <item ie="4">
+                <title><![CDATA[GALLERIA]]></title>
+            </item>
+            <item ie="5">
+                <title><![CDATA[VIDEO]]></title>
+            </item>
+        </nav>
+        <buttons>
+            <buyNow>
+                <title><![CDATA[Personalizza]]></title>
+            </buyNow>
+        </buttons>
+    </shell>
+    <design>
+        <buttons>
+            <button name="onOff">
+                <on><![CDATA[On]]></on>
+                <off><![CDATA[Off]]></off>
+            </button>
+        </buttons>
+        <Alienware14 name="aw14">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Corpo robusto]]></title>
+                    <copy><![CDATA[Il rivestimento in alluminio anodizzato e la struttura in lega di magnesio proteggono lo schermo LCD.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Cerniera resistente]]></title>
+                    <copy>
+<![CDATA[La cerniera è progettata per essere aperta e chiusa fino a 20.000 volte garantendo la massima resistenza.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Illuminazione coinvolgente ]]></title>
+                    <copy><![CDATA[Personalizza l'illuminazione esterna con oltre 10 miliardi di combinazioni di colori.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Porte]]></title>
+                    <copy><![CDATA[Connetti tutti i dispositivi di gioco desiderati alle varie porte disponibili per un download più rapido.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Nuovo design elegante]]></title>
+                    <copy><![CDATA[Distinguiti dagli altri con un sistema dal design esclusivo.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Massima portabilità]]></title>
+                    <copy>
+                        <![CDATA[Grazie all'eccellente durata della batteria, il notebook Alienware 14 è progettato per garantire un'intensa esperienza di gioco ovunque.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Schede grafiche <br>e processori di ultima generazione]]></title>
+                    <copy>
+                        <![CDATA[Intensifica il coinvolgimento con le prestazioni più veloci e la tecnologia grafica più avanzata.]]></copy>
+                </item>
+                <item name="feature8">
+                    <title><![CDATA[Display Full HD]]></title>
+                    <copy>
+                        <![CDATA[Gioca al buio con la tastiera retroilluminata e il display Full HD da 14" con rivestimento antiriflesso.]]></copy>
+                </item>
+            </features>
+        </Alienware14>
+        <Alienware17 name="aw17">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Corpo robusto]]></title>
+                    <copy><![CDATA[Il rivestimento in alluminio anodizzato e la struttura in lega di magnesio proteggono lo schermo LCD.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Cerniera resistente]]></title>
+                    <copy>
+<![CDATA[La cerniera è progettata per essere aperta e chiusa fino a 20.000 volte garantendo la massima resistenza.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Illuminazione coinvolgente ]]></title>
+                    <copy><![CDATA[Personalizza l'illuminazione esterna con oltre 10 miliardi di combinazioni di colori.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Porte]]></title>
+                    <copy><![CDATA[Connetti tutti i dispositivi di gioco desiderati alle varie porte disponibili per un download più rapido.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Nuovo design elegante]]></title>
+                    <copy><![CDATA[Distinguiti dagli altri con un sistema dal design esclusivo.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Schede grafiche <br>e processori di ultima generazione]]></title>
+                    <copy>
+                        <![CDATA[Intensifica il coinvolgimento con le prestazioni più veloci e la tecnologia grafica più avanzata.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Display Full HD]]></title>
+                    <copy>
+                        <![CDATA[Gioca al buio con la tastiera retroilluminata e il display Full HD da 17,3" con rivestimento antiriflesso.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware17>
+        <Alienware18 name="aw18">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Corpo robusto]]></title>
+                    <copy><![CDATA[Il rivestimento in alluminio anodizzato e la struttura in lega di magnesio proteggono lo schermo LCD.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Cerniera resistente]]></title>
+                    <copy>
+<![CDATA[La cerniera è progettata per essere aperta e chiusa fino a 20.000 volte garantendo la massima resistenza.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Illuminazione coinvolgente]]></title>
+                    <copy><![CDATA[Personalizza l'illuminazione esterna con oltre 10 miliardi di combinazioni di colori.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Porte]]></title>
+                    <copy><![CDATA[Connetti tutti i dispositivi di gioco desiderati alle varie porte disponibili per un download più rapido.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Nuovo design elegante]]></title>
+                    <copy><![CDATA[Distinguiti dagli altri con un sistema dal design esclusivo.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Schede grafiche <br>e processori di ultima generazione]]></title>
+                    <copy>
+                        <![CDATA[Intensifica il coinvolgimento con le prestazioni più veloci, la doppia scheda grafica e l'overclock opzionale.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Display Full HD]]></title>
+                    <copy>
+                        <![CDATA[Gioca al buio con la tastiera retroilluminata e l'ampio schermo Full HD da 18,4" con tecnologia TrueLife™.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware18>
+    </design>
+    <commandCenter>
+        <tab>
+            <title><![CDATA[Panoramica]]></title>
+            <image>
+                <header><![CDATA[Command Center]]></header>
+                <copy>
+                    <![CDATA[Assumi il pieno controllo del gioco con il nuovo Alienware Command Center completamente riprogettato. Scegli l'illuminazione e gli effetti speciali desiderati, accelera le prestazioni, monitora i risultati durante il gioco ed esegui molte altre operazioni da un'unica interfaccia.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFX]]></title>
+            <image>
+                <header><![CDATA[Temi]]></header>
+                <copy>
+                    <![CDATA[Crea effetti speciali e temi personalizzati per esprimere il tuo stile personale con un design esclusivo.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Effetti luminosi ed eventi programmabili]]></header>
+                <copy>
+                    <![CDATA[Imposta le aree che devono cambiare colore, pulsare, restare accese o indicare un avviso con la tavolozza di 20 colori.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Giochi abilitati per AlienFX]]></header>
+                <copy>
+                    <![CDATA[Personalizza gli effetti luminosi speciali in base agli eventi della partita in oltre 55 giochi compatibili con AlienFX.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienAdreneline]]></title>
+            <image>
+                <header><![CDATA[Modalità gioco]]></header>
+                <copy>
+                    <![CDATA[Personalizza l'avvio di giochi e applicazioni con temi o VOIP e imposta i programmi da aprire o chiudere all'avvio del gioco.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Acceleratore]]></header>
+                <copy>
+                    <![CDATA[Accelera il sistema chiudendo temporaneamente le applicazioni Windows non necessarie. La configurazione originaria non viene modificata e viene ripristinata al termine del gioco.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Monitoraggio delle prestazioni]]></header>
+                <copy>
+                    Controlla l'utilizzo del disco rigido, della memoria, della rete, del processore o della scheda grafica con uno strumento che consente di monitorare le prestazioni o identificare i problemi in tempo reale o in un secondo momento<![CDATA[.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTactX]]></title>
+            <image>
+                <header><![CDATA[Tasti macro programmabili]]></header>
+                <copy>
+                    <![CDATA[Assegna diverse funzioni ai tasti macro verticali e orizzontali. Combina una serie di tasti, configura preimpostazioni per e-mail, Web o lettori multimediali o crea collegamenti per avviare un programma premendo semplicemente un pulsante. Disponibile solo sui notebook Alienware 17 e 18.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Importazione ed esportazione di profili]]></header>
+                <copy>
+                    <![CDATA[Crea profili specifici per il gioco da utilizzare o condividere con gli amici. Al termine del gioco, ripristina i profili non di gioco per l'uso quotidiano. Disponibile solo sui notebook Alienware 17 e 18.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTouch]]></title>
+            <image>
+                <header><![CDATA[Funzionalità touch]]></header>
+                <copy>
+                    <![CDATA[Personalizza le impostazioni per attivare le funzioni "tocca e trascina" e "blocca trascinamento" o disattivare completamente i comandi gestuali.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Sensibilità]]></header>
+                <copy>
+                    <![CDATA[Aumenta o diminuisci la sensibilità del touchpad per renderlo più o meno sensibile al contatto con il palmo della mano.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Scorrimento virtuale]]></header>
+                <copy>
+                    Scegli le impostazioni desiderate per i comandi gestuali di scorrimento verticale e orizzontale con <![CDATA[AlienTouch, quindi personalizza le dimensioni delle aree di scorrimento in base alle tue esigenze.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFusion]]></title>
+            <image>
+                <header><![CDATA[Impostazioni rapide]]></header>
+                <copy>
+                    <![CDATA[Controlla il consumo energetico. Le pratiche impostazioni rapide consentono di scegliere tra modalità ad alte prestazioni, bilanciata e di risparmio energetico.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Impostazioni avanzate]]></header>
+                <copy>
+                    <![CDATA[Regola il funzionamento dei singoli componenti (scheda wireless, processore grafico e così via) per avere il controllo totale dell'hardware in qualsiasi modalità energetica.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Piani di alimentazione personalizzati]]></header>
+                <copy>
+                    <![CDATA[Crea tutti i piani di alimentazione necessari per soddisfare qualsiasi esigenza. Ottimizza l'ambiente per un gioco specifico, quindi salva e modifica il piano nell'interfaccia AlienFusion.  ]]></copy>
+            </image>
+        </tab>
+    </commandCenter>
+    <exploreLightingRx>
+        <copy><![CDATA[Crea il tuo schema di illuminazione personalizzato con oltre 10.240 miliardi di combinazioni possibili.]]></copy>
+        <button><![CDATA[nascondi controlli]]></button>
+    </exploreLightingRx>
+    <gallery>
+        <image>
+            <title><![CDATA[Insieme per la vittoria.]]></title>
+            <copy><![CDATA[Vivi un'esperienza di gioco straordinaria con la nuova generazione di notebook Alienware.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 14]]></title>
+            <copy><![CDATA[Potente e compatto.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 17]]></title>
+            <copy><![CDATA[Le prestazioni di gioco di un desktop. Senza desktop.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 18]]></title>
+            <copy><![CDATA[Il notebook per il gioco da 18" più potente dell'universo.]]></copy>
+        </image>
+    </gallery>
+    <videoGallerr>
+        <video>
+            <productCategory><![CDATA[Anthem Video]]></productCategory>
+            <title><![CDATA[Alienware: vittoria garantita]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[AW 14 - Esperti del prodotto ]]></productCategory>
+            <title><![CDATA[Alienware 14 - Analisi degli esperti]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[AW 17 - Esperti del prodotto ]]></productCategory>
+            <title><![CDATA[Alienware 17 - Analisi degli esperti]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[AW 18 - Esperti del prodotto ]]></productCategory>
+            <title><![CDATA[Alienware 18 - Analisi degli esperti]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Hero AW 14]]></productCategory>
+            <title><![CDATA[Nuovo Alienware 14: provalo]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Hero AW 17]]></productCategory>
+            <title><![CDATA[Nuovo Alienware 17: provalo]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Hero AW 18]]></productCategory>
+            <title><![CDATA[Nuovo Alienware 18: provalo]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Linea di campioni EPICI]]></productCategory>
+            <title><![CDATA[Nuovi notebook Alienware: esperienza di gioco straordinaria]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[La nascita della leggenda]]></productCategory>
+            <title><![CDATA[Il viaggio epico: la realizzazione dei notebook Alienware]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Dietro la macchina: design interno]]></productCategory>
+            <title><![CDATA[Dietro la macchina: design interno]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Dietro la macchina: design EPICO]]></productCategory>
+            <title><![CDATA[Dietro la macchina: design industriale]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Dietro la macchina: Command Center]]></productCategory>
+            <title><![CDATA[Dietro la macchina: Command Center]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Dietro la macchina: Command Center]]></productCategory>
+            <title><![CDATA[Command Center:  AlienFX™]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Dietro la macchina: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: AlienTouch™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Dietro la macchina: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: AlienFusion]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Dietro la macchina: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: Alienware TactX™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Dietro la macchina: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: AlienAdrenaline]]></title>
+        </video>
+    </videoGallerr>
+</copy>

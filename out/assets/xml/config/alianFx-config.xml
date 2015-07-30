@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <alienFx>
+        <swatches>
+            <color name="hex1" state="off">0x00F0F0</color>
+            <color name="hex2" state="off">0x00F0A0</color>
+            <color name="hex3" state="off">0x00F060</color>
+            <color name="hex4" state="off">0x00F000</color>
+            <color name="hex5" state="off">0xA0F000</color>
+            <color name="hex6" state="off">0xD0F000</color>
+            <color name="hex7" state="off">0xF0E000</color>
+            <color name="hex8" state="off">0xF08000</color>
+            <color name="hex9" state="off">0xF05000</color>
+            <color name="hex10" state="on">0xF00000</color>
+            <color name="hex11" state="off">0xF00070</color>
+            <color name="hex12" state="off">0xF000B0</color>
+            <color name="hex13" state="off">0xF000F0</color>
+            <color name="hex14" state="off">0x9000F0</color>
+            <color name="hex15" state="off">0x5001F0</color>
+            <color name="hex16" state="off">0x0000F0</color>
+            <color name="hex17" state="off">0x0060F0</color>
+            <color name="hex18" state="off">0x00A0F0</color>
+            <color name="hex19" state="off">0x000000</color>
+            <color name="hex20" state="off">0xFFFFFF</color>
+        </swatches>
+        <buttons>
+
+        </buttons>
+    </alienFx>
+
+</config>

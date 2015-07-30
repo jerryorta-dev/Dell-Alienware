@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <gallery>
+        <LoaderMax name="tnQueue" load="false">
+            <ImageLoader cat="1" url="laptop-aw-interactive-gallery-1-family-tn.png" name="tn1" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="2" url="laptop-aw-interactive-gallery-2-14a-tn.png" name="tn2" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="2" url="laptop-aw-interactive-gallery-3-14b-tn.png" name="tn3" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="2" url="laptop-aw-interactive-gallery-3-14c-tn.png" name="tn4" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="3" url="laptop-aw-interactive-gallery-4-17a-tn.png" name="tn5" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="3" url="laptop-aw-interactive-gallery-5-17b-tn.png" name="tn6" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="3" url="laptop-aw-interactive-gallery-5-17c-tn.png" name="tn7" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="4" url="laptop-aw-interactive-gallery-6-18a-tn.png" name="tn8" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="4" url="laptop-aw-interactive-gallery-7-18b-tn.png" name="tn9" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="4" url="laptop-aw-interactive-gallery-7-18c-tn.png" name="tn10" width="106" height="62" scaleMode="proportionalInside" alpha="1" />
+        </LoaderMax>
+        <LoaderMax name="medQueue" load="false">
+            <ImageLoader cat="1" url="laptop-aw-interactive-gallery-1-family.png" name="med1" width="725" height="352" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="2" url="laptop-aw-interactive-gallery-2-14a.png" name="med2" width="725" height="352" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="2" url="laptop-aw-interactive-gallery-3-14b.png" name="med3" width="725" height="352" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="2" url="laptop-aw-interactive-gallery-3-14c.png" name="med4" width="725" height="352" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="3" url="laptop-aw-interactive-gallery-4-17a.png" name="med5" width="725" height="352" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="3" url="laptop-aw-interactive-gallery-5-17b.png" name="med6" width="725" height="352" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="3" url="laptop-aw-interactive-gallery-5-17c.png" name="med7" width="725" height="352" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="4" url="laptop-aw-interactive-gallery-6-18a.png" name="med8" width="725" height="352" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="4" url="laptop-aw-interactive-gallery-7-18b.png" name="med9" width="725" height="352" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="4" url="laptop-aw-interactive-gallery-7-18c.png" name="med10" width="725" height="352" scaleMode="proportionalInside" alpha="1" />
+        </LoaderMax>
+        <LoaderMax name="lgQueue" load="false">
+            <ImageLoader cat="1" url="laptop-aw-interactive-gallery-1-family-lrg.png" name="lrg1" width="1920" height="1080" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="2" url="laptop-aw-interactive-gallery-2-14a-lrg.png" name="lrg2" width="1920" height="1080" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="2" url="laptop-aw-interactive-gallery-3-14b-lrg.png" name="lrg3" width="1920" height="1080" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="2" url="laptop-aw-interactive-gallery-3-14c-lrg.png" name="lrg4" width="1920" height="1080" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="3" url="laptop-aw-interactive-gallery-4-17a-lrg.png" name="lrg5" width="1920" height="1080" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="3" url="laptop-aw-interactive-gallery-5-17b-lrg.png" name="lrg6" width="1920" height="1080" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="3" url="laptop-aw-interactive-gallery-5-17c-lrg.png" name="lrg7" width="1920" height="1080" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="4" url="laptop-aw-interactive-gallery-6-18a-lrg.png" name="lrg8" width="1920" height="1080" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="4" url="laptop-aw-interactive-gallery-7-18b-lrg.png" name="lrg9" width="1920" height="1080" scaleMode="proportionalInside" alpha="1" />
+            <ImageLoader cat="4" url="laptop-aw-interactive-gallery-7-18c-lrg.png" name="lrg10" width="1920" height="1080" scaleMode="proportionalInside" alpha="1" />
+        </LoaderMax>
+    </gallery>
+
+</config>

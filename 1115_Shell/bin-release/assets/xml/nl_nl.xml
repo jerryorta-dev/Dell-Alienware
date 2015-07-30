@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<copy>
+    <language>en</language>
+    <embedFonts>waar</embedFonts>
+    <hero>
+        <title><![CDATA[Nieuwe Alienware-laptops]]></title>
+        <headline><![CDATA[ONTWORPEN VOOR DE OVERWINNING]]></headline>
+        <subhead><![CDATA[Verover nieuwe werelden met de volgende generatie Alienware-laptops.]]></subhead>
+        <cta><![CDATA[VOLLEDIG BEHEER]]></cta>
+    </hero>
+    <shell>
+        <nav>
+            <item id="1">
+                <title><![CDATA[ONTWERP]]></title>
+            </item>
+            <item id="2">
+                <title><![CDATA[COMMAND<br />CENTER]]></title>
+            </item>
+            <item id="3">
+                <title><![CDATA[ONTDEK<br />ALIENFX]]></title>
+            </item>
+            <item ie="4">
+                <title><![CDATA[GALERIE]]></title>
+            </item>
+            <item ie="5">
+                <title><![CDATA[VIDEO]]></title>
+            </item>
+        </nav>
+        <buttons>
+            <buyNow>
+                <title><![CDATA[Stel uw eigen werkstation samen]]></title>
+            </buyNow>
+        </buttons>
+    </shell>
+    <design>
+        <buttons>
+            <button name="onOff">
+                <on><![CDATA[Ingeschakeld]]></on>
+                <off><![CDATA[Uitgeschakeld]]></off>
+            </button>
+        </buttons>
+        <Alienware14 name="aw14">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Robuust chassis]]></title>
+                    <copy><![CDATA[Een geanodiseerde aluminium shell en een frame uit magnesiumlegering beschermen uw LCD-scherm.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Duurzaam scharnier]]></title>
+                    <copy>
+                        <![CDATA[Vertrouw op duurzaamheid met een scharnier dat tot wel 20.000 keer kan openen en sluiten.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Indrukwekkende verlichting ]]></title>
+                    <copy><![CDATA[Pas uw externe verlichting aan met meer dan 10 miljard kleurencombinaties.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Poorten]]></title>
+                    <copy><![CDATA[Verbind al uw game-accessoires met meerdere poorten om media sneller te downloaden.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Stijlvol, nieuw ontwerp]]></title>
+                    <copy><![CDATA[Onderscheid u van de standaard met een speciaal ontworpen systeem.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Maximale draagbaarheid]]></title>
+                    <copy>
+                        <![CDATA[Met een uitstekende batterijduur is Alienware 14 ontworpen voor intens gamen, waar u ook bent.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Nieuwste grafische afbeeldingen <br>en processoren]]></title>
+                    <copy>
+                        <![CDATA[Verhoog de intensiteit met de snelste prestaties en meest geavanceerde grafische technologie.]]></copy>
+                </item>
+                <item name="feature8">
+                    <title><![CDATA[Full HD-beeldscherm]]></title>
+                    <copy>
+                        <![CDATA[Speel 's nachts games met een toetsenbord met achtergrondverlichting en een 14-inch Full HD-beeldscherm met antireflectiecoating.]]></copy>
+                </item>
+            </features>
+        </Alienware14>
+        <Alienware17 name="aw17">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Robuust chassis]]></title>
+                    <copy><![CDATA[Een geanodiseerde aluminium shell en een frame uit magnesiumlegering beschermen uw LCD-scherm.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Duurzaam scharnier]]></title>
+                    <copy>
+                        <![CDATA[Vertrouw op duurzaamheid met een scharnier dat tot wel 20.000 keer kan openen en sluiten.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Indrukwekkende verlichting ]]></title>
+                    <copy><![CDATA[Pas uw externe verlichting aan met meer dan 10 miljard kleurencombinaties.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Poorten]]></title>
+                    <copy><![CDATA[Verbind al uw game-accessoires met meerdere poorten om media sneller te downloaden.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Stijlvol, nieuw ontwerp]]></title>
+                    <copy><![CDATA[Onderscheid u van de standaard met een speciaal ontworpen systeem.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Nieuwste grafische afbeeldingen <br>en processoren]]></title>
+                    <copy>
+                        <![CDATA[Verhoog de intensiteit met de snelste prestaties en meest geavanceerde grafische technologie.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Full HD-beeldscherm]]></title>
+                    <copy>
+                        <![CDATA[Speel 's nachts games met een toetsenbord met achtergrondverlichting en een 17,3-inch Full HD-beeldscherm met antireflectiecoating.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware17>
+        <Alienware18 name="aw18">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Robuust chassis]]></title>
+                    <copy><![CDATA[Een geanodiseerde aluminium shell en een frame uit magnesiumlegering beschermen uw LCD-scherm.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Duurzaam scharnier]]></title>
+                    <copy>
+                        <![CDATA[Vertrouw op duurzaamheid met een scharnier dat tot wel 20.000 keer kan openen en sluiten.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Indrukwekkende verlichting]]></title>
+                    <copy><![CDATA[Pas uw externe verlichting aan met meer dan 10 miljard kleurencombinaties.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Poorten]]></title>
+                    <copy><![CDATA[Verbind al uw game-accessoires met meerdere poorten om media sneller te downloaden.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Stijlvol, nieuw ontwerp]]></title>
+                    <copy><![CDATA[Onderscheid u van de standaard met een speciaal ontworpen systeem.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Nieuwste grafische afbeeldingen <br>en processoren]]></title>
+                    <copy>
+                        <![CDATA[Verhoog de intensiteit met de snelste prestaties en meest geavanceerde grafische technologie.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Full HD-beeldscherm]]></title>
+                    <copy>
+                        <![CDATA[Speel 's nachts games met een toetsenbord met achtergrondverlichting en een 14-inch Full HD-beeldscherm met antireflectiecoating.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware18>
+    </design>
+    <commandCenter>
+        <tab>
+            <title><![CDATA[Overzicht]]></title>
+            <image>
+                <header><![CDATA[Command Center]]></header>
+                <copy>
+                    <![CDATA[Neem controle over de game met het nieuw ontworpen Alienware Command Center. Kies uw eigen belichting en speciale effecten, versnel uw prestaties, houd uw in-game resultaten bij en meer: alles in één hub.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFX]]></title>
+            <image>
+                <header><![CDATA[Thema's]]></header>
+                <copy>
+                    <![CDATA[Maak uw eigen speciale effecten en thema's om uzelf met een unieke stijl uit te drukken.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Verlichtingseffecten en programmeerbare gebeurtenissen]]></header>
+                <copy>
+                    <![CDATA[Stel uw zones in om kleuren te wijzigen, te pulseren, aan te blijven of een waarschuwing aan te geven met een palet met twintig kleuren.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Games met AlienFX-functie]]></header>
+                <copy>
+                    <![CDATA[Pas speciale lichteffecten aan op basis van in-game gebeurtenissen in meer dan 55 AlienFX-compatibele games.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienAdreneline]]></title>
+            <image>
+                <header><![CDATA[Game Mode]]></header>
+                <copy>
+                    <![CDATA[Bepaal hoe uw game of toepassing wordt gestart met thema's of VOIP en personaliseer welke u bij het opstarten wilt openen of sluiten.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Accelerator]]></header>
+                <copy>
+                    <![CDATA[Geef uw systeem extra snelheid door onnodige Windows-gebaseerde toepassingen tijdelijk te sluiten. Uw configuratie wordt niet gewijzigd en keert terug naar de oorspronkelijke toestand wanneer de game is afgelopen.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Prestatiecontrole]]></header>
+                <copy>
+                    <![CDATA[Controleer het gebruik van harde schijf, geheugen, netwerk, processor of grafische kaart met een hulpprogramma waarmee u in realtime of later de prestaties kunt bijhouden of problemen kunt identificeren.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTactX]]></title>
+            <image>
+                <header><![CDATA[Door gebruiker programmeerbare macrotoetsen]]></header>
+                <copy>
+                    <![CDATA[Wijs verschillende functies toe aan verticale en horizontale macrotoetsen. Combineer een reeks toetsaanslagen, maak voorinstellingen voor uw e-mail, internet of mediaspeler, of stel sneltoetsen vast waarmee een programma met één druk op de knop kan worden gestart. Alleen beschikbaar op Alienware 17 en Alienware 18.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Profielen importeren en exporteren]]></header>
+                <copy>
+                    <![CDATA[Maak game-specifieke profielen die u zelf kunt gebruiken en met vrienden kunt delen. Wanneer de game is afgelopen, kunt u een niet-gaming-profiel terugzetten voor dagelijks gebruik. Alleen beschikbaar op Alienware 17 en Alienware 18.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTouch]]></title>
+            <image>
+                <header><![CDATA[Tikken]]></header>
+                <copy>
+                    <![CDATA[Pas uw tikinstellingen aan om 'tikken en slepen' of 'sleepacties vergrendelen' in te schakelen, of schakel tikgebaren volledig uit.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Gevoeligheid]]></header>
+                <copy>
+                    <![CDATA[Verhoog of verlaag de gevoeligheid van uw touchpad om het gevoeliger of minder gevoelig te maken voor contact met uw handpalm.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Virtueel schuiven]]></header>
+                <copy>
+                    <![CDATA[Kies uw eigen instellingen voor verticale en horizontale schuifgebaren met AlienTouch en pas de grootte van de gebieden zodanig aan zodat u er het beste mee kunt werken.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFusion]]></title>
+            <image>
+                <header><![CDATA[Snelle instellingen]]></header>
+                <copy>
+                    <![CDATA[Neem de controle over uw stroomverbruik. Met handige snelle instellingen kunt u kiezen tussen krachtige, gebalanceerde of energiebesparende modi.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Geavanceerde instellingen]]></header>
+                <copy>
+                    <![CDATA[Pas het gedrag van individuele componenten aan, zoals draadloze adapter, grafische processor en meer, zodat u totale controle heeft over uw hardware in elke energiemodus.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Aangepaste energie-instellingen]]></header>
+                <copy>
+                    <![CDATA[Maak een onbeperkt aantal energie-instellingen voor verschillende behoeften. Optimaliseer instellingen voor een specifieke game, sla deze instellingen op en bewerk uw plan in de AlienFusion-interface.  ]]></copy>
+            </image>
+        </tab>
+    </commandCenter>
+    <exploreLightingRx>
+        <copy><![CDATA[Maak uw eigen aangepaste verlichtingsschema uit 10.240 miljard mogelijke combinaties.]]></copy>
+        <button><![CDATA[bedieningselementen verbergen]]></button>
+    </exploreLightingRx>
+    <gallery>
+        <image>
+            <title><![CDATA[Samen behalen we de overwinning.]]></title>
+            <copy><![CDATA[Ervaar het ultieme gamen met de volgende generatie Alienware-laptops.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 14]]></title>
+            <copy><![CDATA[Geschikt voor elke rugzak.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 17]]></title>
+            <copy><![CDATA[Ervaar de prestaties van een gamingdesktop. Zonder de desktop.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 18]]></title>
+            <copy><![CDATA[De krachtigste 18-inch gaminglaptop in het universum.]]></copy>
+        </image>
+    </gallery>
+    <videoGallerr>
+        <video>
+            <productCategory><![CDATA[Anthem Video]]></productCategory>
+            <title><![CDATA[Alienware : Glorierijk gamen]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Productexpert AW 14]]></productCategory>
+            <title><![CDATA[Review van Alienware 14 door expert]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Productexpert AW 17]]></productCategory>
+            <title><![CDATA[Review van Alienware 17 door expert]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Productexpert AW 18]]></productCategory>
+            <title><![CDATA[Review van Alienware 18 door expert]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Hero AW 14]]></productCategory>
+            <title><![CDATA[Ervaar de nieuwe Alienware 14]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Hero AW 17]]></productCategory>
+            <title><![CDATA[Ervaar de nieuwe Alienware 17]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Hero AW 18]]></productCategory>
+            <title><![CDATA[Ervaar de nieuwe Alienware 18]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[EPIC Family Hero]]></productCategory>
+            <title><![CDATA[Nieuwe Alienware-laptops: ultieme gamingervaring]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[The Making of EPIC]]></productCategory>
+            <title><![CDATA[Epic Journey : The Making of Alienware Notebooks]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Behind the Machine : Internal Design]]></productCategory>
+            <title><![CDATA[Behind the Machine :  Internal Design]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Behind the Machine:  EPIC Design]]></productCategory>
+            <title><![CDATA[Behind the Machine :  Internal Design]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Behind the Machine: Command Center]]></productCategory>
+            <title><![CDATA[Behind the Machine: Command Center]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Behind the Machine: Command Center]]></productCategory>
+            <title><![CDATA[Command Center :  AlienFX™]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Behind the Machine: Command Center]]></productCategory>
+            <title><![CDATA[Command Center :  AlienTouch™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Behind the Machine: Command Center]]></productCategory>
+            <title><![CDATA[Command Center :  AlienFusion]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Behind the Machine: Command Center]]></productCategory>
+            <title><![CDATA[Command Center :  Alienware TactX™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Behind the Machine: Command Center]]></productCategory>
+            <title><![CDATA[Command Center :  AlienAdrenaline]]></title>
+        </video>
+    </videoGallerr>
+</copy>

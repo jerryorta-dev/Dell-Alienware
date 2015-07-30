@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<copy>
+    <language>en</language>
+    <embedFonts>true</embedFonts>
+    <hero>
+        <title><![CDATA[全新的 Alienware 筆記型電腦]]></title>
+        <headline><![CDATA[致勝的設計]]></headline>
+        <subhead><![CDATA[新一代的 Alienware 筆記型電腦可協助您征服新世界。]]></subhead>
+        <cta><![CDATA[掌控全局]]></cta>
+    </hero>
+    <shell>
+        <nav>
+            <item id="1">
+                <title><![CDATA[設計]]></title>
+            </item>
+            <item id="2">
+                <title><![CDATA[指揮<br />中心]]></title>
+            </item>
+            <item id="3">
+                <title><![CDATA[探索<br />ALIENFX]]></title>
+            </item>
+            <item ie="4">
+                <title><![CDATA[產品圖庫]]></title>
+            </item>
+            <item ie="5">
+                <title><![CDATA[影片]]></title>
+            </item>
+        </nav>
+        <buttons>
+            <buyNow>
+                <title><![CDATA[打造個人專屬產品]]></title>
+            </buyNow>
+        </buttons>
+    </shell>
+    <design>
+        <buttons>
+            <button name="onOff">
+                <on><![CDATA[開]]></on>
+                <off><![CDATA[關]]></off>
+            </button>
+        </buttons>
+        <Alienware14 name="aw14">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[堅固耐用的機體]]></title>
+                    <copy><![CDATA[電鍍鋁面外殼加上鎂合金外框，可為液晶顯示器提供周全保護。]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[經久耐用的鉸鏈]]></title>
+                    <copy>
+                        <![CDATA[鉸鏈設計可開關高達 20,000 次，經久耐用，值得信賴。]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[生動逼真的照明效果 ]]></title>
+                    <copy><![CDATA[有超過 100 億種色彩組合，可供您自訂外部照明效果。]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[連接埠]]></title>
+                    <copy><![CDATA[有多個連接埠可供您連接所有遊戲裝備，下載媒體更快速。]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[全新的簡約設計]]></title>
+                    <copy><![CDATA[突破制式觀點，為您設計與眾不同的系統。]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[最佳的可攜性]]></title>
+                    <copy>
+                        <![CDATA[Alienware 14 具備優異的電池續航力，是專為您隨時隨地體驗極致的遊戲快感而精心打造。]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[最新的顯示卡<br>與處理器]]></title>
+                    <copy>
+                        <![CDATA[採用最先進的顯示卡技術，以最快速的效能大幅提升您的遊戲快感。]]></copy>
+                </item>
+                <item name="feature8">
+                    <title><![CDATA[Full HD 顯示器]]></title>
+                    <copy>
+                        <![CDATA[採用背光鍵盤以及有防眩光鍍膜的 14 吋 Full HD 顯示器，讓您在昏暗燈光下也能玩遊戲。]]></copy>
+                </item>
+            </features>
+        </Alienware14>
+        <Alienware17 name="aw17">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[堅固耐用的機體]]></title>
+                    <copy><![CDATA[電鍍鋁面外殼加上鎂合金外框，可為液晶顯示器提供周全保護。]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[經久耐用的鉸鏈]]></title>
+                    <copy>
+                        <![CDATA[鉸鏈設計可開關高達 20,000 次，經久耐用，值得信賴。]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[生動逼真的照明效果 ]]></title>
+                    <copy><![CDATA[有超過 100 億種色彩組合，可供您自訂外部照明效果。]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[連接埠]]></title>
+                    <copy><![CDATA[有多個連接埠可供您連接所有遊戲裝備，下載媒體更快速。]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[全新的簡約設計]]></title>
+                    <copy><![CDATA[突破制式觀點，為您設計與眾不同的系統。]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[最新的顯示卡<br>與處理器]]></title>
+                    <copy>
+                        <![CDATA[採用最先進的顯示卡技術，以最快速的效能大幅提升您的遊戲快感。]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Full HD 顯示器]]></title>
+                    <copy>
+                        <![CDATA[採用背光鍵盤以及有防眩光鍍膜的 17.3 吋 Full HD 顯示器，讓您在昏暗燈光下也能玩遊戲。]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware17>
+        <Alienware18 name="aw18">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[堅固耐用的機體]]></title>
+                    <copy><![CDATA[電鍍鋁面外殼加上鎂合金外框，可為液晶顯示器提供周全保護。]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[經久耐用的鉸鏈]]></title>
+                    <copy>
+                        <![CDATA[鉸鏈設計可開關高達 20,000 次，經久耐用，值得信賴。]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[生動逼真的照明效果]]></title>
+                    <copy><![CDATA[有超過 100 億種色彩組合，可供您自訂外部照明效果。]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[連接埠]]></title>
+                    <copy><![CDATA[有多個連接埠可供您連接所有遊戲裝備，下載媒體更快速。]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[全新的簡約設計]]></title>
+                    <copy><![CDATA[突破制式觀點，為您設計與眾不同的系統。]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[最新的顯示卡<br>與處理器]]></title>
+                    <copy>
+                        <![CDATA[採用雙顯示卡搭配選購的超頻技術，以最快速的效能大幅提升您的遊戲快感。]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Full HD 顯示器]]></title>
+                    <copy>
+                        <![CDATA[採用背光鍵盤以及搭載 TrueLife™ 技術的大型 18.4 吋 Full HD 螢幕，讓您在昏暗燈光下也能玩遊戲。]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware18>
+    </design>
+    <commandCenter>
+        <tab>
+            <title><![CDATA[概覽]]></title>
+            <image>
+                <header><![CDATA[指揮中心]]></header>
+                <copy>
+                    <![CDATA[重新設計的 Alienware 指揮中心可讓您在遊戲中掌控全局。 您可以選擇自己的照明與特殊效果、加速效能、監控遊戲中的結果等多項功能，全部集中操控。]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFX]]></title>
+            <image>
+                <header><![CDATA[主題]]></header>
+                <copy>
+                    <![CDATA[建立您自己的特殊效果和主題，以獨特的外觀展現自我風格。]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[照明效果及可程式化事件]]></header>
+                <copy>
+                    <![CDATA[有 20 種色彩可供您設定發光區變更色彩、規律地跳動、保持單一純色，或是顯示警示訊息。]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[採用 AlienFX 技術的遊戲]]></header>
+                <copy>
+                    在<![CDATA[超過 55 款與 AlienFX 相容的遊戲當中，根據遊戲中的事件自訂特殊照明效果。]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienAdrenaline]]></title>
+            <image>
+                <header><![CDATA[遊戲模式]]></header>
+                <copy>
+                    <![CDATA[利用主題或 VOIP 自訂遊戲或應用程式的啟動方式，並針對啟動時您所要開啟或關閉的遊戲或應用程式進行個人化設定。]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[加速器]]></header>
+                <copy>
+                    <![CDATA[暫時關閉不需使用的 Windows 應用程式，即可大幅提升系統的執行速度。 您的組態並不會改變，等到遊戲結束後便會回復成原來的狀態。]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[效能監控]]></header>
+                <copy>
+                    <![CDATA[透過工具監控硬碟、記憶體、網路、處理器或顯示卡的使用情況，讓您能即時或稍後追蹤系統效能並發現問題。]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTactX]]></title>
+            <image>
+                <header><![CDATA[使用者可程式化的巨集按鍵]]></header>
+                <copy>
+                    <![CDATA[指派不同的功能給垂直和水平的巨集按鍵。 您可以組合一連串的按鍵，為電子郵件、Web 或媒體播放程式建立預設功能，或是建立按個按鈕即可啟動程式的捷徑。 僅限 Alienware 17 和 Alienware 18 提供此項功能。]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[匯入及匯出設定檔]]></header>
+                <copy>
+                    <![CDATA[建立遊戲專用的設定檔，供您自己使用，或是與朋友分享。 當遊戲結束之後，還原非遊戲設定檔以供日常使用。 僅限 Alienware 17 和 Alienware 18 提供此項功能。]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTouch]]></title>
+            <image>
+                <header><![CDATA[點選功能]]></header>
+                <copy>
+                    <![CDATA[自訂您要的點選設定，可啟用「點選與拖曳」或「鎖定拖曳」功能，或者完全停用點選手勢。]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[靈敏度]]></header>
+                <copy>
+                    <![CDATA[您可以增加或減低觸控板的靈敏度，以調高或調低其與手掌接觸的靈敏度。]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[虛擬捲動功能]]></header>
+                <copy>
+                    <![CDATA[AlienTouch 可讓您選擇自己的垂直和水平手勢捲動設定，然後自訂最符合您需要的捲動區域大小。]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFusion]]></title>
+            <image>
+                <header><![CDATA[快速設定]]></header>
+                <copy>
+                    <![CDATA[可讓您完全掌控電源使用情況。 快速設定可方便您選擇高效能、平衡或省電模式。]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[進階設定]]></header>
+                <copy>
+                    <![CDATA[可用來調整無線配接卡、繪圖處理器等個別元件的行為方式，讓您在任何電源模式下都能完全掌控硬體使用狀況。]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[自訂電源計劃]]></header>
+                <copy>
+                    <![CDATA[建立不限數量的電源計劃，以因應各種不同的需求。 您可以透過 AlienFusion 介面，針對特定遊戲的玩法進行最佳化，然後儲存並修改您的計劃。  ]]></copy>
+            </image>
+        </tab>
+    </commandCenter>
+    <exploreLightingRx>
+        <copy><![CDATA[有 10.24 兆種組合可供您建立自己的自訂照明方式。]]></copy>
+        <button><![CDATA[隱藏控制]]></button>
+    </exploreLightingRx>
+    <gallery>
+        <image>
+            <title><![CDATA[讓我們一起迎接勝利。]]></title>
+            <copy><![CDATA[新一代的 Alienware 筆記型電腦可讓您擁有最極致的遊戲體驗。]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 14]]></title>
+            <copy><![CDATA[專為隨身攜帶而打造的機種。]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 17]]></title>
+            <copy><![CDATA[擁有桌上型電腦的遊戲效能， 並省下桌面空間。]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 18]]></title>
+            <copy><![CDATA[全球功能最強大的 18 吋遊戲專用筆記型電腦。]]></copy>
+        </image>
+    </gallery>
+    <videoGallerr>
+        <video>
+            <productCategory><![CDATA[光榮時刻影片]]></productCategory>
+            <title><![CDATA[Alienware：電玩競技冠軍]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[AW 14 產品專家]]></productCategory>
+            <title><![CDATA[Alienware 14 專家評論]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[AW 17 產品專家]]></productCategory>
+            <title><![CDATA[Alienware 17 專家評論]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[AW 18 產品專家]]></productCategory>
+            <title><![CDATA[Alienware 18 專家評論]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[AW 14 產品主軸]]></productCategory>
+            <title><![CDATA[全新的 Alienware 14：請來親自體驗]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[AW 17 產品主軸]]></productCategory>
+            <title><![CDATA[全新的 Alienware 17：請來親自體驗]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[AW 18 產品主軸]]></productCategory>
+            <title><![CDATA[全新的 Alienware 18：請來親自體驗]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[經典款系列主軸]]></productCategory>
+            <title><![CDATA[全新的 Alienware 筆記型電腦：最極致的遊戲專用機種]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[經典款製作過程]]></productCategory>
+            <title><![CDATA[經典之旅：Alienware 筆記型電腦的製作過程]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[幕後揭密：內部設計]]></productCategory>
+            <title><![CDATA[幕後揭密：內部設計]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[幕後揭密：經典款設計]]></productCategory>
+            <title><![CDATA[幕後揭密：工業設計]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[幕後揭密：指揮中心]]></productCategory>
+            <title><![CDATA[幕後揭密：指揮中心]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[幕後揭密：指揮中心]]></productCategory>
+            <title><![CDATA[指揮中心：AlienFX™]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[幕後揭密：指揮中心]]></productCategory>
+            <title><![CDATA[指揮中心：AlienTouch™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[幕後揭密：指揮中心]]></productCategory>
+            <title><![CDATA[指揮中心：AlienFusion]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[幕後揭密：指揮中心]]></productCategory>
+            <title><![CDATA[指揮中心：Alienware TactX™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[幕後揭密：指揮中心]]></productCategory>
+            <title><![CDATA[指揮中心：AlienAdrenaline]]></title>
+        </video>
+    </videoGallerr>
+</copy>

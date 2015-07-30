@@ -1,0 +1,1 @@
+﻿package shell.navigation.navItemStates.abstract{	//State Machine Interface	public interface IState_ButtonONOFF	{		function ON():void;		function OFF():void;        function OVER():void;	}}

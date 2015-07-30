@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<copy>
+    <language>en</language>
+    <embedFonts>αληθινό</embedFonts>
+    <hero>
+        <title><![CDATA[Νέοι φορητοί υπολογιστές Alienware]]></title>
+        <headline><![CDATA[ΣΧΕΔΙΑΣΜΕΝΟΙ ΓΙΑ ΝΙΚΕΣ]]></headline>
+        <subhead><![CDATA[Κατακτήστε νέους κόσμους με την επόμενη γενιά των φορητών υπολογιστών Alienware.]]></subhead>
+        <cta><![CDATA[ΠΑΡΤΕ ΤΟΝ ΕΛΕΓΧΟ ΣΤΑ ΧΕΡΙΑ ΣΑΣ]]></cta>
+    </hero>
+    <shell>
+        <nav>
+            <item id="1">
+                <title><![CDATA[ΣΧΕΔΙΑΣΗ]]></title>
+            </item>
+            <item id="2">
+                <title><![CDATA[ΚΕΝΤΡΟ<br />ΕΝΤΟΛΩΝ]]></title>
+            </item>
+            <item id="3">
+                <title><![CDATA[ΑΝΑΚΑΛΥΨΤΕ ΤΟ<br />ALIENFX]]></title>
+            </item>
+            <item ie="4">
+                <title><![CDATA[ΕΙΚΟΝΕΣ]]></title>
+            </item>
+            <item ie="5">
+                <title><![CDATA[ΒΙΝΤΕΟ]]></title>
+            </item>
+        </nav>
+        <buttons>
+            <buyNow>
+                <title><![CDATA[Δημιουργήστε το δικό σας]]></title>
+            </buyNow>
+        </buttons>
+    </shell>
+    <design>
+        <buttons>
+            <button name="onOff">
+                <on><![CDATA[Ενεργοποίηση]]></on>
+                <off><![CDATA[Απενεργοποίηση]]></off>
+            </button>
+        </buttons>
+        <Alienware14 name="aw14">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Στιβαρό σώμα]]></title>
+                    <copy><![CDATA[Το περίβλημα από ανοδιωμένο αλουμίνιο και το πλαίσιο από κράμα μαγνησίου προστατεύουν την οθόνη LCD.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Ανθεκτική άρθρωση]]></title>
+                    <copy>
+                        <![CDATA[Βασιστείτε στην ανθεκτικότητα με μια άρθρωση που έχει σχεδιαστεί ώστε να ανοίγει και να κλείνει έως 20.000 φορές.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Εντυπωσιακός φωτισμός ]]></title>
+                    <copy><![CDATA[Προσαρμόστε τον εξωτερικό φωτισμό με περισσότερους από 10 δισεκατομμύρια χρωματικούς συνδυασμούς.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Θύρες]]></title>
+                    <copy><![CDATA[Συνδέστε όλα τα εξαρτήματα του εξοπλισμού των παιχνιδιών σας με πολλές θύρες για να κατεβάζετε μέσα πιο γρήγορα.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Κομψή νέα σχεδίαση]]></title>
+                    <copy><![CDATA[Αποδράστε από τα συνηθισμένα με ένα σύστημα κορυφαίας σχεδίασης.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Μέγιστη φορητότητα]]></title>
+                    <copy>
+                        <![CDATA[Με την εξαιρετική διάρκεια ζωής της μπαταρίας του, το Alienware 14 έχει σχεδιαστεί για να παίζετε παιχνίδια με μεγάλη ένταση παντού.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Γραφικά και <br>& επεξεργαστές τελευταίας τεχνολογίας]]></title>
+                    <copy>
+                        <![CDATA[Ανεβάστε τα επίπεδα της έντασης με την ταχύτερη απόδοση και την πιο προηγμένη τεχνολογία γραφικών.]]></copy>
+                </item>
+                <item name="feature8">
+                    <title><![CDATA[Οθόνη Full HD]]></title>
+                    <copy>
+                        <![CDATA[Απολαύστε τα παιχνίδια σας στο σκοτάδι χάρη στο φωτιζόμενο πληκτρολόγιο και την οθόνη Full HD 14" με αντιθαμβωτική επικάλυψη.]]></copy>
+                </item>
+            </features>
+        </Alienware14>
+        <Alienware17 name="aw17">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Στιβαρό σώμα]]></title>
+                    <copy><![CDATA[Το περίβλημα από ανοδιωμένο αλουμίνιο και το πλαίσιο από κράμα μαγνησίου προστατεύουν την οθόνη LCD.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Ανθεκτική άρθρωση]]></title>
+                    <copy>
+                        <![CDATA[Βασιστείτε στην ανθεκτικότητα με μια άρθρωση που έχει σχεδιαστεί ώστε να ανοίγει και να κλείνει έως 20.000 φορές.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Εντυπωσιακός φωτισμός ]]></title>
+                    <copy><![CDATA[Προσαρμόστε τον εξωτερικό φωτισμό με περισσότερους από 10 δισεκατομμύρια χρωματικούς συνδυασμούς.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Θύρες]]></title>
+                    <copy><![CDATA[Συνδέστε όλα τα εξαρτήματα του εξοπλισμού των παιχνιδιών σας με πολλές θύρες για να κατεβάζετε μέσα πιο γρήγορα.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Κομψή νέα σχεδίαση]]></title>
+                    <copy><![CDATA[Αποδράστε από τα συνηθισμένα με ένα σύστημα κορυφαίας σχεδίασης.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Γραφικά και <br>& επεξεργαστές τελευταίας τεχνολογίας]]></title>
+                    <copy>
+                        <![CDATA[Ανεβάστε τα επίπεδα της έντασης με την ταχύτερη απόδοση και την πιο προηγμένη τεχνολογία γραφικών.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Οθόνη Full HD]]></title>
+                    <copy>
+                        <![CDATA[Απολαύστε τα παιχνίδια σας στο σκοτάδι χάρη στο φωτιζόμενο πληκτρολόγιο και την οθόνη Full HD 17,3" με αντιθαμβωτική επικάλυψη.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware17>
+        <Alienware18 name="aw18">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Στιβαρό σώμα]]></title>
+                    <copy><![CDATA[Το περίβλημα από ανοδιωμένο αλουμίνιο και το πλαίσιο από κράμα μαγνησίου προστατεύουν την οθόνη LCD.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Ανθεκτική άρθρωση]]></title>
+                    <copy>
+                        <![CDATA[Βασιστείτε στην ανθεκτικότητα με μια άρθρωση που έχει σχεδιαστεί ώστε να ανοίγει και να κλείνει έως 20.000 φορές.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Εντυπωσιακός φωτισμός]]></title>
+                    <copy><![CDATA[Προσαρμόστε τον εξωτερικό φωτισμό με περισσότερους από 10 δισεκατομμύρια χρωματικούς συνδυασμούς.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Θύρες]]></title>
+                    <copy><![CDATA[Συνδέστε όλα τα εξαρτήματα του εξοπλισμού των παιχνιδιών σας με πολλές θύρες για να κατεβάζετε μέσα πιο γρήγορα.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Κομψή νέα σχεδίαση]]></title>
+                    <copy><![CDATA[Αποδράστε από τα συνηθισμένα με ένα σύστημα κορυφαίας σχεδίασης.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Γραφικά και <br>& επεξεργαστές τελευταίας τεχνολογίας]]></title>
+                    <copy>
+                        <![CDATA[Ανεβάστε τα επίπεδα της έντασης με την ταχύτερη απόδοση, τη διπλή κάρτα γραφικών και τον προαιρετικά υπερχρονισμένο επεξεργαστή.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Οθόνη Full HD]]></title>
+                    <copy>
+                        <![CDATA[Απολαύστε τα παιχνίδια σας στο σκοτάδι χάρη στο φωτιζόμενο πληκτρολόγιο και την τεράστια οθόνη Full HD 18,4" με TrueLife™.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware18>
+    </design>
+    <commandCenter>
+        <tab>
+            <title><![CDATA[Επισκόπηση]]></title>
+            <image>
+                <header><![CDATA[Κέντρο εντολών]]></header>
+                <copy>
+                    <![CDATA[Πάρτε τον έλεγχο του παιχνιδιού με το επανασχεδιασμένο Κέντρο εντολών Alienware. Επιλέξτε το δικό σας φωτισμό και τα ειδικά εφέ, επιταχύνετε την απόδοσή σας, παρακολουθήστε τα μέχρι στιγμής αποτελέσματα του παιχνιδιού και ακόμη περισσότερα, όλα από ένα σημείο.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFX]]></title>
+            <image>
+                <header><![CDATA[Θέματα]]></header>
+                <copy>
+                    <![CDATA[Δημιουργήστε τα δικά σας ειδικά εφέ και θέματα για να εκφραστείτε μέσα από μια μοναδική εμφάνιση.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Εφέ φωτισμού και συμβάντα με δυνατότητα προγραμματισμού]]></header>
+                <copy>
+                    <![CDATA[Ορίστε τις ζώνες σας ώστε να αλλάζουν χρώμα, να πάλλονται, να παραμένουν σταθερές ή να υποδεικνύουν μια ειδοποίηση μέσα από μια παλέτα 20 χρωμάτων.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Παιχνίδια με δυνατότητα AlienFX]]></header>
+                <copy>
+                    <![CDATA[Προσαρμόστε ειδικά εφέ φωτισμού με βάση τα εσωτερικά συμβάντα του παιχνιδιού σε περισσότερα από 55 παιχνίδια που είναι συμβατά με AlienFX.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienAdreneline]]></title>
+            <image>
+                <header><![CDATA[Λειτουργία παιχνιδιού]]></header>
+                <copy>
+                    <![CDATA[Προσαρμόστε τον τρόπο εκκίνησης των παιχνιδιών ή των εφαρμογών σας με θέματα ή VOIP, και προσδιορίστε εκείνα που θέλετε να είναι ανοιχτά ή κλειστά κατά την εκκίνηση.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Επιταχυντής]]></header>
+                <copy>
+                    <![CDATA[Ενισχύστε την ταχύτητα του συστήματός σας κλείνοντας προσωρινά μη αναγκαίες εφαρμογές που βασίζονται στα Windows. Η διαμόρφωσή σας δεν αλλάζει και επανέρχεται στην αρχική της κατάσταση μετά την ολοκλήρωση του παιχνιδιού.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Παρακολούθηση απόδοσης]]></header>
+                <copy>
+                    <![CDATA[Παρακολουθήστε τη χρήση του σκληρού δίσκου, της μνήμης, του δικτύου, του επεξεργαστή ή της κάρτας γραφικών με ένα εργαλείο που σας επιτρέπει να παρακολουθείτε την απόδοση ή να εντοπίζετε προβλήματα σε πραγματικό ή μεταγενέστερο χρόνο.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTactX]]></title>
+            <image>
+                <header><![CDATA[Πλήκτρα μακροεντολών με δυνατότητα προγραμματισμού από το χρήστη]]></header>
+                <copy>
+                    <![CDATA[Ορίστε διαφορετικές λειτουργίες σε πλήκτρα μακροεντολών που είναι στοιχισμένα κάθετα και οριζόντια. Κάντε μια σειρά συνδυασμών πλήκτρων, δημιουργήστε προκαθορισμένες ρυθμίσεις για το email, το web ή το πρόγραμμα αναπαραγωγής μέσων, ή δημιουργήστε συντομεύσεις με δυνατότητα εκκίνησης ενός προγράμματος με το πάτημα ενός κουμπιού. Διατίθεται μόνο στα Alienware 17 και Alienware 18.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Εισαγωγή και εξαγωγή προφίλ]]></header>
+                <copy>
+                    <![CDATA[Δημιουργήστε προφίλ ειδικά για το παιχνίδι που να μπορείτε να τα χρησιμοποιείτε και να τα μοιράζεστε με φίλους. Μετά την ολοκλήρωση του παιχνιδιού, επαναφέρετε ένα προφίλ εκτός παιχνιδιού για καθημερινή χρήση. Διατίθεται μόνο στα Alienware 17 και Alienware 18.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTouch]]></title>
+            <image>
+                <header><![CDATA[Πάτημα]]></header>
+                <copy>
+                    <![CDATA[Προσαρμόστε τις ρυθμίσεις σας για να ενεργοποιήσετε είτε την επιλογή "πάτημα και μετακίνηση" ή την "κλειδωμένη μετακίνηση", ή απενεργοποιήστε εντελώς τις κινήσεις πατήματος.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Ευαισθησία]]></header>
+                <copy>
+                    <![CDATA[Αυξήστε ή μειώστε την ευαισθησία του touch pad ώστε να είναι περισσότερο ή λιγότερο ευαίσθητο στην επαφή με την παλάμη σας.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Εικονική κύλιση]]></header>
+                <copy>
+                    <![CDATA[Επιλέξτε τις ρυθμίσεις σας για κάθετες και οριζόντιες κινήσεις κύλισης με το AlienTouch και, στη συνέχεια, προσαρμόστε το μέγεθος των περιοχών της κύλισης έτσι ώστε να σας εξυπηρετούν.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFusion]]></title>
+            <image>
+                <header><![CDATA[Γρήγορες ρυθμίσεις]]></header>
+                <copy>
+                    <![CDATA[Πάρτε τον έλεγχο της κατανάλωσης της ενέργειας. Οι πρακτικές γρήγορες ρυθμίσεις σάς δίνουν τη δυνατότητα να επιλέγετε ανάμεσα σε λειτουργίες υψηλής απόδοσης, ισορροπημένες ή εξοικονόμησης ενέργειας.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Προηγμένες ρυθμίσεις]]></header>
+                <copy>
+                    <![CDATA[Προσαρμόστε τη συμπεριφορά μεμονωμένων στοιχείων, όπως ο ασύρματος προσαρμογέας, ο επεξεργαστής γραφικών και ακόμη περισσότερα, ώστε να έχετε τον απόλυτο έλεγχο του υλικού σας σε οποιαδήποτε λειτουργία κατανάλωσης ενέργειας.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Προσαρμοσμένα προγράμματα διαχείρισης ενέργειας]]></header>
+                <copy>
+                    Δ<![CDATA[ημιουργήστε απεριόριστα προγράμματα διαχείρισης ενέργειας που να καλύπτουν διαφορετικές ανάγκες. Βελτιστοποιήστε την εμπειρία ενός συγκεκριμένου παιχνιδιού και, στη συνέχεια, αποθηκεύστε και τροποποιήστε το πρόγραμμά σας στο περιβάλλον εργασίας του AlienFusion.  ]]></copy>
+            </image>
+        </tab>
+    </commandCenter>
+    <exploreLightingRx>
+        <copy><![CDATA[Δημιουργήστε το δικό σας προσαρμοσμένο σχήμα φωτισμού μέσα από 10.240 δισεκατομμύρια πιθανούς συνδυασμούς.]]></copy>
+        <button><![CDATA[απόκρυψη στοιχείων ελέγχου]]></button>
+    </exploreLightingRx>
+    <gallery>
+        <image>
+            <title><![CDATA[Μαζί θα γίνουμε οι κατακτητές.]]></title>
+            <copy><![CDATA[Απολαύστε την απόλυτη εμπειρία παιχνιδιού με τους φορητούς υπολογιστές επόμενης γενιάς της Alienware.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 14]]></title>
+            <copy><![CDATA[Ισχύς στο σακίδιό σας.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 17]]></title>
+            <copy><![CDATA[Αποκτήστε απόδοση επιτραπέζιου υπολογιστή για παιχνίδια. Αλλά χωρίς τον επιτραπέζιο υπολογιστή.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 18]]></title>
+            <copy><![CDATA[Ο πιο ισχυρός φορητός υπολογιστής 18 ιντσών για παιχνίδια στον πλανήτη.]]></copy>
+        </image>
+    </gallery>
+    <videoGallerr>
+        <video>
+            <productCategory><![CDATA[Βίντεο ύμνου:]]></productCategory>
+            <title><![CDATA[Alienware: αναδειχθείτε οι κυρίαρχοι του παιχνιδιού]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Ειδικός προϊόντος AW 14]]></productCategory>
+            <title><![CDATA[Έλεγχος ειδικού Alienware 14]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Ειδικός προϊόντος AW 17]]></productCategory>
+            <title><![CDATA[Έλεγχος ειδικού Alienware 17]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Ειδικός προϊόντος AW 18]]></productCategory>
+            <title><![CDATA[Έλεγχος ειδικού Alienware 18]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Κορυφαίο προϊόν AW 14]]></productCategory>
+            <title><![CDATA[Νέο Alienware 14: ζήστε την εμπειρία]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Κορυφαίο προϊόν AW 17]]></productCategory>
+            <title><![CDATA[Νέο Alienware 17: ζήστε την εμπειρία]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Κορυφαίο προϊόν AW 18]]></productCategory>
+            <title><![CDATA[Νέο Alienware 18: ζήστε την εμπειρία]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Κορυφαία οικογένεια EPIC]]></productCategory>
+            <title><![CDATA[Νέοι φορητοί υπολογιστές Alienware: απόλυτη εμπειρία παιχνιδιών]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Η δημιουργία της EPIC]]></productCategory>
+            <title><![CDATA[Επικό ταξίδι: η δημιουργία των φορητών υπολογιστών της Alienware]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Πίσω από τον υπολογιστή: εσωτερική σχεδίαση]]></productCategory>
+            <title><![CDATA[Πίσω από τον υπολογιστή: εσωτερική σχεδίαση]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Πίσω από τον υπολογιστή: σχεδίαση EPIC]]></productCategory>
+            <title><![CDATA[Πίσω από τον υπολογιστή: βιομηχανική σχεδίαση]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Πίσω από τον υπολογιστή: Κέντρο εντολών]]></productCategory>
+            <title><![CDATA[Πίσω από τον υπολογιστή: Κέντρο εντολών]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Πίσω από τον υπολογιστή: Κέντρο εντολών]]></productCategory>
+            <title><![CDATA[Κέντρο εντολών: AlienFX™]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Πίσω από τον υπολογιστή: Κέντρο εντολών]]></productCategory>
+            <title><![CDATA[Κέντρο εντολών: AlienTouch™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Πίσω από τον υπολογιστή: Κέντρο εντολών]]></productCategory>
+            <title><![CDATA[Κέντρο εντολών: AlienFusion]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Πίσω από τον υπολογιστή: Κέντρο εντολών]]></productCategory>
+            <title><![CDATA[Κέντρο εντολών: Alienware TactX™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Πίσω από τον υπολογιστή: Κέντρο εντολών]]></productCategory>
+            <title><![CDATA[Κέντρο εντολών: AlienAdrenaline]]></title>
+        </video>
+    </videoGallerr>
+</copy>

@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<copy>
+    <language>ro</language>
+    <embedFonts>true</embedFonts>
+    <hero>
+        <title><![CDATA[Noile laptopuri Alienware]]></title>
+        <headline><![CDATA[CONCEPUTE PENTRU VICTORIE]]></headline>
+        <subhead><![CDATA[Cuceriţi noi orizonturi cu următoarea generaţie de laptopuri Alienware.]]></subhead>
+        <cta><![CDATA[PRELUAŢI COMANDA]]></cta>
+    </hero>
+    <shell>
+        <nav>
+            <item id="1">
+                <title><![CDATA[DESIGN]]></title>
+            </item>
+            <item id="2">
+                <title><![CDATA[CENTRUL< br/>DE COMANDĂ]]></title>
+            </item>
+            <item id="3">
+                <title><![CDATA[EXPLORAŢI< br/>ALIENFX]]></title>
+            </item>
+            <item ie="4">
+                <title><![CDATA[GALERIE]]></title>
+            </item>
+            <item ie="5">
+                <title><![CDATA[VIDEOCLIP]]></title>
+            </item>
+        </nav>
+        <buttons>
+            <buyNow>
+                <title><![CDATA[Creaţi-vă propriul sistem]]></title>
+            </buyNow>
+        </buttons>
+    </shell>
+    <design>
+        <buttons>
+            <button name="onOff">
+                <on><![CDATA[Activat]]></on>
+                <off><![CDATA[Dezactivat]]></off>
+            </button>
+        </buttons>
+        <Alienware14 name="aw14">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Carcasă rezistentă]]></title>
+                    <copy><![CDATA[Carcasa din aluminiu anodizat şi cadrul din aliaj de magneziu protejează afişajul LCD.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Balama durabilă]]></title>
+                    <copy>
+                        <![CDATA[Vă puteţi baza pe durabilitatea balamalei concepute să reziste la până la 20.000 de deschideri şi închideri.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Iluminare captivantă ]]></title>
+                    <copy><![CDATA[Personalizaţi iluminarea exterioară cu peste 10 miliarde de combinaţii de culori.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Porturi]]></title>
+                    <copy><![CDATA[Conectaţi toate echipamentele pentru jocuri prin intermediul multiplelor porturi pentru descărcarea mai rapidă a conţinutului multimedia.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Nou design elegant]]></title>
+                    <copy><![CDATA[Ieşiţi din tipare cu un design conceput distinctiv.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Portabilitate maximă]]></title>
+                    <copy>
+                        <![CDATA[Cu o autonomie mare de funcţionare a bateriei, Alienware 14 este proiectat pentru o experienţă intensă de joc oriunde.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Cele mai recente plăci grafice<br>şi procesoare]]></title>
+                    <copy>
+                        <![CDATA[Sporiţi intensitatea cu cea mai rapidă performanţă şi cea mai avansată tehnologie grafică.]]></copy>
+                </item>
+                <item name="feature8">
+                    <title><![CDATA[Afişaj Full HD]]></title>
+                    <copy>
+                        <![CDATA[Jucaţi jocuri până târziu în noapte cu tastatura retroiluminată şi cu afişajul Full HD de 14 inchi, cu înveliş antireflex.]]></copy>
+                </item>
+            </features>
+        </Alienware14>
+        <Alienware17 name="aw17">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Carcasă rezistentă]]></title>
+                    <copy><![CDATA[Carcasa din aluminiu anodizat şi cadrul din aliaj de magneziu protejează afişajul LCD.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Balama durabilă]]></title>
+                    <copy>
+                        <![CDATA[Vă puteţi baza pe durabilitatea balamalei concepute să reziste la până la 20.000 de deschideri şi închideri.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Iluminare captivantă ]]></title>
+                    <copy><![CDATA[Personalizaţi iluminarea exterioară cu peste 10 miliarde de combinaţii de culori.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Porturi]]></title>
+                    <copy><![CDATA[Conectaţi toate echipamentele pentru jocuri prin intermediul multiplelor porturi pentru descărcarea mai rapidă a conţinutului multimedia.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Nou design elegant]]></title>
+                    <copy><![CDATA[Ieşiţi din tipare cu un design conceput anume.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Cele mai recente plăci grafice<br>şi procesoare]]></title>
+                    <copy>
+                        <![CDATA[Sporiţi intensitatea cu cea mai rapidă performanţă şi cea mai avansată tehnologie grafică.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Afişaj Full HD]]></title>
+                    <copy>
+                        <![CDATA[Jucaţi jocuri până târziu în noapte cu tastatura retroiluminată şi cu afişajul Full HD de 17,3 inchi, cu înveliş antireflex.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware17>
+        <Alienware18 name="aw18">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Carcasă rezistentă]]></title>
+                    <copy><![CDATA[Carcasa din aluminiu anodizat şi cadrul din aliaj de magneziu protejează afişajul LCD.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Balama durabilă]]></title>
+                    <copy>
+                        <![CDATA[Vă puteţi baza pe durabilitatea balamalei concepute să reziste la până la 20.000 de deschideri şi închideri.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Iluminare captivantă]]></title>
+                    <copy><![CDATA[Personalizaţi iluminarea exterioară cu peste 10 miliarde de combinaţii de culori.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Porturi]]></title>
+                    <copy><![CDATA[Conectaţi toate echipamentele pentru jocuri prin intermediul multiplelor porturi pentru descărcarea mai rapidă a conţinutului multimedia.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Nou design elegant]]></title>
+                    <copy><![CDATA[Ieşiţi din tipare cu un design conceput anume.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Cele mai recente plăci grafice<br>şi procesoare]]></title>
+                    <copy>
+                        <![CDATA[Sporiţi intensitatea cu cea mai rapidă performanţă, două plăci grafice şi supratactarea opţională.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Afişaj Full HD]]></title>
+                    <copy>
+                        <![CDATA[Jucaţi jocuri până târziu în noapte cu tastatura retroiluminată şi cu ecranul uriaş Full HD de 18,4 inchi, cu tehnologie TrueLife™.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware18>
+    </design>
+    <commandCenter>
+        <tab>
+            <title><![CDATA[Prezentare generală]]></title>
+            <image>
+                <header><![CDATA[Centru de comandă]]></header>
+                <copy>
+                    <![CDATA[Preluaţi controlul asupra jocului cu Centrul de comandă Alienware reproiectat. Puteţi să alegeţi iluminarea şi efectele speciale, să măriţi performanţa, să monitorizaţi rezultatele din joc şi multe altele, toate dintr-un singur centru.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFX]]></title>
+            <image>
+                <header><![CDATA[Teme]]></header>
+                <copy>
+                    <![CDATA[Creaţi-vă propriile efecte speciale şi teme pentru a vă exprima printr-un aspect unic.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Efecte de iluminare şi evenimente programabile]]></header>
+                <copy>
+                    <![CDATA[Puteţi să setaţi zonele să-şi schimbe culoarea, să pulseze, să lumineze în mod continuu sau să avertizeze, cu ajutorul paletei de 20 de culori.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Jocuri cu AlienFX]]></header>
+                <copy>
+                    <![CDATA[Particularizaţi efectele de iluminare speciale în funcţie de evenimentele din joc în peste 55 de jocuri compatibile cu AlienFX.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienAdrenaline]]></title>
+            <image>
+                <header><![CDATA[Mod de joc]]></header>
+                <copy>
+                    <![CDATA[Particularizaţi lansarea jocului sau a aplicaţiei cu teme sau cu VOIP şi personalizaţi ce aplicaţii doriţi să se deschidă sau să se închidă la lansare.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Accelerator]]></header>
+                <copy>
+                    <![CDATA[Măriţi viteza sistemului închizând temporar aplicaţiile Windows de care nu este nevoie. Configuraţia nu se modifică, revenind la starea iniţială după terminarea jocului.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Monitorizarea performanţei]]></header>
+                <copy>
+                    <![CDATA[Monitorizaţi utilizarea hard diskului, a memoriei, a reţelei, a procesorului şi a plăcii grafice cu ajutorul unui instrument de urmărire a performanţei sau de identificare a problemelor în timp real sau ulterior.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTactX]]></title>
+            <image>
+                <header><![CDATA[Taste de macrocomenzi programabile de către utilizator]]></header>
+                <copy>
+                    <![CDATA[Atribuiţi diverse funcţii tastelor de macrocomenzi verticale şi orizontale. Combinaţi o serie de apăsări de taste, creaţi presetări pentru e-mail, web sau player media sau stabiliţi comenzi rapide pentru lansarea unui program prin apăsarea unui buton. Disponibile doar la Alienware 17 şi Alienware 18.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Importul şi exportul profilurilor]]></header>
+                <copy>
+                    <![CDATA[Creaţi profiluri specifice jocurilor, pentru uz propriu sau pentru a le partaja cu prietenii. Când jocul se termină, restabiliţi profilul nespecific jocurilor, pentru uz zilnic. Disponibile doar la Alienware 17 şi Alienware 18.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTouch]]></title>
+            <image>
+                <header><![CDATA[Atingere]]></header>
+                <copy>
+                    <![CDATA[Particularizaţi setările activând „atingere şi glisare” sau „blocare glisări” sau dezactivând complet gesturile de atingere.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Sensibilitate]]></header>
+                <copy>
+                    <![CDATA[Măriţi sau micşoraţi sensibilitatea touchpadului, ca să fie mai sensibil sau mai puţin sensibil la contactul cu podul palmei.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Defilare virtuală]]></header>
+                <copy>
+                    <![CDATA[Alegeţi propriile setări pentru defilarea verticală şi orizontală prin gesturi cu AlienTouch, apoi particularizaţi dimensiunea regiunilor de defilare după cum vă convine cel mai mult.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFusion]]></title>
+            <image>
+                <header><![CDATA[Setări rapide]]></header>
+                <copy>
+                    <![CDATA[Preluaţi controlul asupra utilizării energiei. Setările rapide comode vă permit să alegeţi între modul „performanţă ridicată”, modul „echilibrat” sau modul „economisire a energiei”.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Setări complexe]]></header>
+                <copy>
+                    <![CDATA[Reglaţi comportamentul componentelor individuale cum ar fi adaptorul wireless, procesorul grafic şi altele, astfel încât să aveţi control total asupra hardware-ului în orice mod de alimentare.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Planuri de alimentare particularizate]]></header>
+                <copy>
+                   <![CDATA[Creaţi un număr nelimitat de planuri de alimentare, în funcţie de necesităţi. Puteţi să optimizaţi experienţa dintr-un anumit joc, după care să salvaţi şi să modificaţi planul de alimentare în interfaţa AlienFusion.  ]]></copy>
+            </image>
+        </tab>
+    </commandCenter>
+    <exploreLightingRx>
+        <copy><![CDATA[Creaţi-vă propria schemă de iluminare particularizată din 10.240 de miliarde de combinaţii posibile.]]></copy>
+        <button><![CDATA[ascundeţi comenzile]]></button>
+    </exploreLightingRx>
+    <gallery>
+        <image>
+            <title><![CDATA[Împreună, triumfăm.]]></title>
+            <copy><![CDATA[Bucuraţi-vă de experienţa supremă în joc cu următoarea generaţie de laptopuri Alienware.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 14]]></title>
+            <copy><![CDATA[Alimentat pentru orice rucsac.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 17]]></title>
+            <copy><![CDATA[Performanţe de desktop în jocuri. Dar fără desktop.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 18]]></title>
+            <copy><![CDATA[Cel mai puternic laptop de 18 inchi pentru jocuri din univers.]]></copy>
+        </image>
+    </gallery>
+    <videoGallerr>
+        <video>
+            <productCategory><![CDATA[Videoclip cu imn]]></productCategory>
+            <title><![CDATA[Alienware: victorie în jocuri]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Descriere detaliată pentru AW 14]]></productCategory>
+            <title><![CDATA[Recenzia experţilor asupra Alienware 14]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Descriere detaliată pentru AW 17]]></productCategory>
+            <title><![CDATA[Recenzia experţilor asupra Alienware 17]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Descriere detaliată pentru AW 18]]></productCategory>
+            <title><![CDATA[Recenzia experţilor asupra Alienware 18]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Produsul-vedetă AW 14]]></productCategory>
+            <title><![CDATA[Noul Alienware 14: încercaţi-l]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Produsul-vedetă AW 17]]></productCategory>
+            <title><![CDATA[Noul Alienware 17: încercaţi-l]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Produsul-vedetă AW 18]]></productCategory>
+            <title><![CDATA[Noul Alienware 18: încercaţi-l]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Vedeta gamei EPIC]]></productCategory>
+            <title><![CDATA[Noile notebookuri Alienware: experienţa supremă în joc]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Realizarea gamei EPIC]]></productCategory>
+            <title><![CDATA[Un parcurs impresionant: realizarea notebookurilor Alienware]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Din culisele realizării sistemului: designul intern]]></productCategory>
+            <title><![CDATA[Din culisele realizării sistemului: designul intern]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Din culisele realizării sistemului: designul gamei EPIC]]></productCategory>
+            <title><![CDATA[Din culisele realizării sistemului: designul industrial]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Din culisele realizării sistemului: Centrul de comandă]]></productCategory>
+            <title><![CDATA[Din culisele realizării sistemului: Centrul de comandă]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Din culisele realizării sistemului: Centrul de comandă]]></productCategory>
+            <title><![CDATA[Centrul de comandă: AlienFX™]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Din culisele realizării sistemului: Centrul de comandă]]></productCategory>
+            <title><![CDATA[Centrul de comandă: AlienTouch™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Din culisele realizării sistemului: Centrul de comandă]]></productCategory>
+            <title><![CDATA[Centrul de comandă: AlienFusion]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Din culisele realizării sistemului: Centrul de comandă]]></productCategory>
+            <title><![CDATA[Centrul de comandă: Alienware TactX™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Din culisele realizării sistemului: Centrul de comandă]]></productCategory>
+            <title><![CDATA[Centrul de comandă: AlienAdrenaline]]></title>
+        </video>
+    </videoGallerr>
+</copy>

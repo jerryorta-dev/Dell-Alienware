@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<copy>
+    <language>no</language>
+    <embedFonts>sant</embedFonts>
+    <hero>
+        <title><![CDATA[Nye bærbare Alienware-PC-er]]></title>
+        <headline><![CDATA[UTFORMET FOR SEIER]]></headline>
+        <subhead><![CDATA[Erobre nye verdener med den nye generasjonen Alienware bærbare PC-er.]]></subhead>
+        <cta><![CDATA[TA KOMMANDOEN]]></cta>
+    </hero>
+    <shell>
+        <nav>
+            <item id="1">
+                <title><![CDATA[DESIGN]]></title>
+            </item>
+            <item id="2">
+                <title><![CDATA[KOMMANDO-<br />SENTER]]></title>
+            </item>
+            <item id="3">
+                <title><![CDATA[SE NÆRMERE PÅ<br />ALIENFX]]></title>
+            </item>
+            <item ie="4">
+                <title><![CDATA[GALLERI]]></title>
+            </item>
+            <item ie="5">
+                <title><![CDATA[VIDEO]]></title>
+            </item>
+        </nav>
+        <buttons>
+            <buyNow>
+                <title><![CDATA[Bygg din egen]]></title>
+            </buyNow>
+        </buttons>
+    </shell>
+    <design>
+        <buttons>
+            <button name="onOff">
+                <on><![CDATA[På]]></on>
+                <off><![CDATA[Av]]></off>
+            </button>
+        </buttons>
+        <Alienware14 name="aw14">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Robust utforming]]></title>
+                    <copy><![CDATA[Deksel i eloksert aluminium og ramme i magnesiumlegering beskytter LCD-skjermen.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Robust hengsel]]></title>
+                    <copy>
+<![CDATA[                        Med en hengsel som er utformet for å åpnes og lukkes opptil 20 000 ganger, kan du være trygg på holdbarheten.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Stimulerende belysning ]]></title>
+                    <copy><![CDATA[Tilpass den eksterne belysningen med over ti milliarder fargekombinasjoner.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Porter]]></title>
+                    <copy><![CDATA[Koble til alt spillutstyr med flere porter slik at du kan laste ned medier raskere.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Elegant ny design]]></title>
+                    <copy><![CDATA[Det unikt utformede systemet bryter med det konvensjonelle.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Maksimal mobilitet]]></title>
+                    <copy>
+                        <![CDATA[Alienware 14 har svært lang batterilevetid, noe som sikrer intense spillopplevelser hvor som helst.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Det nyeste innen grafikk <br>og prosessorer]]></title>
+                    <copy>
+                        <![CDATA[Øk intensiteten med den raskeste ytelsen og den mest avanserte grafikkteknologien.]]></copy>
+                </item>
+                <item name="feature8">
+                    <title><![CDATA[Full HD-skjerm]]></title>
+                    <copy>
+                        <![CDATA[Spill etter mørkets frembrudd med bakgrunnsbelysning på tastaturet og en 14" skjerm med full HD og antirefleksbelegg.]]></copy>
+                </item>
+            </features>
+        </Alienware14>
+        <Alienware17 name="aw17">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Robust utforming]]></title>
+                    <copy><![CDATA[Deksel i eloksert aluminium og ramme i magnesiumlegering beskytter LCD-skjermen.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Robust hengsel]]></title>
+                    <copy>
+<![CDATA[                        Med en hengsel som er utformet for å åpnes og lukkes opptil 20 000 ganger, kan du være trygg på holdbarheten.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Stimulerende belysning ]]></title>
+                    <copy><![CDATA[Tilpass den eksterne belysningen med over ti milliarder fargekombinasjoner.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Porter]]></title>
+                    <copy><![CDATA[Koble til alt spillutstyr med flere porter slik at du kan laste ned medier raskere.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Elegant ny design]]></title>
+                    <copy><![CDATA[Det unikt utformede systemet bryter med det konvensjonelle.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Det nyeste innen grafikk <br>og prosessorer]]></title>
+                    <copy>
+                        <![CDATA[Øk intensiteten med den raskeste ytelsen og den mest avanserte grafikkteknologien.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Full HD-skjerm]]></title>
+                    <copy>
+                        <![CDATA[Spill etter mørkets frembrudd med bakgrunnsbelysning på tastaturet og en 17,3" skjerm med full HD og antirefleksbelegg.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware17>
+        <Alienware18 name="aw18">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Robust utforming]]></title>
+                    <copy><![CDATA[Deksel i eloksert aluminium og ramme i magnesiumlegering beskytter LCD-skjermen.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Robust hengsel]]></title>
+                    <copy>
+<![CDATA[                        Med en hengsel som er utformet for å åpnes og lukkes opptil 20 000 ganger, kan du være trygg på holdbarheten.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Stimulerende belysning]]></title>
+                    <copy><![CDATA[Tilpass den eksterne belysningen med over ti milliarder fargekombinasjoner.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Porter]]></title>
+                    <copy><![CDATA[Koble til alt spillutstyr med flere porter slik at du kan laste ned medier raskere.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Elegant ny design]]></title>
+                    <copy><![CDATA[Det unikt utformede systemet bryter med det konvensjonelle.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Det nyeste innen grafikk <br>og prosessorer]]></title>
+                    <copy>
+                        <![CDATA[Øk intensiteten med den raskeste ytelsen, to grafikkort og valgfri overklokking.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Full HD-skjerm]]></title>
+                    <copy>
+                        <![CDATA[Spill etter mørkets frembrudd med bakgrunnsbelysning på tastaturet og en svær 18,4" skjerm med full HD og TrueLife™.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware18>
+    </design>
+    <commandCenter>
+        <tab>
+            <title><![CDATA[Oversikt]]></title>
+            <image>
+                <header><![CDATA[Kommandosenter]]></header>
+                <copy>
+                    <![CDATA[Ta kontroll over spillet med det nyutformede Alienware-kommandosenteret. Velg ønsket belysning og spesialeffekter, få raskere ytelse, overvåk spillresultater og mye mer – alt på samme sted.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFX]]></title>
+            <image>
+                <header><![CDATA[Temaer]]></header>
+                <copy>
+                    <![CDATA[Lag dine egne spesialeffekter og temaer slik at du kan uttrykke deg selv med et unikt utseende.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Lyseffekter og programmerbare hendelser]]></header>
+                <copy>
+                    <![CDATA[Angi at soner skal endre farge, puls, beholde samme farge eller angi et varsel med en 20-fargers palett.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[AlienFX-aktiverte spill]]></header>
+                <copy>
+                    <![CDATA[Tilpass spesielle lyseffekter basert på hendelser i spillene i over 55 AlienFX-kompatible spill.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienAdrenaline]]></title>
+            <image>
+                <header><![CDATA[Spillmodus]]></header>
+                <copy>
+                    <![CDATA[Tilpass måten spillet eller programmet starter på med temaer eller VOIP, og tilpass hvilke som skal åpnes eller lukkes ved start.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Akselerator]]></header>
+                <copy>
+                    <![CDATA[Gi systemet økt hastighet ved å midlertidig lukke unødvendige Windows-baserte programmer. Konfigurasjonen endres ikke og går tilbake til den opprinnelige tilstanden når spillet er ferdig.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Ytelsesovervåking]]></header>
+                <copy>
+                    <![CDATA[Overvåk bruken av harddisken, minnet, nettverket, prosessoren eller skjermkortet med et verktøy som gjør det mulig å spore ytelse eller identifisere problemer i sanntid eller senere.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTactX]]></title>
+            <image>
+                <header><![CDATA[Brukerprogrammerbare makrotaster]]></header>
+                <copy>
+                    <![CDATA[Tilordne ulike funksjoner til vertikale og horisontale makrotaster. Kombiner en serie tastetrykk, lag forhåndsinnstillinger for e-post, Internett eller mediespillere, eller lag snarveier som kan starte et program når du trykker på en knapp. Bare tilgjengelig på Alienware 17 og Alienware 18.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Importere og eksportere profiler]]></header>
+                <copy>
+                    <![CDATA[Opprett spillspesifikke profiler som du kan bruke selv og dele med venner. Når spillet er ferdig, gjenoppretter du en ikke-spillprofil til vanlig bruk. Bare tilgjengelig på Alienware 17 og Alienware 18.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTouch]]></title>
+            <image>
+                <header><![CDATA[Tapping]]></header>
+                <copy>
+                    <![CDATA[Tilpass innstillingene for å aktivere enten "tapp og dra" eller "dra for å låse", eller deaktiver tappebevegelser fullstendig.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Følsomhet]]></header>
+                <copy>
+                    <![CDATA[Øk eller reduser følsomheten til pekeplaten for å gjøre den mer eller mindre følsom for kontakt med håndflaten din.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Virtuell rulling]]></header>
+                <copy>
+                    <![CDATA[Velg dine egne innstillinger for vertikal og horisontal bevegelsesrulling med AlienTouch, og tilpass deretter størrelsen på rulleområdene som passer best for deg.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFusion]]></title>
+            <image>
+                <header><![CDATA[Hurtiginnstillinger]]></header>
+                <copy>
+                    <![CDATA[Ta kontroll over strømforbruket. Med praktiske hurtiginnstillinger kan du velge mellom moduser for høy ytelse, balansert eller strømsparing.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Avanserte innstillinger]]></header>
+                <copy>
+                    <![CDATA[Juster virkemåten til individuelle komponenter, for eksempel den trådløse adapteren, grafikkprosessoren og annet, slik at du får full kontroll over maskinvaren i hvilken som helst strømmodus.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Egendefinerte strømstyringsplaner]]></header>
+                <copy>
+                    <![CDATA[Du kan opprette strømstyringsplaner som dekker ulike behov. Du kan optimere spillingen for et bestemt spill, og deretter lagre og endre planen i AlienFusion-grensesnittet.  ]]></copy>
+            </image>
+        </tab>
+    </commandCenter>
+    <exploreLightingRx>
+        <copy><![CDATA[Lag din egen tilpassede belysning fra 10 240 milliarder mulige kombinasjoner.]]></copy>
+        <button><![CDATA[skjul kontroller]]></button>
+    </exploreLightingRx>
+    <gallery>
+        <image>
+            <title><![CDATA[Sammen er vi vinnere.]]></title>
+            <copy><![CDATA[Få den ultimate spillopplevelsen med den nye generasjonen Alienware bærbare PC-er.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 14]]></title>
+            <copy><![CDATA[En kraftpakke i sekken.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 17]]></title>
+            <copy><![CDATA[Like god spillytelse som på en stasjonær datamaskin. I bærbar utførelse.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 18]]></title>
+            <copy><![CDATA[Universets råeste bærbare spill-PC på 18 tommer.]]></copy>
+        </image>
+    </gallery>
+    <videoGallerr>
+        <video>
+            <productCategory><![CDATA[Anthem-video]]></productCategory>
+            <title><![CDATA[Alienware: Opplev triumfer]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Produktekspert AW 14]]></productCategory>
+            <title><![CDATA[Ekspertomtale av Alienware 14]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Produktekspert AW 17]]></productCategory>
+            <title><![CDATA[Ekspertomtale av Alienware 17]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Produktekspert AW 18]]></productCategory>
+            <title><![CDATA[Ekspertomtale av Alienware 18]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Produktet Hero AW 14]]></productCategory>
+            <title><![CDATA[Nye Alienware 14: Prøv den]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Produktet Hero AW 17]]></productCategory>
+            <title><![CDATA[Nye Alienware 17: Prøv den]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Produktet Hero AW 18]]></productCategory>
+            <title><![CDATA[Nye Alienware 18: Prøv den]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[EPIC Family Hero]]></productCategory>
+            <title><![CDATA[Nye Alienware bærbare PC-er: Den ultimate spillopplevelsen]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Utviklingen av EPIC]]></productCategory>
+            <title><![CDATA[En episk reise: Utviklingen av Alienware bærbare PC-er]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Bak maskinen: Intern design]]></productCategory>
+            <title><![CDATA[Bak maskinen: Intern design]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Bak maskinen: Design av EPIC]]></productCategory>
+            <title><![CDATA[Bak maskinen: Intern design]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Bak maskinen: Kommandosenter]]></productCategory>
+            <title><![CDATA[Bak maskinen: Kommandosenter]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Bak maskinen: Kommandosenter]]></productCategory>
+            <title><![CDATA[Kommandosenter: AlienFX™]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Bak maskinen: Kommandosenter]]></productCategory>
+            <title><![CDATA[Kommandosenter: AlienTouch™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Bak maskinen: Kommandosenter]]></productCategory>
+            <title><![CDATA[Kommandosenter: AlienFusion]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Bak maskinen: Kommandosenter]]></productCategory>
+            <title><![CDATA[Kommandosenter: Alienware TactX™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Bak maskinen: Kommandosenter]]></productCategory>
+            <title><![CDATA[Kommandosenter: AlienAdrenaline]]></title>
+        </video>
+    </videoGallerr>
+</copy>

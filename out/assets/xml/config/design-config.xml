@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <design>
+        <global>
+            <name>config</name>
+            <minRotation>-10</minRotation>
+            <maxRotation>10</maxRotation>
+            <minOpacity>.7</minOpacity>
+            <maxHeight>695</maxHeight>
+            <sliderInitRotation>0</sliderInitRotation>
+            <z>0</z>
+            <containerRectangle>
+                <width>834</width>
+                <height>405</height>
+                <alpha>0</alpha>
+                <color>0x000000</color>
+            </containerRectangle>
+        </global>
+        <buttons>
+            <button name="onOff">
+                <iconAlign>right</iconAlign>
+                <width>100</width>
+                <x>585</x>
+                <y>430</y>
+            </button>
+        </buttons>
+        <FeatureConfigs>
+            <Alienware14>
+                <feature name="feature1" title="Sturdy body">
+                    <lineToTargetName>feature1Target</lineToTargetName>
+                    <x>220</x>
+                    <y>-164</y>
+                    <activeYRotation>22</activeYRotation>
+                    <areaTextTargetWidth>250</areaTextTargetWidth>
+                    <labelTextFieldWidth>90</labelTextFieldWidth>
+                    <iconAlign>left</iconAlign>
+                    <labelAlign>left</labelAlign>
+                    <state>collapsed</state>
+                </feature>
+                <feature name="feature2" title="Durable hinge">
+                    <lineToTargetName>feature2Target</lineToTargetName>
+                    <x>200</x>
+                    <y>140</y>
+                    <activeYRotation>135</activeYRotation>
+                    <areaTextTargetWidth>250</areaTextTargetWidth>
+                    <labelTextFieldWidth>100</labelTextFieldWidth>
+                    <iconAlign>left</iconAlign>
+                    <labelAlign>left</labelAlign>
+                    <state>collapsed</state>
+                </feature>
+                <feature name="feature3" title="Immersive lighting ">
+                    <lineToTargetName>feature3Target</lineToTargetName>
+                    <x>-191</x>
+                    <y>-171</y>
+                    <activeYRotation>112</activeYRotation>
+                    <areaTextTargetWidth>230</areaTextTargetWidth>
+                    <labelTextFieldWidth>125</labelTextFieldWidth>
+                    <iconAlign>right</iconAlign>
+                    <labelAlign>left</labelAlign>
+                    <state>collapsed</state>
+                </feature>
+                <feature name="feature4" title="Ports">
+                    <lineToTargetName>feature4Target</lineToTargetName>
+                    <x>-321</x>
+                    <y>142</y>
+                    <activeYRotation>90</activeYRotation>
+                    <areaTextTargetWidth>250</areaTextTargetWidth>
+                    <labelTextFieldWidth>150</labelTextFieldWidth>
+                    <iconAlign>right</iconAlign>
+                    <labelAlign>left</labelAlign>
+                    <state>collapsed</state>
+                </feature>
+                <feature name="feature5" title="Sleek new design">
+                    <lineToTargetName>feature5Target</lineToTargetName>
+                    <x>260</x>
+                    <y>-68</y>
+                    <activeYRotation>157</activeYRotation>
+                    <areaTextTargetWidth>210</areaTextTargetWidth>
+                    <labelTextFieldWidth>120</labelTextFieldWidth>
+                    <iconAlign>left</iconAlign>
+                    <labelAlign>right</labelAlign>
+                    <state>collapsed</state>
+                </feature>
+                <feature name="feature6" title="Maximum portability">
+                    <lineToTargetName>feature6Target</lineToTargetName>
+                    <x>-339</x>
+                    <y>-95</y>
+                    <activeYRotation>0</activeYRotation>
+                    <areaTextTargetWidth>300</areaTextTargetWidth>
+                    <labelTextFieldWidth>135</labelTextFieldWidth>
+                    <iconAlign>right</iconAlign>
+                    <labelAlign>left</labelAlign>
+                    <state>expanded</state>
+                </feature>
+                <feature name="feature7" title="Latest graphics processors">
+                    <lineToTargetName>feature7Target</lineToTargetName>
+                    <x>-331</x>
+                    <y>26</y>
+                    <activeYRotation>45</activeYRotation>
+                    <areaTextTargetWidth>320</areaTextTargetWidth>
+                    <labelTextFieldWidth>110</labelTextFieldWidth>
+                    <iconAlign>right</iconAlign>
+                    <labelAlign>left</labelAlign>
+                    <state>collapsed</state>
+                </feature>
+                <feature name="feature8" title="Full HD display">
+                    <lineToTargetName>feature8Target</lineToTargetName>
+                    <x>150</x>
+                    <y>40</y>
+                    <activeYRotation>67</activeYRotation>
+                    <areaTextTargetWidth>300</areaTextTargetWidth>
+                    <labelTextFieldWidth>100</labelTextFieldWidth>
+                    <iconAlign>left</iconAlign>
+                    <labelAlign>right</labelAlign>
+                    <state>collapsed</state>
+                </feature>
+            </Alienware14>
+            <Alienware17>
+                <feature name="feature1" title="Sturdy body">
+                    <lineToTargetName>feature1Target</lineToTargetName>
+                    <x>180</x>
+                    <y>-164</y>
+                    <activeYRotation>1</activeYRotation>
+                    <areaTextTargetWidth>250</areaTextTargetWidth>
+                    <labelTextFieldWidth>90</labelTextFieldWidth>
+                    <iconAlign>left</iconAlign>
+                    <labelAlign>right</labelAlign>
+                    <state>collapsed</state>
+                </feature>
+                <feature name="feature2" title="Durable hinge">
+                    <lineToTargetName>feature2Target</lineToTargetName>
+                    <x>200</x>
+                    <y>130</y>
+                    <activeYRotation>25</activeYRotation>
+                    <areaTextTargetWidth>250</areaTextTargetWidth>
+                    <labelTextFieldWidth>100</labelTextFieldWidth>
+                    <iconAlign>left</iconAlign>
+                    <labelAlign>right</labelAlign>
+                    <state>collapsed</state>
+                </feature>
+                <feature name="feature3" title="Immersive lighting ">
+                    <lineToTargetName>feature3Target</lineToTargetName>
+                    <x>-191</x>
+                    <y>-171</y>
+                    <activeYRotation>76</activeYRotation>
+                    <areaTextTargetWidth>230</areaTextTargetWidth>
+                    <labelTextFieldWidth>125</labelTextFieldWidth>
+                    <iconAlign>right</iconAlign>
+                    <labelAlign>left</labelAlign>
+                    <state>collapsed</state>
+                </feature>
+                <feature name="feature4" title="Ports">
+                    <lineToTargetName>feature4Target</lineToTargetName>
+                    <x>-321</x>
+                    <y>142</y>
+                    <activeYRotation>50</activeYRotation>
+                    <areaTextTargetWidth>250</areaTextTargetWidth>
+                    <labelTextFieldWidth>150</labelTextFieldWidth>
+                    <iconAlign>right</iconAlign>
+                    <labelAlign>left</labelAlign>
+                    <state>collapsed</state>
+                </feature>
+                <feature name="feature5" title="Sleek new design">
+                    <lineToTargetName>feature5Target</lineToTargetName>
+                    <x>-330</x>
+                    <y>-95</y>
+                    <activeYRotation>64</activeYRotation>
+                    <areaTextTargetWidth>210</areaTextTargetWidth>
+                    <labelTextFieldWidth>120</labelTextFieldWidth>
+                    <iconAlign>right</iconAlign>
+                    <labelAlign>left</labelAlign>
+                    <state>collapsed</state>
+                </feature>
+                <feature name="feature6" title="Latest graphics processors">
+                    <lineToTargetName>feature7Target</lineToTargetName>
+                    <x>141</x>
+                    <y>-50</y>
+                    <activeYRotation>130</activeYRotation>
+                    <areaTextTargetWidth>320</areaTextTargetWidth>
+                    <labelTextFieldWidth>190</labelTextFieldWidth>
+                    <iconAlign>left</iconAlign>
+                    <labelAlign>right</labelAlign>
+                    <state>collapsed</state>
+                </feature>
+                <feature name="feature7" title="Full HD display">
+                    <lineToTargetName>feature8Target</lineToTargetName>
+                    <x>-331</x>
+                    <y>26</y>
+                    <activeYRotation>101</activeYRotation>
+                    <areaTextTargetWidth>300</areaTextTargetWidth>
+                    <labelTextFieldWidth>100</labelTextFieldWidth>
+                    <iconAlign>right</iconAlign>
+                    <labelAlign>left</labelAlign>
+                    <state>expanded</state>
+                </feature>
+            </Alienware17>
+            <Alienware18>
+                <feature name="feature1" title="Sturdy body">
+                    <lineToTargetName>feature1Target</lineToTargetName>
+                    <x>180</x>
+                    <y>-164</y>
+                    <activeYRotation>1</activeYRotation>
+                    <areaTextTargetWidth>250</areaTextTargetWidth>
+                    <labelTextFieldWidth>90</labelTextFieldWidth>
+                    <iconAlign>left</iconAlign>
+                    <labelAlign>right</labelAlign>
+                    <state>expanded</state>
+                </feature>
+                <feature name="feature2" title="Durable hinge">
+                    <lineToTargetName>feature2Target</lineToTargetName>
+                    <x>200</x>
+                    <y>130</y>
+                    <activeYRotation>25</activeYRotation>
+                    <areaTextTargetWidth>250</areaTextTargetWidth>
+                    <labelTextFieldWidth>100</labelTextFieldWidth>
+                    <iconAlign>left</iconAlign>
+                    <labelAlign>right</labelAlign>
+                    <state>collapsed</state>
+                </feature>
+                <feature name="feature3" title="Immersive lighting ">
+                    <lineToTargetName>feature3Target</lineToTargetName>
+                    <x>-191</x>
+                    <y>-171</y>
+                    <activeYRotation>76</activeYRotation>
+                    <areaTextTargetWidth>230</areaTextTargetWidth>
+                    <labelTextFieldWidth>125</labelTextFieldWidth>
+                    <iconAlign>right</iconAlign>
+                    <labelAlign>left</labelAlign>
+                    <state>collapsed</state>
+                </feature>
+                <feature name="feature4" title="Ports">
+                    <lineToTargetName>feature4Target</lineToTargetName>
+                    <x>-321</x>
+                    <y>142</y>
+                    <activeYRotation>50</activeYRotation>
+                    <areaTextTargetWidth>250</areaTextTargetWidth>
+                    <labelTextFieldWidth>150</labelTextFieldWidth>
+                    <iconAlign>right</iconAlign>
+                    <labelAlign>left</labelAlign>
+                    <state>collapsed</state>
+                </feature>
+                <feature name="feature5" title="Sleek new design">
+                    <lineToTargetName>feature5Target</lineToTargetName>
+                    <x>-330</x>
+                    <y>-95</y>
+                    <activeYRotation>155</activeYRotation>
+                    <areaTextTargetWidth>210</areaTextTargetWidth>
+                    <labelTextFieldWidth>120</labelTextFieldWidth>
+                    <iconAlign>right</iconAlign>
+                    <labelAlign>left</labelAlign>
+                    <state>collapsed</state>
+                </feature>
+                <feature name="feature6" title="Latest graphics processors">
+                    <lineToTargetName>feature7Target</lineToTargetName>
+                    <x>141</x>
+                    <y>-50</y>
+                    <activeYRotation>130</activeYRotation>
+                    <areaTextTargetWidth>320</areaTextTargetWidth>
+                    <labelTextFieldWidth>190</labelTextFieldWidth>
+                    <iconAlign>left</iconAlign>
+                    <labelAlign>right</labelAlign>
+                    <state>collapsed</state>
+                </feature>
+                <feature name="feature7" title="Full HD display">
+                    <lineToTargetName>feature8Target</lineToTargetName>
+                    <x>-331</x>
+                    <y>26</y>
+                    <activeYRotation>101</activeYRotation>
+                    <areaTextTargetWidth>300</areaTextTargetWidth>
+                    <labelTextFieldWidth>100</labelTextFieldWidth>
+                    <iconAlign>right</iconAlign>
+                    <labelAlign>left</labelAlign>
+                    <state>collapsed</state>
+                </feature>
+            </Alienware18>
+        </FeatureConfigs>
+        <LoaderMax name="swfs" maxConnections="1" load="false" >
+            <SWFLoader name="design14" url="design_14.swf" estimatedBytes="11099632" />
+        </LoaderMax>
+        <LoaderMax name="swfsubload" maxConnections="2" load="false" >
+            <SWFLoader name="design17" url="design_17.swf" estimatedBytes="9103486 " />
+            <SWFLoader name="design18" url="design_18.swf" estimatedBytes="12430656" />
+        </LoaderMax>
+    </design>
+</config>

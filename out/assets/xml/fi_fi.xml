@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<copy>
+    <language>en</language>
+    <embedFonts>true</embedFonts>
+    <hero>
+        <title><![CDATA[Uudet Alienware-kannettavat]]></title>
+        <headline><![CDATA[SUUNNITELTU VOITTAJILLE]]></headline>
+        <subhead><![CDATA[Valloita uusia maailmoja seuraavan sukupolven Alienware-kannettavilla.]]></subhead>
+        <cta><![CDATA[OTA OHJAKSET KÄSIISI]]></cta>
+    </hero>
+    <shell>
+        <nav>
+            <item id="1">
+                <title><![CDATA[SUUNNITTELU]]></title>
+            </item>
+            <item id="2">
+                <title><![CDATA[COMMAND<br />CENTER]]></title>
+            </item>
+            <item id="3">
+                <title><![CDATA[TUTUSTU<br />ALIENFX:ÄÄN]]></title>
+            </item>
+            <item ie="4">
+                <title><![CDATA[GALLERIA]]></title>
+            </item>
+            <item ie="5">
+                <title><![CDATA[VIDEO]]></title>
+            </item>
+        </nav>
+        <buttons>
+            <buyNow>
+                <title><![CDATA[Kokoa omasi]]></title>
+            </buyNow>
+        </buttons>
+    </shell>
+    <design>
+        <buttons>
+            <button name="onOff">
+                <on><![CDATA[Käytössä]]></on>
+                <off><![CDATA[Ei käytössä]]></off>
+            </button>
+        </buttons>
+        <Alienware14 name="aw14">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Kestävä kotelo]]></title>
+                    <copy><![CDATA[Anonisoidusta alumiinista valmistettu kuori ja magnesiumseoksesta valmistettu kotelo suojaavat LCD-näyttöä.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Kestävä sarana]]></title>
+                    <copy>
+                        <![CDATA[Luotettava ja kestävä sarana on suunniteltu avattavaksi ja suljettavaksi jopa 20 000 kertaa.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Vaikuttava valaistus ]]></title>
+                    <copy><![CDATA[Mukauta ulkoista valaistusta yli 10 miljardin värin yhdistelmillä.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Portit]]></title>
+                    <copy><![CDATA[Voit liittää kaikki pelivarusteet useisiin portteihin, mikä nopeuttaa median lataamista.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Tyylikäs uusi muotoilu]]></title>
+                    <copy><![CDATA[Erottuvalla tavalla suunniteltu järjestelmä saa unohtamaan tylsät standardit.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Huippuluokan kannettavuus]]></title>
+                    <copy>
+                        <![CDATA[Pitkään kestävällä akulla varustettu Alienware 14 on suunniteltu kovaan pelikäyttöön.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Uusin grafiikka <br> ja suorittimet]]></title>
+                    <copy>
+                        <![CDATA[Intensiteetin saa äärimmilleen alan nopeimman suorituskyvyn ja kehittyneimmän grafiikkatekniikan myötä.]]></copy>
+                </item>
+                <item name="feature8">
+                    <title><![CDATA[Full HD -näyttö]]></title>
+                    <copy>
+                        <![CDATA[Pelaaminen onnistuu pimeässäkin taustavalaistun näppäimistön ja 14-tuumaisen, häikäisynestokäsitellyn Full HD -näytön ansiosta.]]></copy>
+                </item>
+            </features>
+        </Alienware14>
+        <Alienware17 name="aw17">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Kestävä kotelo]]></title>
+                    <copy><![CDATA[Anonisoidusta alumiinista valmistettu kuori ja magnesiumseoksesta valmistettu kotelo suojaavat LCD-näyttöä.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Kestävä sarana]]></title>
+                    <copy>
+                        <![CDATA[Luotettava ja kestävä sarana on suunniteltu avattavaksi ja suljettavaksi jopa 20 000 kertaa.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Vaikuttava valaistus ]]></title>
+                    <copy><![CDATA[Mukauta ulkoista valaistusta yli 10 miljardin värin yhdistelmillä.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Portit]]></title>
+                    <copy><![CDATA[Voit liittää kaikki pelivarusteet useisiin portteihin, mikä nopeuttaa median lataamista.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Tyylikäs uusi muotoilu]]></title>
+                    <copy><![CDATA[Erottuvalla tavalla suunniteltu järjestelmä saa unohtamaan tylsät standardit.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Uusin grafiikka <br> ja suorittimet]]></title>
+                    <copy>
+                        <![CDATA[Intensiteetin saa äärimmilleen alan nopeimman suorituskyvyn ja kehittyneimmän grafiikkatekniikan myötä.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Full HD -näyttö]]></title>
+                    <copy>
+                        <![CDATA[Pelaaminen onnistuu pimeässäkin taustavalaistun näppäimistön ja 17,3-tuumaisen, häikäisynestokäsitellyn Full HD -näytön ansiosta.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware17>
+        <Alienware18 name="aw18">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Kestävä kotelo]]></title>
+                    <copy><![CDATA[Anonisoidusta alumiinista valmistettu kuori ja magnesiumseoksesta valmistettu kotelo suojaavat LCD-näyttöä.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Kestävä sarana]]></title>
+                    <copy>
+                        <![CDATA[Luotettava ja kestävä sarana on suunniteltu avattavaksi ja suljettavaksi jopa 20 000 kertaa.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Vaikuttava valaistus]]></title>
+                    <copy><![CDATA[Mukauta ulkoista valaistusta yli 10 miljardin värin yhdistelmillä.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Portit]]></title>
+                    <copy><![CDATA[Voit liittää kaikki pelivarusteet useisiin portteihin, mikä nopeuttaa median lataamista.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Tyylikäs uusi muotoilu]]></title>
+                    <copy><![CDATA[Erottuvalla tavalla suunniteltu järjestelmä saa unohtamaan tylsät standardit.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Uusin grafiikka <br> ja suorittimet]]></title>
+                    <copy>
+                        <![CDATA[Intensiteetin saa äärimmilleen alan nopeimman suorituskyvyn, kahden näytönohjaimen ja valinnaisen ylikellotuksen myötä.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Full HD -näyttö]]></title>
+                    <copy>
+                        <![CDATA[Pelaaminen onnistuu pimeässäkin taustavalaistun näppäimistön ja valtavan 18,4-tuumaisen TrueLife™-toiminnolla varustetun Full HD -näytön ansiosta.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware18>
+    </design>
+    <commandCenter>
+        <tab>
+            <title><![CDATA[Yleiskatsaus]]></title>
+            <image>
+                <header><![CDATA[Command Center]]></header>
+                <copy>
+                    <![CDATA[Ota peli haltuusi uusiksi suunnitellulla Alienware Command Centerillä. Voit valita valaistuksen ja erikoistehosteet, kiihdyttää pelikokemustasi, valvoa pelituloksia ja paljon muuta — kaikki tämä samasta paikasta.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFX]]></title>
+            <image>
+                <header><![CDATA[Teemat]]></header>
+                <copy>
+                    <![CDATA[Voit ilmaista itseäsi ainutlaatuisella tavalla luomalla omia mukautettuja erikoistehosteita ja teemoja.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Valotehosteet ja ohjelmoitavat tapahtumat]]></header>
+                <copy>
+                    <![CDATA[Voit määrittää vyöhykkeitä ja vaihtaa värejä, vilkkumisnopeutta, pitää jatkuvasti saman värin tai ilmaista hälytyksen 20-värisellä paletilla.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[AlienFX-pelit]]></header>
+                <copy>
+                    Voit mukauttaa <![CDATA[erikoisvalotehosteita pelin tapahtumien mukaan yli 55 AlienFX-yhteensopivassa pelissä.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienAdreneline]]></title>
+            <image>
+                <header><![CDATA[Pelitila]]></header>
+                <copy>
+                    <![CDATA[Teemoilla ja VOIP:llä voit mukauttaa, miten peli tai sovellus käynnistetään. Voit myös määrittää, mitkä sovellukset haluat avata tai sulkea käynnistyksen yhteydessä.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Accelerator]]></header>
+                <copy>
+                    <![CDATA[Voit nopeuttaa järjestelmää tilapäisesti sulkemalla tarpeettomia Windows-sovelluksia. Kokoonpano ei muutu, vaan se palautuu alkuperäiseen tilaan, kun peli on lopussa.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Suorituskyvyn valvonta]]></header>
+                <copy>
+                    Voit valvoa kiintolevyn<![CDATA[, muistin, verkon, suorittimen ja näytönohjaimen käyttöä suorituskykyä seuraavalla työkalulla. Voit tunnistaa ongelmat reaaliajassa tai myöhemmin.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTactX]]></title>
+            <image>
+                <header><![CDATA[Käyttäjän ohjelmoitavissa olevat makronäppäimet]]></header>
+                <copy>
+                    <![CDATA[Voit määrittää eri toimintoja pysty- ja vaakasuuntaisille makronäppäimille. Voit yhdistellä näppäinpainallussarjoja, luoda sähköpostille ja Web- tai mediasoittimelle esiasetuksia ja laatia pikakuvakkeita, joilla ohjelman voi käynnistää painiketta painamalla. Saatavilla vain Alienware 17- ja Alienware 18 -tietokoneisiin.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Profiilien tuominen ja vieminen]]></header>
+                <copy>
+                    <![CDATA[Voit luoda pelikohtaisia profiileja, joita voit käyttää itse ja jakaa ystäville. Kun peli on pelattu, voit palauttaa muut kuin peleihin tarkoitetut profiilit päivittäistä käyttöä varten. Saatavilla vain Alienware 17- ja Alienware 18 -tietokoneisiin.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTouch]]></title>
+            <image>
+                <header><![CDATA[Napauttaminen]]></header>
+                <copy>
+                    <![CDATA[Voit mukauttaa napautusasetukseksesi joko "napauta ja vedä" tai "lukitseva veto" tai voit poistaa napautuseleet kokonaan käytöstä.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Herkkyys]]></header>
+                <copy>
+                    <![CDATA[Voit mukauttaa kosketusalustan herkkyyttä herkemmäksi tai vähemmän herkäksi omien mieltymystesi mukaan.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Virtuaalinen vieritys]]></header>
+                <copy>
+                    <![CDATA[AlienTouchin avulla voit valita omat pysty- ja vaakasuuntaisen elevierityksen asetukset ja mukauttaa sitten vieritysalueita itsellesi parhaiten sopiviksi.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFusion]]></title>
+            <image>
+                <header><![CDATA[Pika-asetukset]]></header>
+                <copy>
+                    <![CDATA[Ota virrankäyttö haltuusi. Näppärien pika-asetusten avulla voit valita suuren suorituskyvyn, tasapainotetun suorituskyvyn tai virransäästötilan väliltä.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Lisäasetukset]]></header>
+                <copy>
+                    <![CDATA[Voit säätää yksittäisten komponenttien, kuten langattoman sovittimen ja grafiikkaprosessorin, toimintaa ja ottaa laitteiston täysin haltuusi missä tahansa virtatilassa.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Mukautetut tehoasetukset]]></header>
+                <copy>
+                    <![CDATA[Voit luoda rajattomasti erilaisia virtatiloja eri tarpeisiin. Voit optimoida pelitapasi mitä tahansa haluamaasi verkkopeliä varten, tallentaa virrankäyttötilasi ja muokata sitä sitten AlienFusion-käyttöliittymässä.  ]]></copy>
+            </image>
+        </tab>
+    </commandCenter>
+    <exploreLightingRx>
+        <copy><![CDATA[Luo omia mukautettuja valaistuksia jopa 10 240 miljardista eri väriyhdistelmästä.]]></copy>
+        <button><![CDATA[piilota ohjaustoiminnot]]></button>
+    </exploreLightingRx>
+    <gallery>
+        <image>
+            <title><![CDATA[Yhdessä voittoon.]]></title>
+            <copy><![CDATA[Koe ylivertainen pelielämys seuraavan sukupolven Alienware-kannettavilla.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 14]]></title>
+            <copy><![CDATA[Tehokas valinta selkäreppuun.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 17]]></title>
+            <copy><![CDATA[Työpöytätason pelikokemus. Ilman työpöytää.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 18]]></title>
+            <copy><![CDATA[Maailmankaikkeuden tehokkain 18-tuumainen kannettava pelikone.]]></copy>
+        </image>
+    </gallery>
+    <videoGallerr>
+        <video>
+            <productCategory><![CDATA[Anthem Video]]></productCategory>
+            <title><![CDATA[Alienware: Luotu pelaajille]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Tuoteasiantuntija: AW 14]]></productCategory>
+            <title><![CDATA[Alienware 14: Asiantuntijan arvio]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Tuoteasiantuntija: AW 17]]></productCategory>
+            <title><![CDATA[Alienware 17: Asiantuntijan arvio]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Tuoteasiantuntija: AW 18]]></productCategory>
+            <title><![CDATA[Alienware 18: Asiantuntijan arvio]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Hero AW 14]]></productCategory>
+            <title><![CDATA[Uusi Alienware 14: Koe se]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Hero AW 17]]></productCategory>
+            <title><![CDATA[Uusi Alienware 17: Koe se]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Hero AW 18]]></productCategory>
+            <title><![CDATA[Uusi Alienware 18: Koe se]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[EPIC Family Hero]]></productCategory>
+            <title><![CDATA[Uudet kannettavat Alienware-tietokoneet: huippuluokan peliominaisuudet]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[The Making of EPIC]]></productCategory>
+            <title><![CDATA[Epic Journey: The Making of Alienware Notebooks]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Behind the Machine: Sisäinen rakenne]]></productCategory>
+            <title><![CDATA[Behind the Machine: Sisäinen rakenne]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Behind the Machine: EPIC-suunnittelu]]></productCategory>
+            <title><![CDATA[Behind the Machine: Teollinen muotoilu]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Behind the Machine: Command Center]]></productCategory>
+            <title><![CDATA[Behind the Machine: Command Center]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Behind the Machine: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: AlienFX™]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Behind the Machine: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: AlienTouch™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Behind the Machine: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: AlienFusion]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Behind the Machine: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: Alienware TactX™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Behind the Machine: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: AlienAdrenaline]]></title>
+        </video>
+    </videoGallerr>
+</copy>

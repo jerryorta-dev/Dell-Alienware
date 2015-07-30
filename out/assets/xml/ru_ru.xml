@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<copy>
+    <language>ru</language>
+    <embedFonts>true</embedFonts>
+    <hero>
+        <title><![CDATA[Новые ноутбуки Alienware]]></title>
+        <headline><![CDATA[СОЗДАНЫ ДЛЯ ПОБЕДИТЕЛЕЙ]]></headline>
+        <subhead><![CDATA[Покоряйте новые миры с ноутбуками Alienware нового поколения.]]></subhead>
+        <cta><![CDATA[ПРИНИМАЙТЕ КОМАНДОВАНИЕ]]></cta>
+    </hero>
+    <shell>
+        <nav>
+            <item id="1">
+                <title><![CDATA[КОНСТРУКЦИЯ]]></title>
+            </item>
+            <item id="2">
+                <title><![CDATA[ЦЕНТР<br />УПРАВЛЕНИЯ]]></title>
+            </item>
+            <item id="3">
+                <title><![CDATA[ЗНАКОМСТВО<br />С ALIENFX]]></title>
+            </item>
+            <item ie="4">
+                <title><![CDATA[ГАЛЕРЕЯ]]></title>
+            </item>
+            <item ie="5">
+                <title><![CDATA[ВИДЕО]]></title>
+            </item>
+        </nav>
+        <buttons>
+            <buyNow>
+                <title><![CDATA[Создайте свой ноутбук]]></title>
+            </buyNow>
+        </buttons>
+    </shell>
+    <design>
+        <buttons>
+            <button name="onOff">
+                <on><![CDATA[Вкл.]]></on>
+                <off><![CDATA[Выкл.]]></off>
+            </button>
+        </buttons>
+        <Alienware14 name="aw14">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Прочный корпус]]></title>
+                    <copy><![CDATA[Корпус из анодированного алюминия и рама из магниевого сплава надежно защищают ЖК-экран.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Надежный шарнир]]></title>
+                    <copy>
+                        <![CDATA[Положитесь на надежность шарнирного механизма, предназначенного для открытия и закрытия до 20 000 раз.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Подсветка, позволяющая создать нужную атмосферу ]]></title>
+                    <copy><![CDATA[Настройте внешнюю подсветку, выбрав одно из более чем 10 млрд сочетаний цветов.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Порты]]></title>
+                    <copy><![CDATA[Подключайте свои игровые системы с помощью нескольких портов, чтобы ускорить загрузку.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Стильный новый дизайн]]></title>
+                    <copy><![CDATA[Не ограничивайте себя обезличенными стандартными решениями, выбирайте систему с ярким запоминающимся дизайном.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Максимальная портативность]]></title>
+                    <copy>
+                        <![CDATA[Выдающиеся значения времени работы ноутбука Alienware 14 без подзарядки позволяют наслаждаться играми в любой точке мира.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Самые современные процессоры<br>и графические адаптеры]]></title>
+                    <copy>
+                        <![CDATA[Добавьте жару с помощью самых производительных процессоров и самых современных технологий обработки графики.]]></copy>
+                </item>
+                <item name="feature8">
+                    <title><![CDATA[Дисплей Full HD]]></title>
+                    <copy>
+                        <![CDATA[Играйте даже в сумерках с помощью клавиатуры с подсветкой и 14-дюймового дисплея с поддержкой разрешения Full HD и антибликовым покрытием.]]></copy>
+                </item>
+            </features>
+        </Alienware14>
+        <Alienware17 name="aw17">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Прочный корпус]]></title>
+                    <copy><![CDATA[Корпус из анодированного алюминия и рама из магниевого сплава надежно защищают ЖК-экран.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Надежный шарнир]]></title>
+                    <copy>
+                        <![CDATA[Положитесь на надежность шарнирного механизма, предназначенного для открытия и закрытия до 20 000 раз.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Подсветка, позволяющая создать нужную атмосферу ]]></title>
+                    <copy><![CDATA[Настройте внешнюю подсветку, выбрав одно из более чем 10 млрд сочетаний цветов.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Порты]]></title>
+                    <copy><![CDATA[Подключайте свои игровые системы с помощью нескольких портов, чтобы ускорить загрузку.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Стильный новый дизайн]]></title>
+                    <copy><![CDATA[Не ограничивайте себя обезличенными стандартными решениями, выбирайте систему с ярким запоминающимся дизайном.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Самые современные процессоры<br>и графические адаптеры]]></title>
+                    <copy>
+                        <![CDATA[Добавьте жару с помощью самых производительных процессоров и самых современных технологий обработки графики.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Дисплей Full HD]]></title>
+                    <copy>
+                        <![CDATA[Играйте даже в сумерках с помощью клавиатуры с подсветкой и 17,3-дюймового дисплея с поддержкой разрешения Full HD и антибликовым покрытием.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware17>
+        <Alienware18 name="aw18">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Прочный корпус]]></title>
+                    <copy><![CDATA[Корпус из анодированного алюминия и рама из магниевого сплава надежно защищают ЖК-экран.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Надежный шарнир]]></title>
+                    <copy>
+                        <![CDATA[Положитесь на надежность шарнирного механизма, предназначенного для открытия и закрытия до 20 000 раз.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Подсветка, позволяющая создать нужную атмосферу]]></title>
+                    <copy><![CDATA[Настройте внешнюю подсветку, выбрав одно из более чем 10 млрд сочетаний цветов.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Порты]]></title>
+                    <copy><![CDATA[Подключайте свои игровые системы с помощью нескольких портов, чтобы ускорить загрузку.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Стильный новый дизайн]]></title>
+                    <copy><![CDATA[Не ограничивайте себя обезличенными стандартными решениями, выбирайте систему с ярким запоминающимся дизайном.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Самые современные процессоры<br>и графические адаптеры]]></title>
+                    <copy>
+                        <![CDATA[Добавьте жару с помощью самых производительных процессоров, конфигураций с двумя графическими адаптерами и опциональной поддержки разгона.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Дисплей Full HD]]></title>
+                    <copy>
+                        <![CDATA[Играйте даже в сумерках с помощью клавиатуры с подсветкой и огромного 18,4-дюймового дисплея с поддержкой разрешения Full HD и покрытием TrueLife™.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware18>
+    </design>
+    <commandCenter>
+        <tab>
+            <title><![CDATA[Обзор]]></title>
+            <image>
+                <header><![CDATA[Центр управления]]></header>
+                <copy>
+                    <![CDATA[Возьмите игру под контроль с помощью обновленного центра управления Alienware. Выбирайте свою собственную подсветку и спецэффекты, повышайте производительность, контролируйте результаты игры и решайте множество других задач в рамках единого центра управления.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFX]]></title>
+            <image>
+                <header><![CDATA[Темы]]></header>
+                <copy>
+                    <![CDATA[Создайте собственные спецэффекты и темы, чтобы подчеркнуть свою индивидуальность.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Световые эффекты и программируемые события]]></header>
+                <copy>
+                    <![CDATA[Определите цвет и частоту мигания подсветки в различных зонах с помощью палитры из 20 цветов. Не забудьте, что подсветка может быть неизменной или использоваться для индикации тревог.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Игры с поддержкой AlienFX]]></header>
+                <copy>
+                    <![CDATA[Настраивайте специальные эффектов подсветки, основанных на событиях в игре, для более чем 55 игр, совместимых с AlienFX.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienAdrenaline]]></title><copy>            </copy><image>
+                
+<header><![CDATA[Режим игры]]></header>
+                
+                    <![CDATA[Настраивайте режим запуска игры или приложения, указывая темы, VOIP-приложения для запуска, а также другие приложения, которые необходимо запустить или закрыть при запуске игры или основного приложения.]]>
+            </image>
+            <image>
+                <header><![CDATA[Временное ускорение]]></header>
+                <copy>
+                   <![CDATA[Повысьте производительность своей системы, временно закрыв ненужные приложения Windows. Конфигурация системы не изменится и будет восстановлена после выхода из игры.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Мониторинг производительности]]></header>
+                <copy>
+                    <![CDATA[Контролируйте работу жесткого диска, памяти, сети, процессора или графического адаптера с помощью средства, позволяющего отслеживать производительность и выявлять проблемы в режиме реального времени или позже.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTactX]]></title>
+            <image>
+                <header><![CDATA[Программируемые пользователем макроклавиши]]></header>
+                <copy>
+                    <![CDATA[Назначайте различные функции вертикальным или горизонтальным макроклавишам. Объединяйте сочетания клавиш, создавайте шаблоны для клиента электронной почты, браузера или мультимедийного плеера, а также создавайте ярлыки, позволяющие запустить программу нажатием одной клавиши. Поддерживается только на ноутбуках Alienware 17 и Alienware 18.]]></copy>
+            </image><image>
+                
+<header><![CDATA[Импорт и экспорт профилей]]></header>
+                <copy>
+                    <![CDATA[Создавайте профили для конкретных игр и обменивайтесь такими профилями с друзьями. После выхода из игры восстановите неигровой профиль для повседневной работы. Поддерживается только на ноутбуках Alienware 17 и Alienware 18.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTouch]]></title>
+            <image>
+                <header><![CDATA[Прикосновение]]></header>
+                <copy>
+                    <![CDATA[Индивидуальная настройка параметров для включения функции "прикоснуться и перетащить", "фиксация для перетаскивания" или полного отключения управления прикосновением.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Чувствительность]]></header>
+                <copy>
+                    <![CDATA[Повышайте или понижайте чувствительность сенсорной панели, чтобы отрегулировать ее в соответствии с вашим стилем управления ладонью.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Виртуальная прокрутка]]></header>
+                <copy>
+                    <![CDATA[Задайте параметры вертикальной и горизонтальной прокрутки жестами с помощью AlienTouch, а затем настройте наиболее удобные для вас размеры зон прокрутки.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFusion]]></title>
+            <image>
+                <header><![CDATA[Быстрые настройки]]></header>
+                <copy>
+                    <![CDATA[Получите контроль над энергопотреблением. Удобные быстрые настройки позволяют быстро переключаться между режимом высокой производительности, сбалансированным режимом и режимом экономии энергии.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Расширенные настройки]]></header>
+                <copy>
+                    <![CDATA[Управляйте режимом работы отдельных компонентов, таких как адаптер беспроводной сети, графический процессор и многие другие, чтобы получить полный контроль над энергопотреблением в любом режиме.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Схемы управления питанием]]></header>
+                <copy>
+                    <![CDATA[Создавайте неограниченное число схем управления питанием в соответствии с любыми конкретными задачами. Оптимизируйте параметры для конкретной игры, а затем сохраните свою схему и измените ее в интерфейсе AlienFusion.  ]]></copy>            </image>
+
+        </tab>
+    </commandCenter>
+    <exploreLightingRx>
+        <copy><![CDATA[Создайте свои собственные схемы подсветки, используя 10 240 миллиардов возможных комбинаций.]]></copy>
+        <button><![CDATA[скрыть элементы управления]]></button>
+    </exploreLightingRx>
+    <gallery>
+        <image>
+            <title><![CDATA[Вместе к триумфу.]]></title>
+            <copy><![CDATA[Наслаждайтесь непревзойденной реалистичностью игр с ноутбуками Alienware нового поколения.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 14]]></title>
+            <copy><![CDATA[Портативное воплощение мощности.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 17]]></title>
+            <copy><![CDATA[Игровая производительность настольного компьютера. Только без настольного компьютера.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 18]]></title>
+            <copy><![CDATA[Самый мощный 18-дюймовый игровой ноутбук во вселенной.]]></copy>
+        </image>
+    </gallery>
+    <videoGallerr>
+        <video>
+            <productCategory><![CDATA[Видеоролик с гимном]]></productCategory>
+            <title><![CDATA[Alienware: Game Victorious]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Экспертная оценка: AW 14]]></productCategory>
+            <title><![CDATA[Alienware 14: отзыв специалиста]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Экспертная оценка: AW 17]]></productCategory>
+            <title><![CDATA[Alienware 17: отзыв специалиста]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Экспертная оценка: AW 18]]></productCategory>
+            <title><![CDATA[Alienware 18: отзыв специалиста]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Новый продукт: AW 14]]></productCategory>
+            <title><![CDATA[Новый Alienware 14: оцените сами]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Новый продукт: AW 17]]></productCategory>
+            <title><![CDATA[Новый Alienware 17: оцените сами]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Новый продукт: AW 18]]></productCategory>
+            <title><![CDATA[Новый Alienware 18: оцените сами]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Новое семейство]]></productCategory>
+            <title><![CDATA[Новые ноутбуки Alienware: непревзойденная мощь для игр]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Создание новых решений]]></productCategory>
+            <title><![CDATA[Обзор::создание ноутбуков Alienware]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[За кулисами: внутренняя конструкция]]></productCategory>
+            <title><![CDATA[За кулисами: внутренняя конструкция]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[За кулисами: новый дизайн]]></productCategory>
+            <title><![CDATA[За кулисами: промышленный дизайн]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[За кулисами: центр управления]]></productCategory>
+            <title><![CDATA[За кулисами: центр управления]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[За кулисами: центр управления]]></productCategory>
+            <title><![CDATA[Центр управления: AlienFX™]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[За кулисами: центр управления]]></productCategory>
+            <title><![CDATA[Центр управления: AlienTouch™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[За кулисами: центр управления]]></productCategory>
+            <title><![CDATA[Центр управления: AlienFusion]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[За кулисами: центр управления]]></productCategory>
+            <title><![CDATA[Центр управления: Alienware TactX™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[За кулисами: центр управления]]></productCategory>
+            <title><![CDATA[Центр управления: AlienAdrenaline]]></title>
+        </video>
+    </videoGallerr>
+</copy>

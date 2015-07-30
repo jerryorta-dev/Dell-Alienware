@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<copy>
+    <language>en</language>
+    <embedFonts>صواب</embedFonts>
+    <hero>
+        <title><![CDATA[أجهزة الكمبيوتر المحمولة الجديدة من Alienware]]></title>
+        <headline><![CDATA[مصممة بحيث تمكّنك من تحقيق النصر]]></headline>
+        <subhead><![CDATA[حقق الفوز على عوالم جديدة باستخدام الجيل التالي من أجهزة الكمبيوتر المحمولة من Alienware.]]></subhead>
+        <cta><![CDATA[امتلك زمام الأمور]]></cta>
+    </hero>
+    <shell>
+        <nav>
+            <item id="1">
+                <title><![CDATA[التصميم]]></title>
+            </item>
+            <item id="2">
+                <title><![CDATA[مركز<br />المراقبة]]></title>
+            </item>
+            <item id="3">
+                <title><![CDATA[استكشف برنامج<br />ALIENFX]]></title>
+            </item>
+            <item ie="4">
+                <title><![CDATA[معرض الصور]]></title>
+            </item>
+            <item ie="5">
+                <title><![CDATA[الفيديو]]></title>
+            </item>
+        </nav>
+        <buttons>
+            <buyNow>
+                <title><![CDATA[اختر مواصفات جهازك]]></title>
+            </buyNow>
+        </buttons>
+    </shell>
+    <design>
+        <buttons>
+            <button name="onOff">
+                <on><![CDATA[تشغيل]]></on>
+                <off><![CDATA[إيقاف]]></off>
+            </button>
+        </buttons>
+        <Alienware14 name="aw14">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[هيكل قوي]]></title>
+                    <copy><![CDATA[يحمي الغلاف المصنوع من أكسيد الألومنيوم والإطار المصنوع من سبيكة الماغنسيوم شاشة LCD لديك.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[مفصلة متينة]]></title>
+                    <copy>
+                        <![CDATA[يمكنك الاعتماد على الموثوقية من خلال مفصلة تم تصميمها ليتم فتحها وغلقها بمعدل يصل إلى 20000 مرة.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[إضاءة رائعة ]]></title>
+                    <copy><![CDATA[يمكنك تخصيص الإضاءة الخارجية لديك من خلال توفر ما يزيد عن 10 مليارات مجموعة من مجموعات الألوان.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[المنافذ]]></title>
+                    <copy><![CDATA[يمكنك توصيل جميع معدات الألعاب لديك من خلال المنافذ العديدة المتوفرة لتنزيل الوسائط بشكل أسرع.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[تصميم جديد أنيق المظهر]]></title>
+                    <copy><![CDATA[يمكنك تجاوز المعايير باستخدام نظام مصمم بشكل مميز.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[قابلية تنقل فائقة]]></title>
+                    <copy>
+                        <![CDATA[من خلال ما يتسم به من فترة عمل متميزة للبطارية، تم تصميم الطراز Alienware 14 لممارسة الألعاب فائقة القوة في أي مكان.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[أحدث بطاقات الرسومات <br>والمعالجات]]></title>
+                    <copy>
+                        <![CDATA[يمكنك التمتع بالقوة بفضل الأداء الأسرع وتقنية الرسومات الأكثر تطورًا.]]></copy>
+                </item>
+                <item name="feature8">
+                    <title><![CDATA[شاشة تعمل بمعيار الدقة الكاملة]]></title>
+                    <copy>
+                        <![CDATA[يمكنك ممارسة الألعاب حتى بعد حلول الظلام بفضل لوحة المفاتيح المزودة بإضاءة خلفية والشاشة فائقة الدقة مقاس 14 بوصة المزودة بطلاء ضد التوهج.]]></copy>
+                </item>
+            </features>
+        </Alienware14>
+        <Alienware17 name="aw17">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[هيكل قوي]]></title>
+                    <copy><![CDATA[يحمي الغلاف المصنوع من أكسيد الألومنيوم والإطار المصنوع من سبيكة الماغنسيوم شاشة LCD لديك.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[مفصلة متينة]]></title>
+                    <copy>
+                        <![CDATA[يمكنك الاعتماد على الموثوقية من خلال مفصلة تم تصميمها ليتم فتحها وغلقها بمعدل يصل إلى 20000 مرة.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[إضاءة رائعة ]]></title>
+                    <copy><![CDATA[يمكنك تخصيص الإضاءة الخارجية لديك من خلال توفر ما يزيد عن 10 مليارات مجموعة من مجموعات الألوان.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[المنافذ]]></title>
+                    <copy><![CDATA[يمكنك توصيل جميع معدات الألعاب لديك من خلال المنافذ العديدة المتوفرة لتنزيل الوسائط بشكل أسرع.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[تصميم جديد أنيق المظهر]]></title>
+                    <copy><![CDATA[يمكنك تجاوز المعايير باستخدام نظام مصمم بشكل مميز.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[أحدث بطاقات الرسومات <br>والمعالجات]]></title>
+                    <copy>
+                        <![CDATA[يمكنك التمتع بالقوة بفضل الأداء الأسرع وتقنية الرسومات الأكثر تطورًا.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[شاشة تعمل بمعيار الدقة الكاملة]]></title>
+                    <copy>
+                        <![CDATA[يمكنك ممارسة الألعاب حتى بعد حلول الظلام بفضل لوحة المفاتيح المزودة بإضاءة خلفية والشاشة فائقة الدقة مقاس 17.3 بوصة المزودة بطلاء ضد التوهج.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware17>
+        <Alienware18 name="aw18">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[هيكل قوي]]></title>
+                    <copy><![CDATA[يحمي الغلاف المصنوع من أكسيد الألومنيوم والإطار المصنوع من سبيكة الماغنسيوم شاشة LCD لديك.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[مفصلة متينة]]></title>
+                    <copy>
+                        <![CDATA[يمكنك الاعتماد على الموثوقية من خلال مفصلة تم تصميمها ليتم فتحها وغلقها بمعدل يصل إلى 20000 مرة.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[إضاءة رائعة]]></title>
+                    <copy><![CDATA[يمكنك تخصيص الإضاءة الخارجية لديك من خلال توفر ما يزيد عن 10 مليارات مجموعة من مجموعات الألوان.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[المنافذ]]></title>
+                    <copy><![CDATA[يمكنك توصيل جميع معدات الألعاب لديك من خلال المنافذ العديدة المتوفرة لتنزيل الوسائط بشكل أسرع.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[تصميم جديد أنيق المظهر]]></title>
+                    <copy><![CDATA[يمكنك تجاوز المعايير باستخدام نظام مصمم بشكل مميز.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[أحدث بطاقات الرسومات <br>والمعالجات]]></title>
+                    <copy>
+<![CDATA[يمكنك التمتع بالقوة بفضل الأداء الأسرع وبطاقات الرسومات المزدوجة وميزة تجاوز حدود الأداء والسرعة المحددة افتراضيًا في المصنع الاختيارية.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[شاشة تعمل بمعيار الدقة الكاملة]]></title>
+                    <copy>
+                        <![CDATA[يمكنك ممارسة الألعاب حتى بعد حلول الظلام بفضل لوحة المفاتيح المزودة بإضاءة خلفية والشاشة الكبيرة فائقة الدقة مقاس 18.4 بوصة المزودة بتقنية TrueLife™.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware18>
+    </design>
+    <commandCenter>
+        <tab>
+            <title><![CDATA[نظرة عامة]]></title>
+            <image>
+                <header><![CDATA[مركز المراقبة]]></header>
+                <copy>
+                    <![CDATA[تحكم في الألعاب باستخدام مركز المراقبة من Alienware المعاد تصميمه. اختر الإضاءة والمؤثرات الخاصة التي تناسبك وتمتع بتسريع الأداء ومراقبة نتائج اللعبة وغير ذلك الكثير — وكل ذلك في مركز واحد.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[برنامج AlienFX]]></title>
+            <image>
+                <header><![CDATA[السمات]]></header>
+                <copy>
+                    <![CDATA[يمكنك إنشاء المؤثرات الخاصة والسمات التي تناسبك للتعبير عن نفسك من خلال مظهر فريد.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[المؤثرات الضوئية والأحداث القابلة للبرمجة]]></header>
+                <copy>
+                    <![CDATA[يمكنك ضبط المناطق لتغيير اللون أو التحرك أو الحفاظ على الثبات أو الإشارة إلى تنبيه باستخدام لوحة تضم 20 لونًا.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[الألعاب التي تدعم نظام الإضاءة AlienFX]]></header>
+                <copy>
+                    <![CDATA[يمكنك تخصيص مؤثرات الإضاءة الخاصة استنادًا إلى أحداث اللعبة من خلال ما يزيد عن 55 لعبة متوافقة مع نظام الإضاءة AlienFX.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienAdreneline]]></title>
+            <image>
+                <header><![CDATA[Game Mode (وضع الألعاب)]]></header>
+                <copy>
+                    <![CDATA[يمكنك تخصيص الطريقة التي يتم بها تشغيل اللعبة أو التطبيق من خلال السمات أو تقنية VOIP وتخصيص تلك التي ترغب في فتحها أو غلقها بمجرد التشغيل.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Accelerator (المسرع)]]></header>
+                <copy>
+                    <![CDATA[امنح نظامك سرعة هائلة عن طريق غلق التطبيقات غير الضرورية القائمة على نظام التشغيل Windows بشكل مؤقت. لا تتغير التهيئة التي تقوم بها وتعود إلى حالتها الأصلية عند انتهاء اللعبة.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[مراقبة الأداء]]></header>
+                <copy>
+                    <![CDATA[يمكنك مراقبة استخدام محرك الأقراص الثابتة أو الذاكرة أو الشبكة أو المعالج أو بطاقة الرسومات لديك باستخدام أداة تتيح لك إمكانية تعقب الأداء أو التعرف على المشكلات في الوقت الفعلي أو في وقتٍ لاحق.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTactX]]></title>
+            <image>
+                <header><![CDATA[مفاتيح كبيرة قابلة للبرمجة من قِبل المستخدم]]></header>
+                <copy>
+                    <![CDATA[يمكنك تعيين مختلف الوظائف إلى المفاتيح الكبيرة الرأسية والأفقية. يمكنك جمع مجموعة من ضغطات المفاتيح أو إنشاء إعدادات مسبقة من أجل البريد الإلكتروني أو الويب أو مشغل الوسائط أو إنشاء اختصارات يمكنها تشغيل أي برنامج بضغطة زر. متوفرة فقط في الطراز Alienware 17 وAlienware 18.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[استيراد ملفات التعريف وتصديرها]]></header>
+                <copy>
+                    <![CDATA[يمكنك إنشاء ملفات تعريف خاصة باللعبة يمكنك استخدامها بنفسك ومشاركتها مع الأصدقاء. عند انتهاء اللعبة، يمكنك استعادة أي ملف تعريف غير متعلق باللعبة للاستخدام اليومي. متوفرة فقط في الطراز Alienware 17 وAlienware 18.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[برنامج AlienTouch]]></title>
+            <image>
+                <header><![CDATA[النقر]]></header>
+                <copy>
+                    <![CDATA[يمكنك تخصيص إعداداتك لتمكين إما "النقر والسحب" أو "إغلاق السحب" أو تعطيل إيماءات النقر بشكل كامل.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[الحساسية]]></header>
+                <copy>
+                    <![CDATA[يمكنك زيادة أو تقليل حساسية لوحة اللمس لديك لجعلها أكثر أو أقل حساسية للمس باستخدام راحة يدك.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[التمرير الافتراضي]]></header>
+                <copy>
+                    <![CDATA[يمكنك اختيار إعداداتك الخاصة لتناسب التمرير الرأسي والأفقي للإيماءات باستخدام AlienTouch، ثم تخصيص حجم مناطق التمرير التي تعمل بشكل أفضل من أجلك.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[برنامج AlienFusion]]></title>
+            <image>
+                <header><![CDATA[الإعدادات السريعة]]></header>
+                <copy>
+                    <![CDATA[تحكم في استخدامك للطاقة. تتيح لك الإعدادات السريعة سهلة الاستخدام إمكانية الاختيار بين الأوضاع فائقة الأداء أو المتوازنة أو الموفرة للطاقة.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[الإعدادات المتقدمة]]></header>
+                <copy>
+                    <![CDATA[يمكنك ضبط سلوك المكونات الفردية مثل المهايئ اللاسلكي ومعالج الرسومات والمزيد ليمنحك تحكمًا تامًا في أجهزتك في أي وضع طاقة.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[خطط طاقة مخصصة]]></header>
+                <copy>
+                    <![CDATA[يمكنك إنشاء خطط غير محدودة للطاقة لتلبي احتياجاتك المختلفة. يمكنك تحسين اللعب لأية لعبة معينة، ومن ثم الحفاظ على خطة الطاقة وتعديلها في واجهة AlienFusion.  ]]></copy>
+            </image>
+        </tab>
+    </commandCenter>
+    <exploreLightingRx>
+        <copy><![CDATA[يمكنك إنشاء نظام الإضاءة المخصص المناسب لك من 10,240 مليارات مجموعة محتملة.]]></copy>
+        <button><![CDATA[إخفاء عناصر التحكم]]></button>
+    </exploreLightingRx>
+    <gallery>
+        <image>
+            <title><![CDATA[نحقق الانتصار معًا.]]></title>
+            <copy><![CDATA[تمتع بتجربة ألعاب قوية باستخدام الجيل التالي من أجهزة الكمبيوتر المحمولة من Alienware.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[الطراز Alienware 14]]></title>
+            <copy><![CDATA[المصمم ليناسب أية حقيبة ظهر.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[الطراز Alienware 17]]></title>
+            <copy><![CDATA[احصل على أداء ألعاب أجهزة الكمبيوتر المكتبية. دون استخدام الكمبيوتر المكتبي.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[الطراز Alienware 18]]></title>
+            <copy><![CDATA[أقوى كمبيوتر محمول لتشغيل الألعاب مقاس 18 بوصة في العالم..]]></copy>
+        </image>
+    </gallery>
+    <videoGallerr>
+        <video>
+            <productCategory><![CDATA[مقطع فيديو عن أغنية النصر]]></productCategory>
+            <title><![CDATA[Alienware: الفوز مضمون في اللعبة]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[خبير في منتج AW 14]]></productCategory>
+            <title><![CDATA[مراجعة خبير للطراز Alienware 14]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[مراجعة خبير للطراز AW 17]]></productCategory>
+            <title><![CDATA[مراجعة خبير للطراز Alienware 17]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[خبير في منتج AW 18]]></productCategory>
+            <title><![CDATA[مراجعة خبير للطراز Alienware 18]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[بطل في منتج AW 14]]></productCategory>
+            <title><![CDATA[الطراز Alienware 14 الجديد: تمتع بتجربته]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[بطل في منتج AW 17]]></productCategory>
+            <title><![CDATA[الطراز Alienware 17 الجديد: تمتع بتجربته]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[بطل في منتج AW 18]]></productCategory>
+            <title><![CDATA[الطراز Alienware 18 الجديد: تمتع بتجربته]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[بطل في فئة صنع الملحمة]]></productCategory>
+            <title><![CDATA[أجهزة الكمبيوتر المحمولة الجديدة من Alienware: ألعاب قوية]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[صنع ملحمة]]></productCategory>
+            <title><![CDATA[رحلة صنع الملحمة: تصنيع أجهزة الكمبيوتر المحمولة من Alienware]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[وراء الجهاز: تصميم داخلي]]></productCategory>
+            <title><![CDATA[وراء الجهاز: تصميم داخلي]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[وراء الجهاز: تصميم ملحمي]]></productCategory>
+            <title><![CDATA[وراء الجهاز: تصميم صناعي]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[وراء الجهاز: مركز المراقبة]]></productCategory>
+            <title><![CDATA[وراء الجهاز: مركز المراقبة]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[وراء الجهاز: مركز المراقبة]]></productCategory>
+            <title><![CDATA[مركز المراقبة: الطراز ™AlienFX]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[وراء الجهاز: مركز المراقبة]]></productCategory>
+            <title><![CDATA[مركز المراقبة: الطراز ™AlienTouch]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[وراء الجهاز: مركز المراقبة]]></productCategory>
+            <title><![CDATA[مركز المراقبة: AlienFusion]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[وراء الجهاز: مركز المراقبة]]></productCategory>
+            <title><![CDATA[مركز المراقبة: الطراز ™TactX من Alienware]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[وراء الجهاز: مركز المراقبة]]></productCategory>
+            <title><![CDATA[مركز المراقبة: AlienAdrenaline]]></title>
+        </video>
+    </videoGallerr>
+</copy>

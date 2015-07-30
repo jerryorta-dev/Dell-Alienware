@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<copy>
+    <language>HE</language>
+    <embedFonts>true</embedFonts>
+    <hero>
+        <title><![CDATA[המחשבים הניידים החדשים מדגמי Alienware]]></title>
+        <headline><![CDATA[מעוצבים לניצחון]]></headline>
+        <subhead><![CDATA[כבוש עולמות חדשים בעזרת המחשבים הניידים מהדור הבא מדגמי Alienware.]]></subhead>
+        <cta><![CDATA[תפוס פיקוד]]></cta>
+    </hero>
+    <shell>
+        <nav>
+            <item id="1">
+                <title><![CDATA[עיצוב]]></title>
+            </item>
+            <item id="2">
+                <title><![CDATA[COMMAND<br />CENTER]]></title>
+            </item>
+            <item id="3">
+                <title><![CDATA[גלה את<br />ALIENFX]]></title>
+            </item>
+            <item ie="4">
+                <title><![CDATA[גלריה]]></title>
+            </item>
+            <item ie="5">
+                <title><![CDATA[וידיאו]]></title>
+            </item>
+        </nav>
+        <buttons>
+            <buyNow>
+                <title><![CDATA[בנה את שלך]]></title>
+            </buyNow>
+        </buttons>
+    </shell>
+    <design>
+        <buttons>
+            <button name="onOff">
+                <on><![CDATA[הפעלה]]></on>
+                <off><![CDATA[כיבוי]]></off>
+            </button>
+        </buttons>
+        <Alienware14 name="aw14">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[גוף חסון]]></title>
+                    <copy><![CDATA[מארז חיצוני בציפוי אלומיניום ומסגרת עשויה סגסוגת מגנזיום מגנים על צג ה-LCD של המחשב.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[ציר עמיד]]></title>
+                    <copy>
+                        <![CDATA[אתה יכול לסמוך על עמידות הציר, שתוכנן במטרה להיפתח ולהיסגר עד 20,000 פעמים ללא תקלות.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[תאורה מהפנטת ]]></title>
+                    <copy><![CDATA[התאם אישית את התאורה החיצונית עם יותר מ-10 מיליארד שילובי צבעים.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[יציאות]]></title>
+                    <copy><![CDATA[חבר את כל ציוד המשחקים שלך באמצעות שפע היציאות הזמינות, להורדת מדיה ביתר מהירות.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[עיצוב חדש ומסוגנן]]></title>
+                    <copy><![CDATA[הפגן ייחודיות עם מערכת בעיצוב שונה מהרגיל.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[ניידות מרבית]]></title>
+                    <copy>
+                        <![CDATA[עם חיי סוללה מעולים, דגם Alienware 14 מתוכנן לספק חוויית משחק מרשימה בכל מקום.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[הכרטיסים הגרפיים <br>& והמעבדים החדשים ביותר]]></title>
+                    <copy>
+                        <![CDATA[הגבר את העוצמה בעזרת הביצועים המהירים ביותר וטכנולוגיית הגרפיקה המתקדמת ביותר.]]></copy>
+                </item>
+                <item name="feature8">
+                    <title><![CDATA[צג באיכות Full HD]]></title>
+                    <copy>
+                        <![CDATA[שחק גם לאחר שקיעת השמש באמצעות מקלדת מוארת וצג בגודל 14 אינץ' באיכות Full HD עם ציפוי מבטל בוהק.]]></copy>
+                </item>
+            </features>
+        </Alienware14>
+        <Alienware17 name="aw17">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[גוף חסון]]></title>
+                    <copy><![CDATA[מארז חיצוני בציפוי אלומיניום ומסגרת עשויה סגסוגת מגנזיום מגנים על צג ה-LCD של המחשב.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[ציר עמיד]]></title>
+                    <copy>
+                        <![CDATA[אתה יכול לסמוך על עמידות הציר, שתוכנן במטרה להיפתח ולהיסגר עד 20,000 פעמים ללא תקלות.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[תאורה מהפנטת ]]></title>
+                    <copy><![CDATA[התאם אישית את התאורה החיצונית עם יותר מ-10 מיליארד שילובי צבעים.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[יציאות]]></title>
+                    <copy><![CDATA[חבר את כל ציוד המשחקים שלך באמצעות שפע היציאות הזמינות, להורדת מדיה ביתר מהירות.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[עיצוב חדש ומסוגנן]]></title>
+                    <copy><![CDATA[הפגן ייחודיות עם מערכת בעיצוב שונה מהרגיל.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[הכרטיסים הגרפיים <br>& והמעבדים החדשים ביותר]]></title>
+                    <copy>
+                        <![CDATA[הגבר את העוצמה בעזרת הביצועים המהירים ביותר וטכנולוגיית הגרפיקה המתקדמת ביותר.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[צג באיכות Full HD]]></title>
+                    <copy>
+                        <![CDATA[שחק גם לאחר שקיעת השמש באמצעות מקלדת מוארת וצג בגודל 17.3 אינץ' באיכות Full HD עם ציפוי מבטל בוהק.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware17>
+        <Alienware18 name="aw18">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[גוף חסון]]></title>
+                    <copy><![CDATA[מארז חיצוני בציפוי אלומיניום ומסגרת עשויה סגסוגת מגנזיום מגנים על צג ה-LCD של המחשב.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[ציר עמיד]]></title>
+                    <copy>
+                        <![CDATA[אתה יכול לסמוך על עמידות הציר, שתוכנן במטרה להיפתח ולהיסגר עד 20,000 פעמים ללא תקלות.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[תאורה מהפנטת]]></title>
+                    <copy><![CDATA[התאם אישית את התאורה החיצונית עם יותר מ-10 מיליארד שילובי צבעים.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[יציאות]]></title>
+                    <copy><![CDATA[חבר את כל ציוד המשחקים שלך באמצעות שפע היציאות הזמינות, להורדת מדיה ביתר מהירות.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[עיצוב חדש ומסוגנן]]></title>
+                    <copy><![CDATA[הפגן ייחודיות עם מערכת בעיצוב שונה מהרגיל.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[הכרטיסים הגרפיים <br>& והמעבדים החדשים ביותר]]></title>
+                    <copy>
+                        <![CDATA[הגבר את העוצמה בעזרת הביצועים המהירים ביותר, שני כרטיסים גרפיים ותזמון שעון מואץ אופציונלי.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[צג באיכות Full HD]]></title>
+                    <copy>
+                        <![CDATA[שחק גם לאחר שקיעת השמש באמצעות מקלדת מוארת ומסך ענק בגודל 18.4 אינץ' באיכות Full HD עם טכנולוגיית TrueLife™‎‏.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware18>
+    </design>
+    <commandCenter>
+        <tab>
+            <title><![CDATA[סקירה כללית]]></title>
+            <image>
+                <header><![CDATA[Command Center]]></header>
+                <copy>
+                    <![CDATA[שלוט במשחק עם Alienware Command Center המעוצב מחדש. בחר אפקטי תאורה ואפקטים מיוחדים משלך, האץ את הביצועים, נטר תוצאות במהלך משחקים ועוד — והכל מתוך רכזת אחת.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFX‎]]></title>
+            <image>
+                <header><![CDATA[ערכות נושא]]></header>
+                <copy>
+                    <![CDATA[צור אפקטים מיוחדים וערכות נושא משלך, ובטא את עצמך באמצעות מראה ייחודי.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[אפקטי תאורה ואירועים הניתנים לתכנות]]></header>
+                <copy>
+                    <![CDATA[הגדר אזורים לשינוי צבעים, להבהוב ולשמירה על צבע קבוע, או הגדר התראה עם לוח בן 20 צבעים שונים.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[משחקים תואמי-AlienFX]]></header>
+                <copy>
+                    <![CDATA[התאם אישית אפקטי תאורה מיוחדים המבוססים על אירועים במשחקים, בלמעלה מ-55 משחקים תואמי-AlienFX‏.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienAdreneline]]></title>
+            <image>
+                <header><![CDATA[מצב משחק]]></header>
+                <copy>
+                    <![CDATA[התאם אישית את אופן ההפעלה של המשחק או היישום בעזרת ערכות נושא או VOIP, והתאם אישית את המשחקים והיישומים שברצונך שייפתחו או ייסגרו עם ההפעלה.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Accelerator]]></header>
+                <copy>
+                    <![CDATA[תן למערכת שלך זריקת מרץ על-ידי סגירה זמנית של יישומים מבוססי-Windows שאינם נחוצים. התצורה שלך אינה משתנה, והיא תחזור למצבה המקורי עם סיום המשחק.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Performance Monitoring]]></header>
+                <copy>
+                    <![CDATA[נטר את השימוש בכונן הקשיח, בזיכרון, ברשת, במעבד או בכרטיס הגרפי בעזרת כלי שמאפשר לך לנהל מעקב אתר הביצועים או לזהות בעיות בזמן אמת או במועד מאוחר יותר.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTactX]]></title>
+            <image>
+                <header><![CDATA[מקשי מאקרו הזמינים לתכנות על-ידי המשתמש]]></header>
+                <copy>
+                    <![CDATA[הקצה פונקציות שונות למקשי מאקרו אנכיים או אופקיים. שלב סדרה של הקשות, צור הגדרות קבועות מראש עבור יישומי הדוא"ל, האינטרנט או נגן המדיה שלך, או הגדר קיצורי דרך שמאפשרים הפעלה של תוכנית בלחיצה אחת. זמין רק בדגמי Alienware 17 ו-Alienware 18‏.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[ייבוא וייצוא של פרופילים]]></header>
+                <copy>
+                    <![CDATA[צור פרופילים ספציפיים-למשחק שתוכל להשתמש בהם בעצמך, וכן לשתף אותם עם חברים. עם סיום המשחק, שחזר פרופיל שאינו של משחק לשימוש יומיומי. זמין רק בדגמי Alienware 17 ו-Alienware 18‏.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTouch]]></title>
+            <image>
+                <header><![CDATA[הקשה]]></header>
+                <copy>
+                    <![CDATA[התאם אישית את ההגדרות על מנת לאפשר "הקשה וגרירה" או "גרירות לנעילה", או על מנת להשבית את מחוות ההקשה לחלוטין.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[רגישות]]></header>
+                <copy>
+                    <![CDATA[העלה או הורד את סף הרגישות של לוח המגע שלך כדי להפוך אותו לרגיש יותר או רגיש פחות למגע כף ידך.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[גלילה וירטואלית]]></header>
+                <copy>
+                    <![CDATA[בחר הגדרות משלך לגלילה עם מחוות אנכיות ואופקיות עם AlienTouch, ולאחר מכן התאם אישית את גודל אזורי הגלילה המתאימים ביותר עבורך.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFusion]]></title>
+            <image>
+                <header><![CDATA[הגדרות מהירות]]></header>
+                <copy>
+                    <![CDATA[תפוס פיקוד על צריכת החשמל שלך. הגדרות מהירות ונוחות מאפשרות לך לבחור בין מצבים של ביצועים גבוהים, צריכת משאבים מאוזנת וחיסכון בחשמל.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[הגדרות מהירות]]></header>
+                <copy>
+                    <![CDATA[כוונן את אופן פעולתם של רכיבים נפרדים דוגמת מתאם אלחוטי, מעבד גרפי ועוד, לקבלת שליטה מלאה על החומרה בכל מצב צריכת חשמל.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[תוכניות צריכת חשמל מותאמות אישית]]></header>
+                <copy>
+                    <![CDATA[צור אינספור תוכניות לצריכת חשמל בהתאם לכל צורך. מטב את מערך המשחק בכל משחק שבו אתה משחק, ולאחר מכן שמור ושנה את תוכנית צריכת החשמל שלך בממשק AlienFusion‏.  ]]></copy>
+            </image>
+        </tab>
+    </commandCenter>
+    <exploreLightingRx>
+        <copy><![CDATA[צור תוכנית תאורה מותאמת אישית משלך מתוך 10,240 מיליארד שילובים אפשריים.]]></copy>
+        <button><![CDATA[הסתר פקדים]]></button>
+    </exploreLightingRx>
+    <gallery>
+        <image>
+            <title><![CDATA[ביחד ננצח את הכל.]]></title>
+            <copy><![CDATA[אתה מוזמן להתנסות בחוויית המשחק המושלמת עם המחשבים הניידים מהדור הבא מדגמי Alienware‏.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 14‏]]></title>
+            <copy><![CDATA[מושלם לכל תרמיל גב.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 17‏]]></title>
+            <copy><![CDATA[אתה מוזמן ליהנות מביצועי משחק של מחשב שולחני. ללא מחשב שולחני.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 18‏]]></title>
+            <copy><![CDATA[המחשב הנייד בגודל 18 אינץ' העוצמתי ביותר בעולם.]]></copy>
+        </image>
+    </gallery>
+    <videoGallerr>
+        <video>
+            <productCategory><![CDATA[סרטון המנון]]></productCategory>
+            <title><![CDATA[Alienware: ניצחון מובטח במשחקים]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[מומחה מוצר - AW 14]]></productCategory>
+            <title><![CDATA[ביקורת מומחה - Alienware 14]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[מומחה מוצר - AW 17]]></productCategory>
+            <title><![CDATA[ביקורת מומחה - Alienware 17]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[מומחה מוצר - AW 18]]></productCategory>
+            <title><![CDATA[ביקורת מומחה - Alienware 18]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Hero AW 14]]></productCategory>
+            <title><![CDATA[דגם Alienware 14 החדש: נסה אותו]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Hero AW 17]]></productCategory>
+            <title><![CDATA[דגם Alienware 17 החדש: נסה אותו]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Hero AW 18]]></productCategory>
+            <title><![CDATA[דגם Alienware 18 החדש: נסה אותו]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[EPIC Family Hero]]></productCategory>
+            <title><![CDATA[מחשבי המחברת החדשים מדגמי Alienware: חוויית המשחק האולטימטיבית]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[היצירה של משפחת EPIC]]></productCategory>
+            <title><![CDATA[מסע אפי: יצירתם של מחשבי המחברת מדגמי Alienware]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[מאחורי המכונה: עיצוב פנים]]></productCategory>
+            <title><![CDATA[מאחורי המכונה: עיצוב פנים]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[מאחורי המכונה: עיצוב משפחת EPIC]]></productCategory>
+            <title><![CDATA[מאחורי המכונה: עיצוב תעשייתי]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[מאחורי המכונה: Command Center]]></productCategory>
+            <title><![CDATA[מאחורי המכונה: Command Center]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[מאחורי המכונה: Command Center]]></productCategory>
+            <title><![CDATA[Command Center‏: AlienFX™‎]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[מאחורי המכונה: Command Center]]></productCategory>
+            <title><![CDATA[Command Center‏: AlienTouch™‎]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[מאחורי המכונה: Command Center]]></productCategory>
+            <title><![CDATA[Command Center‏: AlienFusion]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[מאחורי המכונה: Command Center]]></productCategory>
+            <title><![CDATA[Command Center‏: Alienware TactX™‎]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[מאחורי המכונה: Command Center]]></productCategory>
+            <title><![CDATA[Command Center‏: AlienAdrenaline]]></title>
+        </video>
+    </videoGallerr>
+</copy>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <shell>
+        <LoaderMax name="modulesQueue" maxConnections="4" load="false" >
+            <SWFLoader name="design" url="Main_1115_Design.swf" estimatedBytes="272000"  />
+        </LoaderMax>
+        <LoaderMax  name="tertiaryLoad" maxConnections="4" load="false">
+            <SWFLoader name="commandCenter" url="Main_1115_CommandCenter.swf" estimatedBytes="205000" />
+            <SWFLoader name="exploreAlienFx" url="Main_1115_AlienFx.swf" estimatedBytes="13000" />
+            <SWFLoader name="gallery" url="Main_1115_Gallery.swf" estimatedBytes="13000" />
+            <SWFLoader name="video" url="Main_1115_Video.swf" estimatedBytes="13000"  />
+        </LoaderMax>
+        <nav>
+            <item name="design" stateName="design" icon="design" initState="on"  />
+            <item name="commandCenter" stateName="commandCenter" icon="commandCenter" initState="off" />
+            <item name="exploreAlienFx" stateName="exploreAlienFx" icon="exploreAlienFx" initState="off"  />
+            <item name="gallery" stateName="gallery" icon="imageGallery" initState="off" />
+            <item name="video" stateName="video" icon="videoGallery" initState="off" />
+        </nav>
+        <buttons>
+            <buyNow name="shellCTA" icon="btnCTA" url="http://dell.com"  state="off"/>
+        </buttons>
+    </shell>
+
+</config>

@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<copy>
+    <language>CZ</language>
+    <embedFonts>true</embedFonts>
+    <hero>
+        <title><![CDATA[Nové notebooky Alienware]]></title>
+        <headline><![CDATA[NAVRŽENO PRO VÍTĚZSTVÍ]]></headline>
+        <subhead><![CDATA[S novou generací notebooků Alienware ovládnete nové světy.]]></subhead>
+        <cta><![CDATA[PŘEVEZMĚTE VELENÍ]]></cta>
+    </hero>
+    <shell>
+        <nav>
+            <item id="1">
+                <title><![CDATA[NÁVRH]]></title>
+            </item>
+            <item id="2">
+                <title><![CDATA[COMMAND<br />CENTER]]></title>
+            </item>
+            <item id="3">
+                <title><![CDATA[PROZKOUMEJTE< br/>ALIENFX ]]></title>
+            </item>
+            <item ie="4">
+                <title><![CDATA[GALERIE]]></title>
+            </item>
+            <item ie="5">
+                <title><![CDATA[VIDEO]]></title>
+            </item>
+        </nav>
+        <buttons>
+            <buyNow>
+                <title><![CDATA[Sestavte si vlastní]]></title>
+            </buyNow>
+        </buttons>
+    </shell>
+    <design>
+        <buttons>
+            <button name="onOff">
+                <on><![CDATA[Zapnout]]></on>
+                <off><![CDATA[Vypnout]]></off>
+            </button>
+        </buttons>
+        <Alienware14 name="aw14">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Robustní tělo]]></title>
+                    <copy><![CDATA[Pouzdro z eloxovaného hliníku a rám z hořčíkové slitiny chrání displej.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Odolný závěs]]></title>
+                    <copy>
+                        <![CDATA[Na závěs konstruovaný až na 20 000 otevření a zavření se můžete spolehnout.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Přitažlivé osvětlení ]]></title>
+                    <copy><![CDATA[Externí osvětlení si můžete přizpůsobit do více než 10 miliardám barevných kombinací.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Porty]]></title>
+                    <copy><![CDATA[K mnoha portům můžete připojit všechny herní pomůcky a zrychlíte i stahování médií.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Elegantní nový design]]></title>
+                    <copy><![CDATA[Odlišně konstruovaný počítač převyšuje standard.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Maximální možnosti přenášení]]></title>
+                    <copy>
+                        <![CDATA[Baterie notebooku Alienware 14 nabízí vynikající výdrž, tento počítač byl navržen pro intenzivní hraní kdekoli.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Nejnovější grafika <br>a procesory]]></title>
+                    <copy>
+                        <![CDATA[Intenzivní hraní podporují také nejvyšší výkon a nejpokročilejší grafické technologie.]]></copy>
+                </item>
+                <item name="feature8">
+                    <title><![CDATA[Displej s rozlišením Full HD]]></title>
+                    <copy>
+                        <![CDATA[Podsvícená klávesnice a 14palcový displej s rozlišením Full HD a antireflexním povrchem zpříjemňují hraní po setmění.]]></copy>
+                </item>
+            </features>
+        </Alienware14>
+        <Alienware17 name="aw17">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Robustní tělo]]></title>
+                    <copy><![CDATA[Pouzdro z eloxovaného hliníku a rám z hořčíkové slitiny chrání displej.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Odolný závěs]]></title>
+                    <copy>
+                        <![CDATA[Na závěs konstruovaný až na 20 000 otevření a zavření se můžete spolehnout.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Přitažlivé osvětlení ]]></title>
+                    <copy><![CDATA[Externí osvětlení si můžete přizpůsobit do více než 10 miliardám barevných kombinací.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Porty]]></title>
+                    <copy><![CDATA[K mnoha portům můžete připojit všechny herní pomůcky a zrychlíte i stahování médií.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Elegantní nový design]]></title>
+                    <copy><![CDATA[Odlišně konstruovaný počítač převyšuje standard.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Nejnovější grafika <br>a procesory]]></title>
+                    <copy>
+                        <![CDATA[Intenzivní hraní podporují také nejvyšší výkon a nejpokročilejší grafické technologie.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Displej s rozlišením Full HD]]></title>
+                    <copy>
+                        <![CDATA[Podsvícená klávesnice a 17,3palcový displej s rozlišením Full HD a antireflexním povrchem zpříjemňují hraní po setmění.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware17>
+        <Alienware18 name="aw18">
+            <features>
+                <item name="feature1">
+                    <title><![CDATA[Robustní tělo]]></title>
+                    <copy><![CDATA[Pouzdro z eloxovaného hliníku a rám z hořčíkové slitiny chrání displej.]]></copy>
+                </item>
+                <item name="feature2">
+                    <title><![CDATA[Odolný závěs]]></title>
+                    <copy>
+                        <![CDATA[Na závěs konstruovaný až na 20 000 otevření a zavření se můžete spolehnout.]]></copy>
+                </item>
+                <item name="feature3">
+                    <title><![CDATA[Přitažlivé osvětlení]]></title>
+                    <copy><![CDATA[Externí osvětlení si můžete přizpůsobit do více než 10 miliardám barevných kombinací.]]></copy>
+                </item>
+                <item name="feature4">
+                    <title width="-100"><![CDATA[Porty]]></title>
+                    <copy><![CDATA[K mnoha portům můžete připojit všechny herní pomůcky a zrychlíte i stahování médií.]]></copy>
+                </item>
+                <item name="feature5">
+                    <title><![CDATA[Elegantní nový design]]></title>
+                    <copy><![CDATA[Odlišně konstruovaný počítač převyšuje standard.]]></copy>
+                </item>
+                <item name="feature6">
+                    <title width="-60"><![CDATA[Nejnovější grafika <br>a procesory]]></title>
+                    <copy>
+                        <![CDATA[Intenzivní hraní podporují také nejvyšší výkon, dva grafické adaptéry a volitelné přetaktování.]]></copy>
+                </item>
+                <item name="feature7">
+                    <title><![CDATA[Displej s rozlišením Full HD]]></title>
+                    <copy>
+                        <![CDATA[Podsvícená klávesnice a obrovský 18,4palcový displej s rozlišením Full HD a technologií TrueLife™ zpříjemňují hraní po setmění.]]></copy>
+                </item>
+
+            </features>
+
+        </Alienware18>
+    </design>
+    <commandCenter>
+        <tab>
+            <title><![CDATA[Přehled]]></title>
+            <image>
+                <header><![CDATA[Command Center]]></header>
+                <copy>
+                    <![CDATA[Převezměte kontrolu nad hrou. Pomůže vám nově navržený software Alienware Command Center. Můžete si v něm vybrat vlastní osvětlení a speciální efekty, zvýšit výkon, sledovat herní výsledky a mnoho dalšího – a to vše v jednom centru.]]></copy></image>
+
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFX]]></title>
+            <image>
+                <header><![CDATA[Motivy]]></header>
+                <copy>
+                    <![CDATA[Vytvořte si vlastní speciální efekty a motivy vyjádřené v jedinečném vzhledu.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Světelné efekty a programovatelné události]]></header>
+                <copy>
+                    <![CDATA[Nastavte pro jednotlivé zóny změny barev, pulsování, svícení nebo upozorňování na události pomocí 20barevné palety.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Hry propojené s osvětlením AlienFX]]></header>
+                <copy>
+                    Ve více než 55 hrách kompatibilních s osvětlením AlienFX si můžete <![CDATA[nastavit speciální světelné efekty používané podle aktuálních událostí ve hře.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienAdrenaline]]></title>
+            <image>
+                <header><![CDATA[Herní režim]]></header>
+                <copy>
+                    <![CDATA[Pomocí motivů nebo připojení VOIP můžete nastavit, jak chcete konkrétní hru nebo aplikaci spouštět a které aplikace chcete při spuštění ukončit nebo spustit současně.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Akcelerátor]]></header>
+                <copy>
+                    <![CDATA[Dočasným ukončením nepotřebných aplikací pro Windows dáte počítači raketovou rychlost. Konfigurace nebude změněna a po dohrání se vrátí do původního stavu.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Sledování výkonu]]></header>
+                <copy>
+                    Nástroj pro sledování výkonu a identifikaci potíží v reálném čase i zpětně sleduje využití pevného disku, paměti, sítě, procesoru <![CDATA[i grafického adaptéru.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTactX]]></title>
+            <image>
+                <header><![CDATA[Programovatelná tlačítka pro makra]]></header>
+                <copy>
+                    <![CDATA[Tlačítkům ve svislé i vodorovné řadě můžete přiřadit různé funkce. Jedním stisknutím tlačítka můžete přehrávat kombinace úhozů na klávesy, provádět nastavené úkony s e-mailem, webovým prohlížečem či přehrávačem médií nebo spouštět programy. K dispozici pouze pro Alienware 17 a Alienware 18.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Import a export profilů]]></header>
+                <copy>
+                    <![CDATA[Vytvořte si pro jednotlivé hry profily, které můžete používat sami nebo sdílet s přáteli. Po dohrání můžete obnovit běžný profil pro každodenní používání. K dispozici pouze pro Alienware 17 a Alienware 18.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienTouch]]></title>
+            <image>
+                <header><![CDATA[Nastavení ovládání prsty]]></header>
+                <copy>
+                    <![CDATA[Přizpůsobte si nastavení – povolte funkci „klepnutí a přetažení“ nebo „zamknutí přetahování“ nebo zakažte gesta úplně.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Citlivost]]></header>
+                <copy>
+                    <![CDATA[Zvyšte nebo snižte citlivost dotykové podložky, tak více nebo méně citlivě reagovala na dotyk vaší dlaně.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Virtuální posouvání]]></header>
+                <copy>
+                    Určete si vlastní nastavení pro <![CDATA[svislé i vodorovné posouvání gesty (AlienTouch) a upravte si velikost oblastí pro posouvání ve vodorovném i svislém směru podle svých představ.]]></copy>
+            </image>
+        </tab>
+        <tab>
+            <title><![CDATA[AlienFusion]]></title>
+            <image>
+                <header><![CDATA[Rychlé nastavení]]></header>
+                <copy>
+                    <![CDATA[Získejte kontrolu nad spotřebou energie Pohodlné možnosti rychlého nastavení vám umožní vybírat mezi režimy, například pro vysoký výkon, vyvážené nastavení nebo úspory energie.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Pokročilá nastavení]]></header>
+                <copy>
+                    <![CDATA[Nastavte, jak se mají chovat jednotlivé součásti, například bezdrátový adaptér, grafický procesor nebo jiné prvky. Získáte úplnou kontrolu nad hardwarem ve všech režimech napájení.]]></copy>
+            </image>
+            <image>
+                <header><![CDATA[Vlastní schémata napájení]]></header>
+                <copy>
+                    <![CDATA[Vytvořte si neomezený počet schémat napájení odpovídajících vašim potřebám. Optimalizujte si nastavení pro konkrétní hru a uložte ho. Nyní ho můžete upravovat v rozhraní Alien Fusion.  ]]></copy>
+            </image>
+        </tab>
+    </commandCenter>
+    <exploreLightingRx>
+        <copy><![CDATA[Vytvořte si vlastní schéma osvětlení – máte na výběr 10 240 miliard možných kombinací.]]></copy>
+        <button><![CDATA[skrýt ovládání]]></button>
+    </exploreLightingRx>
+    <gallery>
+        <image>
+            <title><![CDATA[Společně zvítězíme.]]></title>
+            <copy><![CDATA[S novou generaci notebooků Alienware si dokonalé hraní.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 14]]></title>
+            <copy><![CDATA[Výkon do batohu..]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 17]]></title>
+            <copy><![CDATA[Herní výkon jako stolní počítač. Ale není to stolní počítač.]]></copy>
+        </image>
+        <image>
+            <title><![CDATA[Alienware 18]]></title>
+            <copy><![CDATA[Nejvýkonnější 18palcový herní notebook v celém vesmíru.]]></copy>
+        </image>
+    </gallery>
+    <videoGallerr>
+        <video>
+            <productCategory><![CDATA[Video]]></productCategory>
+            <title><![CDATA[Alienware – hrajte jako vítěz]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Expert AW 14]]></productCategory>
+            <title><![CDATA[Odborná recenze: Alienware 14]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Expert AW 17]]></productCategory>
+            <title><![CDATA[Odborná recenze: Alienware 17]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Expert AW 18]]></productCategory>
+            <title><![CDATA[Odborná recenze: Alienware 18]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Hero AW 14]]></productCategory>
+            <title><![CDATA[Nový Alienware 14: Vyzkoušejte si ho]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Hero AW 17]]></productCategory>
+            <title><![CDATA[Nový Alienware 17: Vyzkoušejte si ho]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Product Hero AW 18]]></productCategory>
+            <title><![CDATA[Nový Alienware 18: Vyzkoušejte si ho]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Rodinný hrdina]]></productCategory>
+            <title><![CDATA[Nové notebooky Alienware: špičkové hraní]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Vznik]]></productCategory>
+            <title><![CDATA[Epochální cesta: vznik notebooku Alienware]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Tajemství počítače: vnitřní konstrukce]]></productCategory>
+            <title><![CDATA[Tajemství počítače: vnitřní konstrukce]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Tajemství počítače: EPIC]]></productCategory>
+            <title><![CDATA[Tajemství počítače: průmyslový design]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Tajemství počítače: Command Center]]></productCategory>
+            <title><![CDATA[Tajemství počítače: Command Center]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Tajemství počítače: Command Center]]></productCategory>
+            <title><![CDATA[Command Center:  AlienFX™]]></title>
+        </video>
+        <video>
+            <productCategory><![CDATA[Tajemství počítače: Command Center]]></productCategory>
+            <title><![CDATA[Command Center:  AlienTouch™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Tajemství počítače: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: AlienFusion]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Tajemství počítače: Command Center]]></productCategory>
+            <title><![CDATA[Command Center:  TactX™]]></title>
+        </video>
+         <video>
+            <productCategory><![CDATA[Tajemství počítače: Command Center]]></productCategory>
+            <title><![CDATA[Command Center: AlienAdrenaline]]></title>
+        </video>
+    </videoGallerr>
+</copy>
